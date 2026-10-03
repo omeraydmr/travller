@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Kayıtlı cihazlara kurulacak geliştirme dağıtımı (App Store değil). -->
+	<key>method</key>
+	<string>debugging</string>
+	<key>teamID</key>
+	<string>4BAD86T55H</string>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>

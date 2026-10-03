@@ -47,7 +47,7 @@ export function validate(body: unknown): Contribution | string {
   for (const p of c.places) {
     if (typeof p?.ref !== "string" || p.ref.length > 64 || refs.has(p.ref)) return "ref";
     refs.add(p.ref);
-    if (typeof p.name !== "string" || p.name.trim().length < 2 || p.name.length > 120) return "name";
+    if (typeof p.name !== "string" || !isPlausibleName(p.name)) return "name";
     if (typeof p.lat !== "number" || typeof p.lon !== "number" || Math.abs(p.lat) > 90 || Math.abs(p.lon) > 180) return "coordinate";
     if (!KINDS.has(p.kind)) return "kind";
     if (![1, 0, -1].includes(p.liked)) return "liked";
@@ -60,6 +60,32 @@ export function validate(body: unknown): Contribution | string {
     if (!Array.isArray(t) || t.length !== 2 || !refs.has(t[0]) || !refs.has(t[1]) || t[0] === t[1]) return "transition";
   }
   return { country: c.country, places: c.places, transitions };
+}
+
+/** Yer adı gibi görünüyor mu: bağlantı, e-posta, telefon numarası ya da yalnızca rakam/simge değil. */
+export function isPlausibleName(name: string): boolean {
+  const text = name.trim();
+  if (text.length < 2 || text.length > 80 || !/\p{L}/u.test(text)) return false;
+  if (/https?:|www\.|\.(com|net|org|io|ru|xyz)\b|@|t\.me\//i.test(text)) return false;
+  if ((text.match(/\d/g) ?? []).length >= 7) return false; // telefon numarası
+  return !/(.)\1{5,}/.test(text); // "!!!!!!", "aaaaaa"
+}
+
+/** Bildirimle gizlenme: en az 3 farklı kişi bildirdiyse ya da bildiren sayısı katkı verenlerin yarısına ulaştıysa. */
+export const REPORT_FILTER = "(SELECT COUNT(*) FROM reports r WHERE r.place_id = p.id)";
+const VISIBLE = `${REPORT_FILTER} < 3 AND ${REPORT_FILTER} * 2 < COUNT(*)`;
+
+export const REPORT_REASONS = new Set(["wrong", "closed", "spam", "offensive"]);
+
+export async function report(db: Database, contributor: string, placeID: number, reason: string, now = Date.now()): Promise<boolean> {
+  if (!Number.isInteger(placeID) || !REPORT_REASONS.has(reason)) return false;
+  const exists = await db.prepare("SELECT id FROM places WHERE id = ?").bind(placeID).first<{ id: number }>();
+  if (!exists) return false;
+  await db.prepare(
+    `INSERT INTO reports (place_id, contributor, reason, created_at) VALUES (?, ?, ?, ?)
+     ON CONFLICT (place_id, contributor) DO UPDATE SET reason = excluded.reason, created_at = excluded.created_at`,
+  ).bind(placeID, contributor, reason, now).run();
+  return true;
 }
 
 export async function contributorHash(rawID: string, salt: string): Promise<string> {
@@ -158,7 +184,7 @@ export async function nearby(db: Database, lat: number, lon: number, radiusMeter
        FROM places p JOIN votes v ON v.place_id = p.id
       WHERE p.lat BETWEEN ? AND ? AND p.lon BETWEEN ? AND ?
       GROUP BY p.id
-     HAVING contributors >= ? AND likes >= dislikes
+     HAVING contributors >= ? AND likes >= dislikes AND ${VISIBLE}
       ORDER BY score DESC
       LIMIT ?`,
   ).bind(lat - dLat, lat + dLat, lon - dLon, lon + dLon, MIN_CONTRIBUTORS, limit).all<CommunityPlace>();
@@ -181,7 +207,7 @@ export async function nextPlaces(db: Database, lat: number, lon: number, limit =
        JOIN places p ON p.id = t.to_id
       WHERE f.lat BETWEEN ? AND ? AND f.lon BETWEEN ? AND ?
       GROUP BY p.id
-     HAVING followers >= ?
+     HAVING followers >= ? AND ${REPORT_FILTER} < 3
       ORDER BY followers DESC
       LIMIT ?`,
   ).bind(lat - d, lat + d, lon - d * 1.5, lon + d * 1.5, MIN_CONTRIBUTORS, limit)

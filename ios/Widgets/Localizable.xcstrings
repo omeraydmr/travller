@@ -91,16 +91,6 @@
         }
       }
     },
-    "İptal" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cancel"
-          }
-        }
-      }
-    },
     "Kalkışa" : {
       "localizations" : {
         "en" : {
@@ -217,16 +207,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Next trip"
-          }
-        }
-      }
-    },
-    "Terminal" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Terminal"
           }
         }
       }

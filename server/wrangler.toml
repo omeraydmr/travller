@@ -1,31 +1,53 @@
-name = "traveller-live"
+# Stubly sunucusu: iki ortam, ayrı Worker, D1 ve KV.
+#   staging    → stubly-api-staging (Xcode'dan kurulan Debug sürümleri)
+#   production → stubly-api         (TestFlight ve App Store sürümleri)
+# Yayın: npx wrangler deploy --env staging | --env production
+# Şema:  npx wrangler d1 migrations apply stubly-staging --env staging --remote
+#        npx wrangler d1 migrations apply stubly-prod --env production --remote
+# Gizli değerler her ortam için ayrı (npx wrangler secret put <AD> --env <ortam>):
+#   CLIENT_KEY        uygulamanın X-Stubly-Key başlığı (Secrets.xcconfig'teki STUBLY_*_KEY ile aynı)
+#   CONTRIBUTOR_SALT  katkı veren kimliklerini özetlemek için uzun rastgele değer (değiştirmeyin)
+name = "stubly-api"
 main = "src/index.ts"
 compatibility_date = "2026-09-01"
 
-# Kayıtlı canlı kartlar (push token → uçuş). Oluştur: npx wrangler kv namespace create ACTIVITIES
-[[kv_namespaces]]
-binding = "ACTIVITIES"
-id = "f882ce8eca3048348496372dfbcd74ed"
+[env.staging]
+name = "stubly-api-staging"
 
-# Topluluk öneri havuzu. Oluştur: npx wrangler d1 create traveller-community
-# Şema: npx wrangler d1 migrations apply traveller-community --remote
-[[d1_databases]]
+# App Attest challenge'ları (5 dk ömürlü).
+[[env.staging.kv_namespaces]]
+binding = "KV"
+id = "19838e84511e4f9c839838ada1d4e9b9"
+
+# Topluluk öneri havuzu.
+[[env.staging.d1_databases]]
 binding = "DB"
-database_name = "traveller-community"
-database_id = "e90a5467-10e9-4f58-a14f-8ed63a1ca427"
+database_name = "stubly-staging"
+database_id = "69785075-3d69-44c6-9a4f-615a41b84b19"
 migrations_dir = "migrations"
 
-# Uçuşlar 5 dakikada bir kontrol edilir.
-[triggers]
-crons = ["*/5 * * * *"]
+# App Attest: uygulama kimliği; katkıların imzalı olması zorunlu mu; Xcode'dan kurulan geliştirme sürümlerinin
+# attestation'ı kabul edilsin mi.
+[env.staging.vars]
+APP_ID = "4BAD86T55H.com.omeraydemir.stubly"
+REQUIRE_APP_ATTEST = "false"
+ALLOW_DEV_ATTEST = "true"
 
-[vars]
-APNS_BUNDLE_ID = "app.traveller.ios"
+[env.production]
+name = "stubly-api"
 
-# Gizli değerler (npx wrangler secret put <AD>):
-#   CLIENT_KEY        uygulamanın X-Traveller-Key başlığı (uygulamadaki LIVE_ACTIVITY_SERVER_KEY ile aynı)
-#   CONTRIBUTOR_SALT  katkı veren kimliklerini özetlemek için uzun rastgele değer (değiştirmeyin)
-#   RAPIDAPI_KEY      AeroDataBox (RapidAPI) anahtarı
-#   APNS_KEY_ID       Apple Developer > Keys'teki APNs anahtarının kimliği
-#   APNS_TEAM_ID      Takım kimliği (4BAD86T55H)
-#   APNS_PRIVATE_KEY  .p8 dosyasının içeriği (BEGIN/END satırlarıyla)
+[[env.production.kv_namespaces]]
+binding = "KV"
+id = "c62543bd9f50416b9ba0106354ff1419"
+
+[[env.production.d1_databases]]
+binding = "DB"
+database_name = "stubly-prod"
+database_id = "1aacd4b3-c064-4fb9-a26e-643c9fce7f91"
+migrations_dir = "migrations"
+
+# Üretimde yalnızca App Store / TestFlight attestation'ı geçerli; zorunluluk uygulama yayına çıkınca "true" yapılır.
+[env.production.vars]
+APP_ID = "4BAD86T55H.com.omeraydemir.stubly"
+REQUIRE_APP_ATTEST = "false"
+ALLOW_DEV_ATTEST = "false"

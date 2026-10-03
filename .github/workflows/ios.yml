@@ -11,15 +11,15 @@ concurrency:
 
 jobs:
   kit-tests:
-    name: TravellerKit tests
+    name: StublyKit tests
     runs-on: macos-15
     steps:
       - uses: actions/checkout@v4
       - name: Run tests
-        run: swift test --package-path ios/Packages/TravellerKit
+        run: swift test --package-path ios/Packages/StublyKit
 
   server-tests:
-    name: Live Activity server tests
+    name: Server tests
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -45,8 +45,8 @@ jobs:
         run: |
           set -o pipefail
           xcodebuild build \
-            -project Traveller.xcodeproj \
-            -scheme Traveller \
+            -project Stubly.xcodeproj \
+            -scheme Stubly \
             -destination 'generic/platform=iOS Simulator' \
             -configuration Debug \
             CODE_SIGNING_ALLOWED=NO \

@@ -2,12 +2,14 @@ import assert from "node:assert/strict";
 import { DatabaseSync } from "node:sqlite";
 import { readFileSync } from "node:fs";
 import test from "node:test";
-import { contribute, contributorHash, DAILY_QUOTA, nearby, nextPlaces, validate, type Contribution, type Database } from "./community.ts";
+import { contribute, contributorHash, DAILY_QUOTA, isPlausibleName, nearby, nextPlaces, report, validate, type Contribution, type Database } from "./community.ts";
 
 /** node:sqlite'ı D1 arayüzüne uyduran küçük adaptör. */
 function d1(): Database {
   const db = new DatabaseSync(":memory:");
-  db.exec(readFileSync(new URL("../migrations/0001_community.sql", import.meta.url), "utf8"));
+  for (const file of ["0001_community.sql", "0002_attest_reports.sql"]) {
+    db.exec(readFileSync(new URL(`../migrations/${file}`, import.meta.url), "utf8"));
+  }
   return {
     prepare(sql: string) {
       let values: unknown[] = [];
@@ -92,4 +94,34 @@ test("contributor hash is salted and stable", async () => {
   assert.equal(await contributorHash(id, "s"), await contributorHash(id, "s"));
   assert.notEqual(await contributorHash(id, "s"), await contributorHash(id, "t"));
   assert.ok(!(await contributorHash(id, "s")).includes("3f2504e0"));
+});
+
+test("reported places disappear from suggestions", async () => {
+  const db = d1();
+  for (const u of ["u1", "u2", "u3", "u4", "u5", "u6", "u7"]) await contribute(db, u, trip());
+  const [first] = await nearby(db, 38.712, -9.138);
+  assert.equal(await report(db, "r1", first.id, "spam"), true);
+  assert.equal(await report(db, "r1", first.id, "wrong"), true, "aynı kişi tekrar: güncellenir, sayılmaz");
+  assert.equal(await report(db, "r2", first.id, "closed"), true);
+  assert.ok((await nearby(db, 38.712, -9.138)).some((p) => p.id === first.id), "2 bildirim / 7 katkı: görünür");
+  await report(db, "r3", first.id, "offensive");
+  assert.ok(!(await nearby(db, 38.712, -9.138)).some((p) => p.id === first.id), "3 bildirim: gizlenir");
+  assert.equal(await report(db, "r4", first.id, "nonsense"), false, "bilinmeyen sebep");
+  assert.equal(await report(db, "r4", 999_999, "spam"), false, "olmayan yer");
+});
+
+test("half of contributors reporting hides a place early", async () => {
+  const db = d1();
+  for (const u of ["u1", "u2", "u3", "u4"]) await contribute(db, u, trip());
+  const [first] = await nearby(db, 38.712, -9.138);
+  await report(db, "u1", first.id, "wrong");
+  await report(db, "u2", first.id, "wrong");
+  assert.ok(!(await nearby(db, 38.712, -9.138)).some((p) => p.id === first.id));
+});
+
+test("spammy place names are rejected", () => {
+  for (const ok of ["Pastéis de Belém", "Café 1908", "東京タワー", "LX Factory"]) assert.equal(isPlausibleName(ok), true, ok);
+  for (const bad of ["www.cheap-tours.com", "Visit https://x.io", "Call +90 555 123 45 67", "info@spam.net", "!!!!!!!!", "12345", "a"])
+    assert.equal(isPlausibleName(bad), false, bad);
+  assert.equal(validate(trip({ places: [{ ...castle, name: "best deals www.x.com" }], transitions: [] })), "name");
 });

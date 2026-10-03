@@ -1,0 +1,1100 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project Traveller.xcodeproj -scheme Traveller -destination id=00008120-000424E63EF8201E -derivedDataPath build/DerivedData -allowProvisioningUpdates build
+
+Resolve Package Graph
+
+
+Resolved source packages:
+  TravellerKit: /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit
+
+ComputePackagePrebuildTargetDependencyGraph
+
+Prepare packages
+
+CreateBuildRequest
+
+SendProjectDescription
+
+CreateBuildOperation
+
+ComputeTargetDependencyGraph
+note: Building targets in dependency order
+note: Target dependency graph (4 targets)
+    Target 'Traveller' in project 'Traveller'
+        ➜ Explicit dependency on target 'TravellerWidgets' in project 'Traveller'
+        ➜ Explicit dependency on target 'TravellerKit-product' in project 'TravellerKit'
+    Target 'TravellerWidgets' in project 'Traveller'
+        ➜ Explicit dependency on target 'TravellerKit-product' in project 'TravellerKit'
+    Target 'TravellerKit-product' in project 'TravellerKit'
+        ➜ Explicit dependency on target 'TravellerKit' in project 'TravellerKit'
+    Target 'TravellerKit' in project 'TravellerKit' (no dependencies)
+
+GatherProvisioningInputs
+
+CreateBuildDescription
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc --version
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -v -E -dM -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -x c -c /dev/null
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld -version_details
+
+Build description signature: 49a57f8394e3106ca6f1caf939adcebf
+Build description path: /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/XCBuildData/49a57f8394e3106ca6f1caf939adcebf.xcbuilddata
+ClangStatCache /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKStatCaches.noindex/iphoneos27.0-24A430-6c78b3cbc238196c85e1bf6c792c5915.sdkstatcache
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKStatCaches.noindex/iphoneos27.0-24A430-6c78b3cbc238196c85e1bf6c792c5915.sdkstatcache
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-project-headers.hmap (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-project-headers.hmap
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-all-target-headers.hmap (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-all-target-headers.hmap
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-DebugEntryPoint-normal-arm64.txt (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-DebugEntryPoint-normal-arm64.txt
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-all-non-framework-target-headers.hmap (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-all-non-framework-target-headers.hmap
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-DebugDylibInstallName-normal-arm64.txt (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-DebugDylibInstallName-normal-arm64.txt
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.hmap (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.hmap
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-generated-files.hmap (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-generated-files.hmap
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-DebugDylibPath-normal-arm64.txt (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-DebugDylibPath-normal-arm64.txt
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-own-target-headers.hmap (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-own-target-headers.hmap
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.LinkFileList (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.LinkFileList
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets_const_extract_protocols.json (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets_const_extract_protocols.json
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.DependencyStaticMetadataFileList (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.DependencyStaticMetadataFileList
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.DependencyMetadataFileList (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.DependencyMetadataFileList
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.SwiftFileList (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.SwiftFileList
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.SwiftConstValuesFileList (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.SwiftConstValuesFileList
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets-OutputFileMap.json (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets-OutputFileMap.json
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.SwiftFileList (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.SwiftFileList
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.SwiftConstValuesFileList (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.SwiftConstValuesFileList
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.LinkFileList (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.LinkFileList
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/DerivedSources/Entitlements.plist (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/DerivedSources/Entitlements.plist
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit-OutputFileMap.json (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit-OutputFileMap.json
+
+MkDir /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /bin/mkdir -p /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller.DependencyMetadataFileList (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller.DependencyMetadataFileList
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.SwiftFileList (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.SwiftFileList
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller-OutputFileMap.json (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller-OutputFileMap.json
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/DerivedSources/Entitlements.plist (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/DerivedSources/Entitlements.plist
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.LinkFileList (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.LinkFileList
+
+WriteAuxiliaryFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.SwiftConstValuesFileList (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    write-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.SwiftConstValuesFileList
+
+MkDir /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/PlugIns (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /bin/mkdir -p /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/PlugIns
+
+SwiftDriver TravellerKit normal arm64 com.apple.xcode.tools.swift.compiler (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftDriver -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -parse-as-library -module-name TravellerKit -Onone @/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.SwiftFileList -DSWIFT_PACKAGE -DDEBUG -DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE -DXcode -plugin-path /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -target arm64-apple-ios17.0 -g -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 5 -I /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -Isystem /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks -F /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk/Developer/Library/Frameworks -c -j12 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKStatCaches.noindex/iphoneos27.0-24A430-6c78b3cbc238196c85e1bf6c792c5915.sdkstatcache -output-file-map /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -package-name travellerkit -emit-const-values -const-gather-protocols-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit_const_extract_protocols.json -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/include -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/DerivedSources-normal/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/DerivedSources/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/DerivedSources -Xcc -DSWIFT_PACKAGE -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit-Swift.h -working-directory /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj -experimental-emit-module-separately -disable-cmo
+
+SwiftCompile normal arm64 Compiling\ Airports.swift,\ BookingParser.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Airports.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/BookingParser.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Airports.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile Airports.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/BookingParser.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile BookingParser.swift
+
+SwiftCompile normal arm64 Compiling\ NotificationPlanner.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/NotificationPlanner.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/NotificationPlanner.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile NotificationPlanner.swift
+
+SwiftCompile normal arm64 Compiling\ People.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/People.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/People.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile People.swift
+
+SwiftCompile normal arm64 Compiling\ PhotoClusterer.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/PhotoClusterer.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/PhotoClusterer.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile PhotoClusterer.swift
+
+SwiftCompile normal arm64 Compiling\ Schengen.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Schengen.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Schengen.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile Schengen.swift
+
+SwiftCompile normal arm64 Compiling\ TripChanges.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/TripChanges.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/TripChanges.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile TripChanges.swift
+
+SwiftCompile normal arm64 Compiling\ VisaRules.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/VisaRules.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/VisaRules.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile VisaRules.swift
+
+SwiftCompile normal arm64 Compiling\ FlightStatus.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/FlightStatus.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/FlightStatus.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile FlightStatus.swift
+
+SwiftCompile normal arm64 Compiling\ Models.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Models.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Models.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile Models.swift
+
+SwiftCompile normal arm64 Compiling\ WidgetSnapshot.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/WidgetSnapshot.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/WidgetSnapshot.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile WidgetSnapshot.swift
+
+SwiftCompile normal arm64 Compiling\ Geo.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Geo.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Geo.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile Geo.swift
+
+SwiftEmitModule normal arm64 Emitting\ module\ for\ TravellerKit (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    
+
+SwiftCompile normal arm64 Compiling\ OpeningHours.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/OpeningHours.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/OpeningHours.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile OpeningHours.swift
+
+SwiftDriverJobDiscovery normal arm64 Compiling TripChanges.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriverJobDiscovery normal arm64 Compiling People.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriverJobDiscovery normal arm64 Compiling PhotoClusterer.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriverJobDiscovery normal arm64 Compiling Geo.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriverJobDiscovery normal arm64 Compiling Schengen.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriverJobDiscovery normal arm64 Compiling NotificationPlanner.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriverJobDiscovery normal arm64 Compiling VisaRules.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriverJobDiscovery normal arm64 Compiling FlightStatus.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 Compiling\ Packing.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Packing.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Packing.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile Packing.swift
+
+SwiftCompile normal arm64 Compiling\ Budget.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Budget.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Budget.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile Budget.swift
+
+SwiftCompile normal arm64 Compiling\ Settlement.swift /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Settlement.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit/Sources/TravellerKit/Settlement.swift (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-SwiftPerFileCompile Settlement.swift
+
+SwiftDriverJobDiscovery normal arm64 Emitting module for TravellerKit (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriver\ Compilation\ Requirements TravellerKit normal arm64 com.apple.xcode.tools.swift.compiler (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-Swift-Compilation-Requirements -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -parse-as-library -module-name TravellerKit -Onone @/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.SwiftFileList -DSWIFT_PACKAGE -DDEBUG -DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE -DXcode -plugin-path /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -target arm64-apple-ios17.0 -g -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 5 -I /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -Isystem /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks -F /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk/Developer/Library/Frameworks -c -j12 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKStatCaches.noindex/iphoneos27.0-24A430-6c78b3cbc238196c85e1bf6c792c5915.sdkstatcache -output-file-map /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -package-name travellerkit -emit-const-values -const-gather-protocols-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit_const_extract_protocols.json -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/include -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/DerivedSources-normal/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/DerivedSources/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/DerivedSources -Xcc -DSWIFT_PACKAGE -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit-Swift.h -working-directory /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj -experimental-emit-module-separately -disable-cmo
+
+Copy /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerKit.swiftmodule/arm64-apple-ios.swiftmodule /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.swiftmodule (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.swiftmodule /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerKit.swiftmodule/arm64-apple-ios.swiftmodule
+
+Copy /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerKit.swiftmodule/arm64-apple-ios.swiftdoc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.swiftdoc (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.swiftdoc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerKit.swiftmodule/arm64-apple-ios.swiftdoc
+
+Copy /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerKit.swiftmodule/arm64-apple-ios.abi.json /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.abi.json (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.abi.json /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerKit.swiftmodule/arm64-apple-ios.abi.json
+
+Copy /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.swiftsourceinfo (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.swiftsourceinfo /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo
+
+ProcessProductPackaging /Users/omeraydemir/Library/Developer/Xcode/UserData/Provisioning\ Profiles/f62807d3-b241-4925-b275-7364b6b5d42b.mobileprovision /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/embedded.mobileprovision (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-productPackagingUtility /Users/omeraydemir/Library/Developer/Xcode/UserData/Provisioning\ Profiles/f62807d3-b241-4925-b275-7364b6b5d42b.mobileprovision -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/embedded.mobileprovision
+
+ProcessProductPackaging /Users/omeraydemir/Github/travller/ios/Support/Widgets.entitlements /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.appex.xcent (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    
+    Entitlements:
+    
+    {
+    "application-identifier" = "4BAD86T55H.app.traveller.ios.widgets";
+    "com.apple.developer.team-identifier" = 4BAD86T55H;
+    "com.apple.security.application-groups" =     (
+        "group.app.traveller.ios"
+    );
+    "get-task-allow" = 1;
+}
+    
+    builtin-productPackagingUtility /Users/omeraydemir/Github/travller/ios/Support/Widgets.entitlements -entitlements -format xml -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.appex.xcent
+
+ProcessProductPackagingDER /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.appex.xcent /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.appex.xcent.der (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /usr/bin/derq query -f xml -i /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.appex.xcent -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.appex.xcent.der --raw
+
+SwiftDriverJobDiscovery normal arm64 Compiling WidgetSnapshot.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriver TravellerWidgets normal arm64 com.apple.xcode.tools.swift.compiler (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftDriver -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name TravellerWidgets -Onone @/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.SwiftFileList -DDEBUG -enable-bare-slash-regex -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -target arm64-apple-ios17.0 -g -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -application-extension -enable-testing -index-store-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 5 -I /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -c -j12 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKStatCaches.noindex/iphoneos27.0-24A430-6c78b3cbc238196c85e1bf6c792c5915.sdkstatcache -output-file-map /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -emit-const-values -const-gather-protocols-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets_const_extract_protocols.json -Xcc -iquote -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-generated-files.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-own-target-headers.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller-7c3a0b71ac489ad22872517d5333f619-VFS-iphoneos/all-product-headers.yaml -Xcc -iquote -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-project-headers.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/include -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/DerivedSources-normal/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/DerivedSources/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets-Swift.h -working-directory /Users/omeraydemir/Github/travller/ios -experimental-emit-module-separately -disable-cmo
+
+SwiftDriverJobDiscovery normal arm64 Compiling Packing.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriverJobDiscovery normal arm64 Compiling Settlement.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriverJobDiscovery normal arm64 Compiling Budget.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriverJobDiscovery normal arm64 Compiling OpeningHours.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriverJobDiscovery normal arm64 Compiling Airports.swift, BookingParser.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/DeveloperToolsSupport-DHXWRQZLIGL17FL8ON3Q45JJV.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_Builtin_stddef-58ZQSIZRJ9ZMO3ARU9XUCI88G.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_Builtin_stdbool-C36QUCXHPZ03QUQC8C5P8FDLJ.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/ActivityKit-982JVJGESD77O1XXYSPG8JZ41.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_SwiftConcurrencyShims-4ULYC5VGZDB5VV2I6842NB5KC.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_AvailabilityInternal-D88WXGFUU5UF9DH2XZ9OLCN7A.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_Builtin_stdarg-39BPQB6ZUEM9BSQLF7B4OP9HI.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_Builtin_float-1QOBV4DSMQEEULCXO9KFLOKP1.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/ptrcheck-2NJI0YJ8NXNGVIJ71PX0E3AM3.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/ptrauth-6L09OQ8R7LVFU3179AT6NKFE0.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/SwiftShims-8K912NRU98MGIO25NB9BE27NF.pcm
+
+SwiftDriverJobDiscovery normal arm64 Compiling Models.swift (in target 'TravellerKit' from project 'TravellerKit')
+
+SwiftDriver\ Compilation TravellerKit normal arm64 com.apple.xcode.tools.swift.compiler (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj
+    builtin-Swift-Compilation -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -parse-as-library -module-name TravellerKit -Onone @/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.SwiftFileList -DSWIFT_PACKAGE -DDEBUG -DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE -DXcode -plugin-path /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -target arm64-apple-ios17.0 -g -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 5 -I /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -Isystem /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks -F /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk/Developer/Library/Frameworks -c -j12 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKStatCaches.noindex/iphoneos27.0-24A430-6c78b3cbc238196c85e1bf6c792c5915.sdkstatcache -output-file-map /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -package-name travellerkit -emit-const-values -const-gather-protocols-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit_const_extract_protocols.json -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/include -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/DerivedSources-normal/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/DerivedSources/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/DerivedSources -Xcc -DSWIFT_PACKAGE -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit-Swift.h -working-directory /Users/omeraydemir/Github/travller/ios/Traveller.xcodeproj -experimental-emit-module-separately -disable-cmo
+
+Ld /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerKit.o normal (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios17.0 -r -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -O0 -Xlinker -no_warn_duplicate_libraries -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphoneos -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -iframework /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks -iframework /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk/Developer/Library/Frameworks -filelist /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.LinkFileList -nostdlib -Xlinker -object_path_lto -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit_lto.o -Xlinker -no_deduplicate -Xlinker -dependency_info -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit_dependency_info.dat -fobjc-link-runtime -L/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos -L/usr/lib/swift -Xlinker -add_ast_path -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.swiftmodule -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerKit.o
+
+ExtractAppIntentsMetadata (in target 'TravellerKit' from project 'TravellerKit')
+    cd /Users/omeraydemir/Github/travller/ios/Packages/TravellerKit
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/appintentsmetadataprocessor --toolchain-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain --module-name TravellerKit --sdk-root /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk --xcode-version 27A266a --platform-family iOS --deployment-target 17.0 --bundle-identifier travellerkit.TravellerKit --output /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerKit.appintents --target-triple arm64-apple-ios17.0 --binary-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerKit.o --dependency-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit_dependency_info.dat --stringsdata-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/ExtractedAppShortcutsMetadata.stringsdata --source-file-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.SwiftFileList --metadata-file-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/TravellerKit.DependencyMetadataFileList --static-metadata-file-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/TravellerKit.DependencyStaticMetadataFileList --swift-const-vals-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/TravellerKit.build/Debug-iphoneos/TravellerKit-t.build/Objects-normal/arm64/TravellerKit.SwiftConstValuesFileList --force --compile-time-extraction --deployment-aware-processing --no-app-shortcuts-localization
+2026-10-01 21:05:55.852 appintentsmetadataprocessor[82240:10978679] Starting appintentsmetadataprocessor export
+2026-10-01 21:05:55.904 appintentsmetadataprocessor[82240:10978679] Extracted no relevant App Intents symbols, skipping writing output
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_DarwinFoundation1-79G91Q9X052V9HX7JM3QTXTI3.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_DarwinFoundation2-67D9ILTGSCFV13UFK1B58K2ZK.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_Builtin_limits-QHXLSFLXOA4109UG8QQKEOY3.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/ExtensionFoundation-6ZKHQYK7HOXFQAXNOIG5NMZCJ.pcm
+
+Ld /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/__preview.dylib normal (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios17.0 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -O0 -Xlinker -no_warn_duplicate_libraries -L/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -install_name @rpath/TravellerWidgets.debug.dylib -Xlinker -dead_strip -rdynamic -Xlinker -no_deduplicate -Xlinker -dependency_info -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets_dependency_info.dat -Xlinker -no_adhoc_codesign -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/__preview.dylib
+
+ProcessInfoPlistFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/Info.plist /Users/omeraydemir/Github/travller/ios/Support/Widgets-Info.plist (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-infoPlistUtility /Users/omeraydemir/Github/travller/ios/Support/Widgets-Info.plist -producttype com.apple.product-type.app-extension -expandbuildsettings -format binary -platform iphoneos -requiredArchitecture arm64 -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/Info.plist
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_Builtin_tgmath-4Q8FOILC3STCUF9039KA8S4UG.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/sys_types-416W4B55SKL3A2BRZTG53F9AG.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/string_h-B4XYARCGDHR832WX1ERJRQSG.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_Builtin_stdint-DHUHSFE8P7WS55OJWWEPRW7VR.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_Builtin_stdatomic-6PJ40488GDZADMWPFKSY300WV.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_Builtin_intrinsics-C8EZUV0VULM2U07D3JRGOKVHU.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_DarwinFoundation3-6LKCJ2TX1EE426QJZOVEF9HOD.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_Builtin_inttypes-BXH1S2CCFFKAID7C5SOM8U2KH.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/Darwin-D84MVJFMO7B9KNZ191S6ZF5QA.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/simd-5LUM9G50FWQF7J8WCB0D2TQBM.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/ObjectiveC-9S8IUNBT1QHLME9A615FV28NT.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/MachO-CWFAO50HUCUCA8WTZ53JUCHEU.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/os_object-8A7AXL6WHWL6PO5UVSM2S10M2.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/os_workgroup-96ZB9J2RRDRSVQ9DBA5B3O5A7.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/Spatial-DOZCEYL4PCTY1GJPSAQ9OBKDP.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/Dispatch-70MGF2H6I4N6RTTHCBDJV081F.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/XPC-92E11C7ZY36LPM9ZIN7KPKUV.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/dnssd-ANC307J14G17HZBPWL6Q8J97.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreFoundation-QIDCU3PMIB4HG84AM9M7NTVQ.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/os-6GDGTBN2MKV3OMEMSJ2LS3380.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CFNetwork-N2SPOLUNK5HBDPFNP9B1BJ54.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/Security-8JXO26P6S05UWICTQ8ZIWJM0D.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreGraphics-7QQBEZ8WH57J8AKJ9FR3YC3TL.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreAudioTypes-5GF86XC2F0693GWQ2QD5D1FPQ.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreAudio-12HIU74AV6KCLJ7OEXU2LPEXI.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/Foundation-3U15VH7K5ZU6E1136XMNOU0OT.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/ImageIO-11C1W78ZFNY2173WPK31H1M6O.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreText-ZFV4GBJE4G8U8WVREBDSWGMZ.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/UniformTypeIdentifiers-9S3IIJI1ATMPHIYS1CT6URY1N.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/FileProvider-8MK9Z6TRJTNDAPSTMSRIGEOHJ.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/UserNotifications-1EMDINMMOU8VIYLH4UZ0VE9I3.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/Accessibility-6BKDO9VAOY91U8FZ4PNWAT3OR.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/AppIntents-4IKWN1KX16EIDGA86PQBZYK3U.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/UIUtilities-EVZ4XEMPBI97VBZN7P6LMNUH7.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/WidgetKit-BBFC8UN8FKDBEOR970CS7GXXI.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/RelevanceKit-2KHSYFILGG9FFPOGVR4QTU7HC.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/OSLog-2PWW88HB9AW9F0HIIZ81ZSYT2.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/DataDetection-AIV6WWDS06L1A4KZZARF5USKR.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreTransferable-E7ZUZ9X4U1JQLM8LDHCA8Q8OW.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/_LocationEssentials-3M7YMH9M27AHQ2NG6788HIG29.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/AppIntentsTypeSupport-3M6NCAAGNX7SGL86LQWXXWI79.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreData-16P0XIPUEYH8IHXJKC6VBO117.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/Symbols-2AJFYFCPSSOF4LAUIKJBKYUY6.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/IOSurface-AM2MECDT7UFRN431OANUGMTWY.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/Network-5H4RL3BDFB1TFKCNUGDHFSJGF.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreSpotlight-3KRNTR319DAN39Y26C6L3LS75.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreLocation-99KCOS3K542TB8WHNEMIPA8WK.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/OpenGLES-BDQSJYVFDIDWZ4FLG7ZRZFD0C.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/Metal-CA8NID9K7GGZCWOSDVLINMTK8.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/Intents-C0RYMYC7C40K9Y49FNHZCVUV1.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreMotion-PEO5AQALA64ECBYHHIPDM30L.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreVideo-41EH5ZGVV7DL9V2GDMLJ826NH.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/QuartzCore-47X0OEJQDFS7PGM743L50SHPW.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreImage-82AY0EMUH3FXUTWTYDBDSNHGP.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreMedia-75VIOPOGYJA15DZY8NRDAP3J8.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/SwiftUICore-14TP5S69JIPHQON9X489C88RI.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/UIKit-2X5KDFB9T50YDU4MWV8O5IDBG.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/SwiftUI-BLEJ9PD3IB0GY4H4X32DRI97H.pcm
+
+SwiftEmitModule normal arm64 Emitting\ module\ for\ TravellerWidgets (in target 'TravellerWidgets' from project 'Traveller')
+
+SwiftCompile normal arm64 (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    
+
+SwiftCompile normal arm64 Compiling\ TripWidget.swift /Users/omeraydemir/Github/travller/ios/Widgets/TripWidget.swift (in target 'TravellerWidgets' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Widgets/TripWidget.swift (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile TripWidget.swift
+
+SwiftCompile normal arm64 Compiling\ SharedContainer.swift /Users/omeraydemir/Github/travller/ios/Shared/SharedContainer.swift (in target 'TravellerWidgets' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Shared/SharedContainer.swift (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile SharedContainer.swift
+
+SwiftCompile normal arm64 Compiling\ FlightActivityAttributes.swift /Users/omeraydemir/Github/travller/ios/Shared/FlightActivityAttributes.swift (in target 'TravellerWidgets' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Shared/FlightActivityAttributes.swift (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile FlightActivityAttributes.swift
+
+SwiftCompile normal arm64 Compiling\ TravellerWidgets.swift /Users/omeraydemir/Github/travller/ios/Widgets/TravellerWidgets.swift (in target 'TravellerWidgets' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Widgets/TravellerWidgets.swift (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile TravellerWidgets.swift
+
+SwiftDriverJobDiscovery normal arm64 Emitting module for TravellerWidgets (in target 'TravellerWidgets' from project 'Traveller')
+
+SwiftDriver\ Compilation\ Requirements TravellerWidgets normal arm64 com.apple.xcode.tools.swift.compiler (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-Swift-Compilation-Requirements -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name TravellerWidgets -Onone @/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.SwiftFileList -DDEBUG -enable-bare-slash-regex -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -target arm64-apple-ios17.0 -g -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -application-extension -enable-testing -index-store-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 5 -I /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -c -j12 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKStatCaches.noindex/iphoneos27.0-24A430-6c78b3cbc238196c85e1bf6c792c5915.sdkstatcache -output-file-map /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -emit-const-values -const-gather-protocols-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets_const_extract_protocols.json -Xcc -iquote -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-generated-files.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-own-target-headers.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller-7c3a0b71ac489ad22872517d5333f619-VFS-iphoneos/all-product-headers.yaml -Xcc -iquote -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-project-headers.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/include -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/DerivedSources-normal/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/DerivedSources/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets-Swift.h -working-directory /Users/omeraydemir/Github/travller/ios -experimental-emit-module-separately -disable-cmo
+
+SwiftMergeGeneratedHeaders /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/DerivedSources/TravellerWidgets-Swift.h /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets-Swift.h (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-swiftHeaderTool -arch arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets-Swift.h -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/DerivedSources/TravellerWidgets-Swift.h
+
+Copy /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.swiftmodule/arm64-apple-ios.abi.json /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.abi.json (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.abi.json /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.swiftmodule/arm64-apple-ios.abi.json
+
+Copy /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.swiftmodule/arm64-apple-ios.swiftdoc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.swiftdoc (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.swiftdoc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.swiftmodule/arm64-apple-ios.swiftdoc
+
+Copy /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.swiftmodule/arm64-apple-ios.swiftmodule /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.swiftmodule (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.swiftmodule /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.swiftmodule/arm64-apple-ios.swiftmodule
+
+Copy /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.swiftsourceinfo (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.swiftsourceinfo /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo
+
+ProcessProductPackaging /Users/omeraydemir/Github/travller/ios/Support/Traveller.entitlements /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller.app.xcent (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    
+    Entitlements:
+    
+    {
+    "application-identifier" = "4BAD86T55H.app.traveller.ios";
+    "aps-environment" = development;
+    "com.apple.developer.icloud-container-identifiers" =     (
+        "iCloud.app.traveller.ios"
+    );
+    "com.apple.developer.icloud-services" =     (
+        CloudKit
+    );
+    "com.apple.developer.team-identifier" = 4BAD86T55H;
+    "com.apple.security.application-groups" =     (
+        "group.app.traveller.ios"
+    );
+    "get-task-allow" = 1;
+}
+    
+    builtin-productPackagingUtility /Users/omeraydemir/Github/travller/ios/Support/Traveller.entitlements -entitlements -format xml -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller.app.xcent
+
+ProcessProductPackaging /Users/omeraydemir/Library/Developer/Xcode/UserData/Provisioning\ Profiles/b745140e-c78b-4160-be55-093c53be255c.mobileprovision /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/embedded.mobileprovision (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-productPackagingUtility /Users/omeraydemir/Library/Developer/Xcode/UserData/Provisioning\ Profiles/b745140e-c78b-4160-be55-093c53be255c.mobileprovision -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/embedded.mobileprovision
+
+ProcessProductPackagingDER /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller.app.xcent /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller.app.xcent.der (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /usr/bin/derq query -f xml -i /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller.app.xcent -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller.app.xcent.der --raw
+
+SwiftDriver Traveller normal arm64 com.apple.xcode.tools.swift.compiler (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftDriver -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name Traveller -Onone @/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.SwiftFileList -DDEBUG -enable-bare-slash-regex -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -target arm64-apple-ios17.0 -g -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 5 -I /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -c -j12 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKStatCaches.noindex/iphoneos27.0-24A430-6c78b3cbc238196c85e1bf6c792c5915.sdkstatcache -output-file-map /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -emit-const-values -const-gather-protocols-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller_const_extract_protocols.json -Xcc -iquote -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-generated-files.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-own-target-headers.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller-7c3a0b71ac489ad22872517d5333f619-VFS-iphoneos/all-product-headers.yaml -Xcc -iquote -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-project-headers.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/include -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/DerivedSources-normal/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/DerivedSources/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller-Swift.h -working-directory /Users/omeraydemir/Github/travller/ios -experimental-emit-module-separately -disable-cmo
+
+SwiftDriverJobDiscovery normal arm64 Compiling SharedContainer.swift (in target 'TravellerWidgets' from project 'Traveller')
+
+SwiftDriverJobDiscovery normal arm64 Compiling FlightActivityAttributes.swift (in target 'TravellerWidgets' from project 'Traveller')
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/Intents-DQ1IN2APN74DJZ8O4AV5SWDGN.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/ActivityKit-8507GLFO2YR0MT3L74STQR0SJ.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/QuickLookThumbnailing-BMX1WIKI47OLJKECPOI0XDZBS.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/CoreSpotlight-D5UY4UE9VN06YYPHSFIISF8L4.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/AppIntentsTypeSupport-BX0QT1WA8QGHZ1N22VSJ4XZ4M.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/ExtensionKit-7QTY8N5DYWKCUJ3VEPMGSPLUJ.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/RelevanceKit-56NZ861M7JNQ412NK7HKXN40S.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/PDFKit-AMP2ITHCVYUQ5OMDON0535YLF.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/WidgetKit-B0V2CXZOLDYYOXE1U8KDRHGKU.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/BackgroundTasks-8ZABTIUNCZQ7K05ZWKV14K4HY.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/AppIntents-E9QMTWZ62EL4GS6LU77MZEM5H.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules/QuickLook-F3PNOVEHPSX4EN2K3DCKYQ3FG.pcm
+
+SwiftCompile normal arm64 Compiling\ Services.swift,\ SharedContainer.swift,\ Stamp.swift /Users/omeraydemir/Github/travller/ios/Traveller/Store/Services.swift /Users/omeraydemir/Github/travller/ios/Shared/SharedContainer.swift /Users/omeraydemir/Github/travller/ios/Traveller/DesignSystem/Stamp.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Store/Services.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile Services.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Shared/SharedContainer.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile SharedContainer.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/DesignSystem/Stamp.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile Stamp.swift
+
+SwiftCompile normal arm64 Compiling\ TripStore.swift,\ TripTheme.swift,\ TripTicketCard.swift /Users/omeraydemir/Github/travller/ios/Traveller/Store/TripStore.swift /Users/omeraydemir/Github/travller/ios/Traveller/DesignSystem/TripTheme.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/TripTicketCard.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Store/TripStore.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile TripStore.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/DesignSystem/TripTheme.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile TripTheme.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/TripTicketCard.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile TripTicketCard.swift
+
+SwiftEmitModule normal arm64 Emitting\ module\ for\ Traveller (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    
+
+/Users/omeraydemir/Github/travller/ios/Traveller/Store/CoverImageStore.swift:39:80: warning: main actor-isolated static property 'cardPixelSize' can not be referenced from a nonisolated context; this is an error in the Swift 6 language mode
+ 34 | 
+ 35 |     /// Destedeki kartlar için yeterli çözünürlük (piksel, uzun kenar).
+ 36 |     static let cardPixelSize: CGFloat = 900
+    |                `- note: static property declared here
+ 37 | 
+ 38 |     /// Küçültülmüş, çözülmüş görüntü. Tam boy JPEG'i her karede ölçeklemek yerine bunu çizer.
+ 39 |     func thumbnail(named name: String, maxPixelSize: CGFloat = CoverImageStore.cardPixelSize) -> UIImage? {
+    |                                                                                `- warning: main actor-isolated static property 'cardPixelSize' can not be referenced from a nonisolated context; this is an error in the Swift 6 language mode
+ 40 |         let key = "\(name)@\(Int(maxPixelSize))" as NSString
+ 41 |         if let cached = thumbnails.object(forKey: key) { return cached }
+
+/Users/omeraydemir/Github/travller/ios/Traveller/App/TravellerApp.swift:58:10: warning: non-Sendable parameter type '[AnyHashable : Any]' cannot be sent from caller of protocol requirement 'application(_:didReceiveRemoteNotification:)' into main actor-isolated implementation; this is an error in the Swift 6 language mode [#NonSendableInAsyncConformanceOrOverride]
+56 | 
+57 |     /// Başka bir cihazda yapılan değişiklik: CloudKit sessiz bildirimi.
+58 |     func application(_ application: UIApplication,
+   |          `- warning: non-Sendable parameter type '[AnyHashable : Any]' cannot be sent from caller of protocol requirement 'application(_:didReceiveRemoteNotification:)' into main actor-isolated implementation; this is an error in the Swift 6 language mode [#NonSendableInAsyncConformanceOrOverride]
+59 |                      didReceiveRemoteNotification userInfo: [AnyHashable: Any]) async -> UIBackgroundFetchResult {
+60 |         guard CKNotification(fromRemoteNotificationDictionary: userInfo) != nil else { return .noData }
+
+Swift.Dictionary:1:23: note: generic struct 'Dictionary' does not conform to the 'Sendable' protocol
+1 | @frozen public struct Dictionary<Key, Value> where Key : Hashable {
+  |                       `- note: generic struct 'Dictionary' does not conform to the 'Sendable' protocol
+2 |     public typealias Element = (key: Key, value: Value)
+3 |     @inlinable public init(_immutableCocoaDictionary: __owned AnyObject)
+
+[#NonSendableInAsyncConformanceOrOverride]: <https://docs.swift.org/compiler/documentation/diagnostics/non-sendable-values-in-async-conformances-and-overrides>
+SwiftCompile normal arm64 Compiling\ TripCover.swift,\ TripDeck.swift,\ TripDetailView.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/TripCover.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/TripDeck.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/TripDetail/TripDetailView.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/TripCover.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile TripCover.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/TripDeck.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile TripDeck.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/TripDetail/TripDetailView.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile TripDetailView.swift
+
+SwiftCompile normal arm64 Compiling\ TripsView.swift,\ VisaSection.swift,\ WidgetBridge.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/TripsView.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Visa/VisaSection.swift /Users/omeraydemir/Github/travller/ios/Traveller/Store/WidgetBridge.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/TripsView.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile TripsView.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Visa/VisaSection.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile VisaSection.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Store/WidgetBridge.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile WidgetBridge.swift
+
+SwiftCompile normal arm64 Compiling\ ProfileView.swift,\ SampleData.swift,\ SchengenCard.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Profile/ProfileView.swift /Users/omeraydemir/Github/travller/ios/Traveller/Store/SampleData.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Visa/SchengenCard.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Profile/ProfileView.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile ProfileView.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Store/SampleData.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile SampleData.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Visa/SchengenCard.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile SchengenCard.swift
+
+SwiftCompile normal arm64 Compiling\ AboutView.swift,\ AddStopSheet.swift,\ AppRouter.swift,\ BookingImportSheet.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/About/AboutView.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Plan/AddStopSheet.swift /Users/omeraydemir/Github/travller/ios/Traveller/App/AppRouter.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Plan/BookingImportSheet.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/About/AboutView.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile AboutView.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Plan/AddStopSheet.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile AddStopSheet.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/App/AppRouter.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile AppRouter.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Plan/BookingImportSheet.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile BookingImportSheet.swift
+
+SwiftCompile normal arm64 Compiling\ CloudSync.swift,\ Components.swift,\ CoverImageStore.swift,\ CoverPhotoPicker.swift /Users/omeraydemir/Github/travller/ios/Traveller/Store/CloudSync.swift /Users/omeraydemir/Github/travller/ios/Traveller/DesignSystem/Components.swift /Users/omeraydemir/Github/travller/ios/Traveller/Store/CoverImageStore.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/CoverPhotoPicker.swift (in target 'Traveller' from project 'Traveller')
+/Users/omeraydemir/Github/travller/ios/Traveller/Store/CoverImageStore.swift:39:80: warning: main actor-isolated static property 'cardPixelSize' can not be referenced from a nonisolated context; this is an error in the Swift 6 language mode
+ 34 | 
+ 35 |     /// Destedeki kartlar için yeterli çözünürlük (piksel, uzun kenar).
+ 36 |     static let cardPixelSize: CGFloat = 900
+    |                `- note: static property declared here
+ 37 | 
+ 38 |     /// Küçültülmüş, çözülmüş görüntü. Tam boy JPEG'i her karede ölçeklemek yerine bunu çizer.
+ 39 |     func thumbnail(named name: String, maxPixelSize: CGFloat = CoverImageStore.cardPixelSize) -> UIImage? {
+    |                                                                                `- warning: main actor-isolated static property 'cardPixelSize' can not be referenced from a nonisolated context; this is an error in the Swift 6 language mode
+ 40 |         let key = "\(name)@\(Int(maxPixelSize))" as NSString
+ 41 |         if let cached = thumbnails.object(forKey: key) { return cached }
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Store/CloudSync.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile CloudSync.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/DesignSystem/Components.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile Components.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Store/CoverImageStore.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile CoverImageStore.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/CoverPhotoPicker.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile CoverPhotoPicker.swift
+
+SwiftCompile normal arm64 Compiling\ NewTripSheet.swift,\ PackingSection.swift,\ PhotoLibrary.swift,\ PlanSection.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/NewTripSheet.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Packing/PackingSection.swift /Users/omeraydemir/Github/travller/ios/Traveller/Store/PhotoLibrary.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Plan/PlanSection.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/NewTripSheet.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile NewTripSheet.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Packing/PackingSection.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile PackingSection.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Store/PhotoLibrary.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile PhotoLibrary.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Plan/PlanSection.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile PlanSection.swift
+
+SwiftCompile normal arm64 Compiling\ FlightActivityAttributes.swift,\ FlightStatusService.swift,\ Formatting.swift,\ IdeasCard.swift /Users/omeraydemir/Github/travller/ios/Shared/FlightActivityAttributes.swift /Users/omeraydemir/Github/travller/ios/Traveller/Store/FlightStatusService.swift /Users/omeraydemir/Github/travller/ios/Traveller/DesignSystem/Formatting.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Plan/IdeasCard.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Shared/FlightActivityAttributes.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile FlightActivityAttributes.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Store/FlightStatusService.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile FlightStatusService.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/DesignSystem/Formatting.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile Formatting.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Plan/IdeasCard.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile IdeasCard.swift
+
+SwiftCompile normal arm64 Compiling\ LiveActivityController.swift,\ LodgingViews.swift,\ MemoriesSection.swift,\ MoneySection.swift /Users/omeraydemir/Github/travller/ios/Traveller/Store/LiveActivityController.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Plan/LodgingViews.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Memories/MemoriesSection.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Money/MoneySection.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Store/LiveActivityController.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile LiveActivityController.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Plan/LodgingViews.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile LodgingViews.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Memories/MemoriesSection.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile MemoriesSection.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Money/MoneySection.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile MoneySection.swift
+
+SwiftDriverJobDiscovery normal arm64 Compiling TravellerWidgets.swift (in target 'TravellerWidgets' from project 'Traveller')
+
+SwiftCompile normal arm64 Compiling\ CrewSection.swift,\ DeviceServices.swift,\ DocumentsCard.swift,\ ExpenseSheets.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Crew/CrewSection.swift /Users/omeraydemir/Github/travller/ios/Traveller/Store/DeviceServices.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Visa/DocumentsCard.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Money/ExpenseSheets.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Crew/CrewSection.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile CrewSection.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Store/DeviceServices.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile DeviceServices.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Visa/DocumentsCard.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile DocumentsCard.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Money/ExpenseSheets.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile ExpenseSheets.swift
+
+SwiftDriverJobDiscovery normal arm64 Compiling TripWidget.swift (in target 'TravellerWidgets' from project 'Traveller')
+
+SwiftDriver\ Compilation TravellerWidgets normal arm64 com.apple.xcode.tools.swift.compiler (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-Swift-Compilation -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name TravellerWidgets -Onone @/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.SwiftFileList -DDEBUG -enable-bare-slash-regex -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -target arm64-apple-ios17.0 -g -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -application-extension -enable-testing -index-store-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 5 -I /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -c -j12 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKStatCaches.noindex/iphoneos27.0-24A430-6c78b3cbc238196c85e1bf6c792c5915.sdkstatcache -output-file-map /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -emit-const-values -const-gather-protocols-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets_const_extract_protocols.json -Xcc -iquote -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-generated-files.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-own-target-headers.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller-7c3a0b71ac489ad22872517d5333f619-VFS-iphoneos/all-product-headers.yaml -Xcc -iquote -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-project-headers.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/include -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/DerivedSources-normal/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/DerivedSources/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets-Swift.h -working-directory /Users/omeraydemir/Github/travller/ios -experimental-emit-module-separately -disable-cmo
+
+SwiftDriverJobDiscovery normal arm64 Compiling Services.swift, SharedContainer.swift, Stamp.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 Compiling\ Theme.swift,\ TicketParts.swift,\ TravellerApp.swift /Users/omeraydemir/Github/travller/ios/Traveller/DesignSystem/Theme.swift /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/TicketParts.swift /Users/omeraydemir/Github/travller/ios/Traveller/App/TravellerApp.swift (in target 'Traveller' from project 'Traveller')
+/Users/omeraydemir/Github/travller/ios/Traveller/App/TravellerApp.swift:58:10: warning: non-Sendable parameter type '[AnyHashable : Any]' cannot be sent from caller of protocol requirement 'application(_:didReceiveRemoteNotification:)' into main actor-isolated implementation; this is an error in the Swift 6 language mode [#NonSendableInAsyncConformanceOrOverride]
+56 | 
+57 |     /// Başka bir cihazda yapılan değişiklik: CloudKit sessiz bildirimi.
+58 |     func application(_ application: UIApplication,
+   |          `- warning: non-Sendable parameter type '[AnyHashable : Any]' cannot be sent from caller of protocol requirement 'application(_:didReceiveRemoteNotification:)' into main actor-isolated implementation; this is an error in the Swift 6 language mode [#NonSendableInAsyncConformanceOrOverride]
+59 |                      didReceiveRemoteNotification userInfo: [AnyHashable: Any]) async -> UIBackgroundFetchResult {
+60 |         guard CKNotification(fromRemoteNotificationDictionary: userInfo) != nil else { return .noData }
+
+Swift.Dictionary:1:23: note: generic struct 'Dictionary' does not conform to the 'Sendable' protocol
+1 | @frozen public struct Dictionary<Key, Value> where Key : Hashable {
+  |                       `- note: generic struct 'Dictionary' does not conform to the 'Sendable' protocol
+2 |     public typealias Element = (key: Key, value: Value)
+3 |     @inlinable public init(_immutableCocoaDictionary: __owned AnyObject)
+
+[#NonSendableInAsyncConformanceOrOverride]: <https://docs.swift.org/compiler/documentation/diagnostics/non-sendable-values-in-async-conformances-and-overrides>
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/DesignSystem/Theme.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile Theme.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/Features/Trips/TicketParts.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile TicketParts.swift
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/App/TravellerApp.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile TravellerApp.swift
+
+Ld /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/TravellerWidgets.debug.dylib normal (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios17.0 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -O0 -Xlinker -no_warn_duplicate_libraries -L/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphoneos -L/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphoneos -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -filelist /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.LinkFileList -install_name @rpath/TravellerWidgets.debug.dylib -Xlinker -rpath -Xlinker /usr/lib/swift -Xlinker -rpath -Xlinker @loader_path -Xlinker -rpath -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -Xlinker -rpath -Xlinker @executable_path/Frameworks -Xlinker -rpath -Xlinker @executable_path/../../Frameworks -Xlinker -dead_strip -Xlinker -object_path_lto -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets_lto.o -rdynamic -Xlinker -no_deduplicate -Xlinker -dependency_info -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets_dependency_info.dat -fapplication-extension -fobjc-link-runtime -L/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos -L/usr/lib/swift -Xlinker -add_ast_path -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.swiftmodule -Xlinker -alias -Xlinker _NSExtensionMain -Xlinker ___debug_main_executable_dylib_entry_point -Xlinker -no_adhoc_codesign -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/TravellerWidgets.debug.dylib
+
+SwiftDriverJobDiscovery normal arm64 Compiling FlightActivityAttributes.swift, FlightStatusService.swift, Formatting.swift, IdeasCard.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftDriverJobDiscovery normal arm64 Compiling ProfileView.swift, SampleData.swift, SchengenCard.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftDriverJobDiscovery normal arm64 Compiling TripStore.swift, TripTheme.swift, TripTicketCard.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 Compiling\ CameraPicker.swift /Users/omeraydemir/Github/travller/ios/Traveller/DesignSystem/CameraPicker.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftCompile normal arm64 /Users/omeraydemir/Github/travller/ios/Traveller/DesignSystem/CameraPicker.swift (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-SwiftPerFileCompile CameraPicker.swift
+
+ConstructStubExecutorLinkFileList /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-ExecutorLinkFileList-normal-arm64.txt (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    construct-stub-executor-link-file-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/TravellerWidgets.debug.dylib /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/libPreviewsJITStubExecutor_no_swift_entry_point.a /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/libPreviewsJITStubExecutor.a --output /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-ExecutorLinkFileList-normal-arm64.txt
+note: Using stub executor library with Swift entry point. (in target 'TravellerWidgets' from project 'Traveller')
+
+Ld /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/TravellerWidgets normal (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios17.0 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -O0 -Xlinker -no_warn_duplicate_libraries -L/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -Xlinker -rpath -Xlinker @executable_path -Xlinker -rpath -Xlinker @loader_path -Xlinker -rpath -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -Xlinker -rpath -Xlinker @executable_path/Frameworks -Xlinker -rpath -Xlinker @executable_path/../../Frameworks -rdynamic -Xlinker -no_deduplicate -e ___debug_blank_executor_main -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_dylib -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-DebugDylibPath-normal-arm64.txt -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_entry -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-DebugEntryPoint-normal-arm64.txt -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_instlnm -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-DebugDylibInstallName-normal-arm64.txt -Xlinker -filelist -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets-ExecutorLinkFileList-normal-arm64.txt /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/TravellerWidgets.debug.dylib -Xlinker -no_adhoc_codesign -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/TravellerWidgets
+
+ExtractAppIntentsMetadata (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/appintentsmetadataprocessor --toolchain-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain --module-name TravellerWidgets --sdk-root /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk --xcode-version 27A266a --platform-family iOS --deployment-target 17.0 --bundle-identifier app.traveller.ios.widgets --output /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex --target-triple arm64-apple-ios17.0 --binary-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/TravellerWidgets --dependency-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets_dependency_info.dat --stringsdata-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/ExtractedAppShortcutsMetadata.stringsdata --source-file-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.SwiftFileList --metadata-file-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.DependencyMetadataFileList --static-metadata-file-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.DependencyStaticMetadataFileList --swift-const-vals-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/Objects-normal/arm64/TravellerWidgets.SwiftConstValuesFileList --compile-time-extraction --deployment-aware-processing --no-app-shortcuts-localization
+2026-10-01 21:06:00.763 appintentsmetadataprocessor[82467:10979737] Starting appintentsmetadataprocessor export
+2026-10-01 21:06:00.838 appintentsmetadataprocessor[82467:10979737] Extracted no relevant App Intents symbols, skipping writing output
+
+SwiftDriverJobDiscovery normal arm64 Compiling CameraPicker.swift (in target 'Traveller' from project 'Traveller')
+
+AppIntentsSSUTraining (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/appintentsnltrainingprocessor --infoplist-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/Info.plist --temp-dir-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/ssu --bundle-id app.traveller.ios.widgets --product-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex --extracted-metadata-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/Metadata.appintents --metadata-file-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.DependencyMetadataFileList --source-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/Info.plist --archive-ssu-assets
+2026-10-01 21:06:00.881 appintentsnltrainingprocessor[82470:10979757] Parsing options for appintentsnltrainingprocessor
+2026-10-01 21:06:00.881 appintentsnltrainingprocessor[82470:10979757] Starting AppIntents SSU YAML Generation
+2026-10-01 21:06:00.881 appintentsnltrainingprocessor[82470:10979757] No AppShortcuts found - Skipping.
+
+CodeSign /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/TravellerWidgets.debug.dylib (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    
+    Signing Identity:     "Apple Development: Ömer Aydemir (XXL9BLD7C3)"
+    Provisioning Profile: "iOS Team Provisioning Profile: app.traveller.ios.widgets"
+                          (f62807d3-b241-4925-b275-7364b6b5d42b)
+    
+    /usr/bin/codesign --force --sign F7860799F439EDA9FE13A61436384A4995F4BBC9 --timestamp\=none --generate-entitlement-der /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/TravellerWidgets.debug.dylib
+
+CodeSign /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/__preview.dylib (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    
+    Signing Identity:     "Apple Development: Ömer Aydemir (XXL9BLD7C3)"
+    Provisioning Profile: "iOS Team Provisioning Profile: app.traveller.ios.widgets"
+                          (f62807d3-b241-4925-b275-7364b6b5d42b)
+    
+    /usr/bin/codesign --force --sign F7860799F439EDA9FE13A61436384A4995F4BBC9 --timestamp\=none --generate-entitlement-der /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex/__preview.dylib
+
+CodeSign /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    
+    Signing Identity:     "Apple Development: Ömer Aydemir (XXL9BLD7C3)"
+    Provisioning Profile: "iOS Team Provisioning Profile: app.traveller.ios.widgets"
+                          (f62807d3-b241-4925-b275-7364b6b5d42b)
+    
+    /usr/bin/codesign --force --sign F7860799F439EDA9FE13A61436384A4995F4BBC9 --entitlements /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/TravellerWidgets.build/TravellerWidgets.appex.xcent --timestamp\=none --generate-entitlement-der /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex
+
+RegisterExecutionPolicyException /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-RegisterExecutionPolicyException /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex
+
+Touch /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex (in target 'TravellerWidgets' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /usr/bin/touch -c /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex
+
+SwiftDriverJobDiscovery normal arm64 Compiling CloudSync.swift, Components.swift, CoverImageStore.swift, CoverPhotoPicker.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftDriverJobDiscovery normal arm64 Compiling TripsView.swift, VisaSection.swift, WidgetBridge.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftDriverJobDiscovery normal arm64 Compiling AboutView.swift, AddStopSheet.swift, AppRouter.swift, BookingImportSheet.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftDriverJobDiscovery normal arm64 Compiling TripCover.swift, TripDeck.swift, TripDetailView.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftDriverJobDiscovery normal arm64 Compiling Theme.swift, TicketParts.swift, TravellerApp.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftDriverJobDiscovery normal arm64 Emitting module for Traveller (in target 'Traveller' from project 'Traveller')
+
+SwiftDriver\ Compilation\ Requirements Traveller normal arm64 com.apple.xcode.tools.swift.compiler (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-Swift-Compilation-Requirements -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name Traveller -Onone @/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.SwiftFileList -DDEBUG -enable-bare-slash-regex -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -target arm64-apple-ios17.0 -g -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 5 -I /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -c -j12 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKStatCaches.noindex/iphoneos27.0-24A430-6c78b3cbc238196c85e1bf6c792c5915.sdkstatcache -output-file-map /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -emit-const-values -const-gather-protocols-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller_const_extract_protocols.json -Xcc -iquote -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-generated-files.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-own-target-headers.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller-7c3a0b71ac489ad22872517d5333f619-VFS-iphoneos/all-product-headers.yaml -Xcc -iquote -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-project-headers.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/include -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/DerivedSources-normal/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/DerivedSources/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller-Swift.h -working-directory /Users/omeraydemir/Github/travller/ios -experimental-emit-module-separately -disable-cmo
+
+SwiftMergeGeneratedHeaders /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/DerivedSources/Traveller-Swift.h /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller-Swift.h (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-swiftHeaderTool -arch arm64 /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller-Swift.h -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/DerivedSources/Traveller-Swift.h
+
+Copy /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.swiftmodule/arm64-apple-ios.swiftmodule /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.swiftmodule (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.swiftmodule /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.swiftmodule/arm64-apple-ios.swiftmodule
+
+Copy /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.swiftmodule/arm64-apple-ios.swiftdoc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.swiftdoc (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.swiftdoc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.swiftmodule/arm64-apple-ios.swiftdoc
+
+Copy /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.swiftmodule/arm64-apple-ios.abi.json /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.abi.json (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.abi.json /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.swiftmodule/arm64-apple-ios.abi.json
+
+Copy /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.swiftsourceinfo (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -rename /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.swiftsourceinfo /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo
+
+SwiftDriverJobDiscovery normal arm64 Compiling NewTripSheet.swift, PackingSection.swift, PhotoLibrary.swift, PlanSection.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftDriverJobDiscovery normal arm64 Compiling LiveActivityController.swift, LodgingViews.swift, MemoriesSection.swift, MoneySection.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftDriverJobDiscovery normal arm64 Compiling CrewSection.swift, DeviceServices.swift, DocumentsCard.swift, ExpenseSheets.swift (in target 'Traveller' from project 'Traveller')
+
+SwiftDriver\ Compilation Traveller normal arm64 com.apple.xcode.tools.swift.compiler (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-Swift-Compilation -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name Traveller -Onone @/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.SwiftFileList -DDEBUG -enable-bare-slash-regex -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -target arm64-apple-ios17.0 -g -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 5 -I /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -F /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -c -j12 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKStatCaches.noindex/iphoneos27.0-24A430-6c78b3cbc238196c85e1bf6c792c5915.sdkstatcache -output-file-map /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller-OutputFileMap.json -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex -sdk-module-cache-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules -emit-dependencies -emit-module -emit-module-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.swiftmodule -serialize-diagnostics -dependency-scan-serialize-diagnostics-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller-dependency-scan.dia -validate-clang-modules-once -clang-build-session-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/ModuleCache.noindex/Session.modulevalidation -Xcc -fmodules-prune-interval\=86400 -Xcc -fmodules-prune-after\=345600 -emit-const-values -const-gather-protocols-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller_const_extract_protocols.json -Xcc -iquote -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-generated-files.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-own-target-headers.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller-7c3a0b71ac489ad22872517d5333f619-VFS-iphoneos/all-product-headers.yaml -Xcc -iquote -Xcc /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-project-headers.hmap -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/include -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/DerivedSources-normal/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/DerivedSources/arm64 -Xcc -I/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller-Swift.h -working-directory /Users/omeraydemir/Github/travller/ios -experimental-emit-module-separately -disable-cmo
+
+Ld /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Traveller.debug.dylib normal (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios17.0 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -O0 -Xlinker -no_warn_duplicate_libraries -L/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphoneos -L/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphoneos -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -filelist /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.LinkFileList -install_name @rpath/Traveller.debug.dylib -Xlinker -rpath -Xlinker /usr/lib/swift -Xlinker -rpath -Xlinker @loader_path -Xlinker -rpath -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -Xlinker -rpath -Xlinker @executable_path/Frameworks -Xlinker -dead_strip -Xlinker -object_path_lto -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller_lto.o -rdynamic -Xlinker -no_deduplicate -Xlinker -dependency_info -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller_dependency_info.dat -fobjc-link-runtime -L/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos -L/usr/lib/swift -Xlinker -add_ast_path -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.swiftmodule -Xlinker -alias -Xlinker _main -Xlinker ___debug_main_executable_dylib_entry_point -Xlinker -no_adhoc_codesign -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Traveller.debug.dylib
+
+ConstructStubExecutorLinkFileList /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-ExecutorLinkFileList-normal-arm64.txt (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    construct-stub-executor-link-file-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Traveller.debug.dylib /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/libPreviewsJITStubExecutor_no_swift_entry_point.a /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/libPreviewsJITStubExecutor.a --output /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-ExecutorLinkFileList-normal-arm64.txt
+note: Using stub executor library with Swift entry point. (in target 'Traveller' from project 'Traveller')
+
+Ld /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Traveller normal (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios17.0 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk -O0 -Xlinker -no_warn_duplicate_libraries -L/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -F/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos -Xlinker -rpath -Xlinker @executable_path -Xlinker -rpath -Xlinker @loader_path -Xlinker -rpath -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/PackageFrameworks -Xlinker -rpath -Xlinker @executable_path/Frameworks -rdynamic -Xlinker -no_deduplicate -e ___debug_blank_executor_main -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_dylib -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-DebugDylibPath-normal-arm64.txt -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __debug_instlnm -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-DebugDylibInstallName-normal-arm64.txt -Xlinker -filelist -Xlinker /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller-ExecutorLinkFileList-normal-arm64.txt /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Traveller.debug.dylib -Xlinker -no_adhoc_codesign -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Traveller
+
+Copy /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/PlugIns/TravellerWidgets.appex /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -exclude Headers -exclude PrivateHeaders -exclude Modules -exclude \*.tbd -resolve-src-symlinks -remove-static-executable /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/TravellerWidgets.appex /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/PlugIns
+
+ProcessInfoPlistFile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Info.plist /Users/omeraydemir/Github/travller/ios/Support/Info.plist (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-infoPlistUtility /Users/omeraydemir/Github/travller/ios/Support/Info.plist -producttype com.apple.product-type.application -genpkginfo /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -scanforprivacyfile /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/PlugIns/TravellerWidgets.appex -requiredArchitecture arm64 -o /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Info.plist
+
+CopySwiftLibs /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-swiftStdLibTool --copy --verbose --sign F7860799F439EDA9FE13A61436384A4995F4BBC9 --scan-executable /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Traveller.debug.dylib --scan-folder /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Frameworks --scan-folder /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/PlugIns --scan-folder /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/SystemExtensions --scan-folder /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Extensions --platform iphoneos --toolchain /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain --destination /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Frameworks --strip-bitcode --strip-bitcode-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip --emit-dependency-info /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/SwiftStdLibToolInputDependencies.dep --filter-for-swift-os
+
+ExtractAppIntentsMetadata (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/appintentsmetadataprocessor --toolchain-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain --module-name Traveller --sdk-root /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS27.0.sdk --xcode-version 27A266a --platform-family iOS --deployment-target 17.0 --bundle-identifier app.traveller.ios --output /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app --target-triple arm64-apple-ios17.0 --binary-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Traveller --dependency-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller_dependency_info.dat --stringsdata-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/ExtractedAppShortcutsMetadata.stringsdata --source-file-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.SwiftFileList --metadata-file-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller.DependencyMetadataFileList --static-metadata-file-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller.DependencyStaticMetadataFileList --swift-const-vals-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Objects-normal/arm64/Traveller.SwiftConstValuesFileList --compile-time-extraction --deployment-aware-processing --no-app-shortcuts-localization
+2026-10-01 21:06:04.162 appintentsmetadataprocessor[82534:10980207] Starting appintentsmetadataprocessor export
+2026-10-01 21:06:04.213 appintentsmetadataprocessor[82534:10980207] Extracted no relevant App Intents symbols, skipping writing output
+
+AppIntentsSSUTraining (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/appintentsnltrainingprocessor --infoplist-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Info.plist --temp-dir-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/ssu --bundle-id app.traveller.ios --product-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app --extracted-metadata-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Metadata.appintents --metadata-file-list /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller.DependencyMetadataFileList --source-file /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Info.plist --archive-ssu-assets
+2026-10-01 21:06:04.241 appintentsnltrainingprocessor[82537:10980220] Parsing options for appintentsnltrainingprocessor
+2026-10-01 21:06:04.241 appintentsnltrainingprocessor[82537:10980220] Starting AppIntents SSU YAML Generation
+2026-10-01 21:06:04.241 appintentsnltrainingprocessor[82537:10980220] No AppShortcuts found - Skipping.
+
+CodeSign /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Traveller.debug.dylib (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    
+    Signing Identity:     "Apple Development: Ömer Aydemir (XXL9BLD7C3)"
+    Provisioning Profile: "iOS Team Provisioning Profile: app.traveller.ios"
+                          (b745140e-c78b-4160-be55-093c53be255c)
+    
+    /usr/bin/codesign --force --sign F7860799F439EDA9FE13A61436384A4995F4BBC9 --timestamp\=none --generate-entitlement-der /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Traveller.debug.dylib
+
+CodeSign /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/__preview.dylib (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    
+    Signing Identity:     "Apple Development: Ömer Aydemir (XXL9BLD7C3)"
+    Provisioning Profile: "iOS Team Provisioning Profile: app.traveller.ios"
+                          (b745140e-c78b-4160-be55-093c53be255c)
+    
+    /usr/bin/codesign --force --sign F7860799F439EDA9FE13A61436384A4995F4BBC9 --timestamp\=none --generate-entitlement-der /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/__preview.dylib
+/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/__preview.dylib: replacing existing signature
+
+CodeSign /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    
+    Signing Identity:     "Apple Development: Ömer Aydemir (XXL9BLD7C3)"
+    Provisioning Profile: "iOS Team Provisioning Profile: app.traveller.ios"
+                          (b745140e-c78b-4160-be55-093c53be255c)
+    
+    /usr/bin/codesign --force --sign F7860799F439EDA9FE13A61436384A4995F4BBC9 --entitlements /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/Traveller.app.xcent --timestamp\=none --generate-entitlement-der /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app
+
+ValidateEmbeddedBinary /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/PlugIns/TravellerWidgets.appex (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    /Applications/Xcode.app/Contents/Developer/usr/bin/embeddedBinaryValidationUtility /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/PlugIns/TravellerWidgets.appex -signing-cert F7860799F439EDA9FE13A61436384A4995F4BBC9 -info-plist-path /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app/Info.plist
+
+Validate /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app (in target 'Traveller' from project 'Traveller')
+    cd /Users/omeraydemir/Github/travller/ios
+    builtin-validationUtility /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Products/Debug-iphoneos/Traveller.app -shallow-bundle -infoplist-subpath Info.plist
+
+PruneExplicitPrecompiledModules /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/ExplicitPrecompiledModules
+
+PruneExplicitPrecompiledModules /Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules
+
+PruneExplicitPrecompiledModules /Users/omeraydemir/Github/travller/ios/build/DerivedData/SDKExplicitPrecompiledModules
+
+note: Removed stale file '/Users/omeraydemir/Github/travller/ios/build/DerivedData/Build/Intermediates.noindex/Traveller.build/Debug-iphoneos/Traveller.build/empty-Traveller.plist'
+
+** BUILD SUCCEEDED **
+

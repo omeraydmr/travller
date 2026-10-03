@@ -1,0 +1,5 @@
+#include "Base.xcconfig"
+
+// Xcode'dan kurulan geliştirme sürümleri: staging sunucusu (şemasız; xcconfig'te "//" yorumdur).
+STUBLY_SERVER_HOST = stubly-api-staging.traveller-live.workers.dev
+STUBLY_SERVER_KEY = $(STUBLY_STAGING_KEY)

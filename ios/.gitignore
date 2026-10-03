@@ -1,4 +1,4 @@
-Traveller.xcodeproj/
+*.xcodeproj/
 build/
 DerivedData/
 .build/
@@ -6,7 +6,8 @@ DerivedData/
 *.xcuserstate
 build.log
 Support/Info.plist
-Support/Traveller.entitlements
+Support/Stubly.entitlements
 Support/Widgets-Info.plist
 Support/Widgets.entitlements
 Config/Secrets.xcconfig
+dist/

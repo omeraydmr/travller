@@ -1,5 +1,5 @@
 import SwiftUI
-import TravellerKit
+import StublyKit
 import WidgetKit
 
 // Ana ekran widget'ı: sıradaki seyahate kalan gün; seyahat sırasında günün sıradaki durağı.
@@ -80,7 +80,7 @@ struct TripWidgetView: View {
         guard let item else { return nil }
         var section = "packing"
         if case .ongoing = entry.state { section = "plan" }
-        return URL(string: "traveller://trip/\(item.id.uuidString)?section=\(section)")
+        return URL(string: "stubly://trip/\(item.id.uuidString)?section=\(section)")
     }
 
     private var background: some View {

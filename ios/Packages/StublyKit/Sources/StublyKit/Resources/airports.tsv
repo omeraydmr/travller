@@ -1,0 +1,3826 @@
+# IATA	şehir	ülke	saat dilimi	enlem	boylam	boyut (l/m/s)
+# Kaynak: OurAirports (public domain) + mwgg/Airports (MIT; saat dilimi ve şehir). Tarifeli seferi olan havalimanları.
+AAA	Anaa	PF	Pacific/Tahiti	-17.3526	-145.51	m
+AAC	El Arish	EG	Africa/Cairo	31.0553	33.828	l
+AAE	Annabah	DZ	Africa/Algiers	36.8268	7.8133	l
+AAK	Buariki	KI	Pacific/Tarawa	0.1853	173.637	s
+AAL	Aalborg	DK	Europe/Copenhagen	57.0948	9.8499	l
+AAN	Al Ain	AE	Asia/Dubai	24.2617	55.6092	l
+AAP	Samarinda	ID	Asia/Makassar	-0.3745	117.2501	m
+AAR	Aarhus	DK	Europe/Copenhagen	56.3033	10.6183	l
+AAT	Altay	CN	Asia/Shanghai	47.7499	88.0858	m
+AAX	Araxa	BR	America/Sao_Paulo	-19.5632	-46.9604	m
+AAY	Al Ghaydah	YE	Asia/Aden	16.1933	52.1742	m
+AAZ	Quezaltenango	GT	America/Guatemala	14.8656	-91.502	s
+ABA	Abakan	RU	Asia/Krasnoyarsk	53.74	91.385	l
+ABB	Asaba	NG	Africa/Lagos	6.2042	6.6653	l
+ABD	Abadan	IR	Asia/Tehran	30.3679	48.2301	l
+ABE	Allentown	US	America/New_York	40.6518	-75.4428	m
+ABI	Abilene	US	America/Chicago	32.4113	-99.6819	m
+ABJ	Abidjan	CI	Africa/Abidjan	5.2614	-3.9263	l
+ABK	Kabri Dehar	ET	Africa/Addis_Ababa	6.7326	44.2413	m
+ABL	Ambler	US	America/Anchorage	67.1055	-157.8553	m
+ABM	Bamaga	AU	Australia/Brisbane	-10.9462	142.4551	s
+ABQ	Albuquerque	US	America/Denver	35.04	-106.6089	l
+ABR	Aberdeen	US	America/Chicago	45.4491	-98.4218	m
+ABS	Abu Simbel	EG	Africa/Cairo	22.3759	31.6117	m
+ABT	Al Bahah	SA	Asia/Riyadh	20.2985	41.6362	m
+ABU	Atambua-Timor Island	ID	Asia/Makassar	-9.0748	124.9033	s
+ABV	Abuja	NG	Africa/Lagos	9.0068	7.2632	l
+ABX	Albury	AU	Australia/Melbourne	-36.0668	146.9591	m
+ABY	Albany	US	America/New_York	31.5329	-84.1962	m
+ABZ	Aberdeen	GB	Europe/London	57.2019	-2.1978	l
+ACA	Acapulco	MX	America/Mexico_City	16.7571	-99.7531	l
+ACC	Accra	GH	Africa/Accra	5.6052	-0.1668	l
+ACE	Lanzarote Island	ES	Atlantic/Canary	28.9455	-13.6052	l
+ACF	Aral	CN	Asia/Shanghai	40.4347	81.2621	s
+ACH	Altenrhein	CH	Europe/Vienna	47.485	9.5608	m
+ACI	Saint Anne	GG	Europe/Guernsey	49.7061	-2.2147	m
+ACK	Nantucket	US	America/New_York	41.2531	-70.0602	m
+ACT	Waco	US	America/Chicago	31.6113	-97.2305	m
+ACV	Arcata/Eureka	US	America/Los_Angeles	40.9781	-124.109	m
+ACX	Xingyi	CN	Asia/Shanghai	25.0834	104.9608	m
+ACY	Atlantic City	US	America/New_York	39.4562	-74.5775	m
+ADB	Izmir	TR	Europe/Istanbul	38.2924	27.157	l
+ADD	Addis Ababa	ET	Africa/Addis_Ababa	8.9779	38.7993	l
+ADE	Aden	YE	Asia/Aden	12.8296	45.03	l
+ADF	Adiyaman	TR	Europe/Istanbul	37.7314	38.4689	m
+ADJ	Amman	JO	Asia/Amman	31.9727	35.9916	l
+ADK	Adak Island	US	America/Adak	51.8836	-176.6428	m
+ADL	Adelaide	AU	Australia/Adelaide	-34.9475	138.5334	l
+ADQ	Kodiak	US	America/Anchorage	57.75	-152.494	m
+ADU	Ardabil	IR	Asia/Tehran	38.3257	48.4244	m
+ADZ	San Andres	CO	America/Bogota	12.5836	-81.7112	l
+AEB	Baise	CN	Asia/Shanghai	23.7206	106.96	m
+AEP	Buenos Aires	AR	America/Argentina/Buenos_Aires	-34.5594	-58.4155	l
+AER	Sochi	RU	Europe/Moscow	43.4499	39.9566	l
+AES	Alesund	NO	Europe/Oslo	62.5604	6.1108	l
+AET	Allakaket	US	America/Anchorage	66.5518	-152.622	s
+AEU	Abu Musa	IR	Asia/Tehran	25.8757	55.033	m
+AEX	Alexandria	US	America/Chicago	31.3258	-92.5467	m
+AEY	Akureyri	IS	Atlantic/Reykjavik	65.6566	-18.072	l
+AFA	San Rafael	AR	America/Argentina/Mendoza	-34.5883	-68.4039	m
+AFL	Alta Floresta	BR	America/Cuiaba	-9.8664	-56.1063	m
+AFZ	Sabzevar	IR	Asia/Tehran	36.1681	57.5952	m
+AGA	Agadir	MA	Africa/Casablanca	30.3225	-9.412	l
+AGE	Wangerooge	DE	Europe/Berlin	53.7825	7.9196	s
+AGH	Angelholm	SE	Europe/Stockholm	56.2961	12.8471	m
+AGI	Wageningen Airport	SR	America/Paramaribo	5.8413	-56.6732	s
+AGJ	Aguni	JP	Asia/Tokyo	26.5928	127.2403	s
+AGP	Malaga	ES	Europe/Madrid	36.6749	-4.4991	l
+AGR	Agra	IN	Asia/Kolkata	27.158	77.961	m
+AGS	Augusta	US	America/New_York	33.3699	-81.9645	m
+AGT	Ciudad del Este	PY	America/Asuncion	-25.4572	-54.8395	l
+AGU	Aguascalientes	MX	America/Mexico_City	21.6996	-102.3184	l
+AGX	Agatti	IN	Asia/Kolkata	10.8237	72.176	m
+AHB	Abha	SA	Asia/Riyadh	18.2404	42.6566	l
+AHE	Ahe Atoll	PF	Pacific/Tahiti	-14.4281	-146.257	m
+AHO	Alghero	IT	Europe/Rome	40.6321	8.2908	m
+AHU	Al Hoceima	MA	Africa/Casablanca	35.1771	-3.8395	m
+AIA	Alliance	US	America/Denver	42.0525	-102.804	m
+AIN	Wainwright	US	America/Anchorage	70.638	-159.995	m
+AIP	Jalandhar	IN	Asia/Kolkata	31.4338	75.7588	s
+AIT	Aitutaki	CK	Pacific/Rarotonga	-18.8309	-159.764	s
+AIU	Atiu Island	CK	Pacific/Rarotonga	-19.9678	-158.119	s
+AJA	Ajaccio/Napoleon Bonaparte	FR	Europe/Paris	41.9236	8.8029	m
+AJF	Al-Jawf	SA	Asia/Riyadh	29.7833	40.1009	l
+AJI	Agri	TR	Europe/Istanbul	39.6556	43.0257	m
+AJL	Aizawl	IN	Asia/Kolkata	23.8406	92.6197	m
+AJN	Ouani	KM	Indian/Comoro	-12.131	44.43	m
+AJR	Arvidsjaur	SE	Europe/Stockholm	65.5903	19.2819	m
+AJU	Aracaju	BR	America/Maceio	-10.9839	-37.0729	m
+AKA	Ankang	CN	Asia/Shanghai	32.757	108.8734	s
+AKB	Atka	US	America/Adak	52.2203	-174.206	s
+AKF	Kufra	LY	Africa/Tripoli	24.1787	23.314	m
+AKI	Akiak	US	America/Anchorage	60.9026	-161.2311	s
+AKJ	Asahikawa	JP	Asia/Tokyo	43.6708	142.447	m
+AKK	Akhiok	US	America/Anchorage	56.9387	-154.183	s
+AKL	Auckland	NZ	Pacific/Auckland	-37.012	174.7863	l
+AKN	King Salmon	US	America/Anchorage	58.6778	-156.652	m
+AKP	Anaktuvuk Pass	US	America/Anchorage	68.1336	-151.743	m
+AKR	Akure	NG	Africa/Lagos	7.2467	5.301	m
+AKS	Auki	SB	Pacific/Guadalcanal	-8.7026	160.682	s
+AKU	Aksu	CN	Asia/Shanghai	41.2625	80.2917	m
+AKV	Akulivik	CA	America/Iqaluit	60.8186	-78.1486	s
+AKX	Aktyubinsk	KZ	Asia/Aqtobe	50.2481	57.2041	l
+AKY	Sittwe	MM	Asia/Yangon	20.1332	92.8707	m
+ALA	Almaty	KZ	Asia/Almaty	43.3543	77.0428	l
+ALB	Albany	US	America/New_York	42.7483	-73.8017	l
+ALC	Alicante	ES	Europe/Madrid	38.2822	-0.5582	l
+ALF	Alta	NO	Europe/Oslo	69.9761	23.3717	m
+ALG	Algiers	DZ	Africa/Algiers	36.6939	3.2145	l
+ALH	Albany	AU	Australia/Perth	-34.9433	117.8089	m
+ALO	Waterloo	US	America/Chicago	42.5571	-92.4003	m
+ALP	Aleppo	SY	Asia/Damascus	36.1813	37.2269	l
+ALS	Alamosa	US	America/Denver	37.4349	-105.867	m
+ALW	Walla Walla	US	America/Los_Angeles	46.0949	-118.288	m
+AMA	Amarillo	US	America/Chicago	35.2179	-101.7064	m
+AMD	Ahmedabad	IN	Asia/Kolkata	23.0772	72.6347	l
+AMH	Arba Minch	ET	Africa/Addis_Ababa	6.0394	37.5905	m
+AMM	Amman	JO	Asia/Amman	31.7226	35.9932	l
+AMQ	Ambon	ID	Asia/Jayapura	-3.7103	128.089	l
+AMS	Amsterdam	NL	Europe/Amsterdam	52.3086	4.7639	l
+AMV	Amderma	RU	Europe/Moscow	69.7637	61.5567	m
+ANC	Anchorage	US	America/Anchorage	61.179	-149.9926	l
+ANF	Antofagasta	CL	America/Santiago	-23.4453	-70.4452	l
+ANI	Aniak	US	America/Anchorage	61.5816	-159.543	m
+ANR	Antwerp	BE	Europe/Brussels	51.1907	4.4632	m
+ANS	Andahuaylas	PE	America/Lima	-13.7064	-73.3504	s
+ANU	St. George	AG	America/Antigua	17.1367	-61.7927	l
+ANV	Anvik	US	America/Anchorage	62.6467	-160.191	m
+ANX	Andenes	NO	Europe/Oslo	69.2952	16.1394	m
+AOE	Eskisehir	TR	Europe/Istanbul	39.8116	30.5193	l
+AOG	Anshan	CN	Asia/Shanghai	41.1053	122.854	m
+AOI	Ancona	IT	Europe/Rome	43.6163	13.3623	m
+AOJ	Aomori	JP	Asia/Tokyo	40.7338	140.6895	l
+AOK	Karpathos Island	GR	Europe/Athens	35.4214	27.146	m
+AOO	Altoona	US	America/New_York	40.2964	-78.32	m
+AOR	Alor Satar	MY	Asia/Kuala_Lumpur	6.1897	100.398	m
+APK	Apataki	PF	Pacific/Tahiti	-15.5736	-146.415	s
+APL	Nampula	MZ	Africa/Maputo	-15.1056	39.2818	l
+APN	Alpena	US	America/Detroit	45.0781	-83.5603	m
+APO	Carepa	CO	America/Bogota	7.812	-76.7164	m
+APW	Apia	WS	Pacific/Apia	-13.83	-172.008	l
+AQA	Araraquara	BR	America/Sao_Paulo	-21.812	-48.133	m
+AQG	Anqing	CN	Asia/Shanghai	30.5822	117.05	m
+AQI	Qaisumah	SA	Asia/Riyadh	28.3357	46.1271	l
+AQJ	Aqaba	JO	Asia/Amman	29.6116	35.0181	l
+AQP	Arequipa	PE	America/Lima	-16.3408	-71.5695	l
+ARC	Arctic Village	US	America/Anchorage	68.1147	-145.579	m
+ARD	Alor Island	ID	Asia/Makassar	-8.1323	124.597	s
+ARH	Archangelsk	RU	Europe/Moscow	64.6003	40.7167	m
+ARI	Arica	CL	America/Lima	-18.3485	-70.3387	m
+ARK	Arusha	TZ	Africa/Dar_es_Salaam	-3.3678	36.6333	m
+ARM	Armidale	AU	Australia/Sydney	-30.5281	151.617	m
+ARN	Stockholm	SE	Europe/Stockholm	59.6485	17.9288	l
+ART	Watertown	US	America/New_York	43.9919	-76.0217	m
+ARU	Aracatuba	BR	America/Sao_Paulo	-21.1415	-50.4246	m
+ARW	Arad	RO	Europe/Bucharest	46.1761	21.2643	m
+ASB	Ashgabat	TM	Asia/Ashgabat	37.9868	58.361	l
+ASD	Andros Town	BS	America/Nassau	24.6979	-77.7956	m
+ASE	Aspen	US	America/Denver	39.2232	-106.869	m
+ASF	Astrakhan	RU	Europe/Astrakhan	46.2828	48.0105	l
+ASI	Ascension Island	SH	Atlantic/St_Helena	-7.9702	-14.3927	m
+ASJ	Amami	JP	Asia/Tokyo	28.4306	129.713	m
+ASM	Asmara	ER	Africa/Asmara	15.2919	38.9107	m
+ASO	Asosa	ET	Africa/Addis_Ababa	10.0185	34.5863	m
+ASP	Alice Springs	AU	Australia/Darwin	-23.8066	133.9034	m
+ASR	Kayseri	TR	Europe/Istanbul	38.7704	35.4954	l
+ASU	Asuncion	PY	America/Asuncion	-25.2402	-57.5192	l
+ASV	Amboseli National Park	KE	Africa/Nairobi	-2.6448	37.2529	m
+ASW	Aswan	EG	Africa/Cairo	23.9611	32.8204	l
+ATC	Arthur's Town	BS	America/Nassau	24.6294	-75.6738	m
+ATH	Athens	GR	Europe/Athens	37.9364	23.9445	l
+ATK	Atqasuk	US	America/Anchorage	70.467	-157.436	m
+ATL	Atlanta	US	America/New_York	33.6367	-84.4281	l
+ATM	Altamira	BR	America/Santarem	-3.2531	-52.2539	m
+ATQ	Amritsar	IN	Asia/Kolkata	31.7096	74.7973	l
+ATW	Appleton	US	America/Chicago	44.2585	-88.519	m
+ATY	Watertown	US	America/Chicago	44.914	-97.1547	m
+ATZ	Assiut	EG	Africa/Cairo	27.046	31.0128	l
+AUA	Oranjestad	AW	America/Aruba	12.5011	-70.0143	l
+AUC	Arauca	CO	America/Bogota	7.0689	-70.7369	m
+AUG	Augusta	US	America/New_York	44.3206	-69.7973	m
+AUH	Abu Dhabi	AE	Asia/Dubai	24.441	54.6492	l
+AUK	Alakanuk	US	America/Nome	62.6827	-164.7225	s
+AUQ	Atuona	PF	Pacific/Marquesas	-9.7688	-139.011	m
+AUR	Aurillac	FR	Europe/Paris	44.8914	2.4219	m
+AUS	Austin	US	America/Chicago	30.1975	-97.662	l
+AUU	Aurukun	AU	Australia/Brisbane	-13.354	141.72	s
+AUX	Araguaina	BR	America/Araguaina	-7.2279	-48.2405	m
+AVA	Anshun	CN	Asia/Shanghai	26.2606	105.8733	m
+AVK	Arvaikheer	MN	Asia/Ulaanbaatar	46.2503	102.802	m
+AVL	Asheville	US	America/New_York	35.4355	-82.5419	m
+AVN	Avignon/Caumont	FR	Europe/Paris	43.9073	4.9018	m
+AVP	Wilkes-Barre/Scranton	US	America/New_York	41.3371	-75.7242	m
+AVR	Alverca	IN	Europe/Lisbon	20.8146	77.7178	m
+AVV	Melbourne	AU	Australia/Melbourne	-38.0403	144.4672	l
+AWA	Awassa	ET	Africa/Addis_Ababa	7.1006	38.3965	l
+AWK	Wake Island	UM	Pacific/Wake	19.2824	166.6366	m
+AWZ	Ahwaz	IR	Asia/Tehran	31.3364	48.7638	l
+AXA	The Valley	AI	America/Anguilla	18.2048	-63.0538	m
+AXD	Alexandroupolis	GR	Europe/Athens	40.8559	25.9563	m
+AXF	Bayanhot	CN	Asia/Shanghai	38.7483	105.5842	m
+AXJ	Amakusa	JP	Asia/Tokyo	32.4825	130.159	m
+AXM	Armenia	CO	America/Bogota	4.4528	-75.7664	m
+AXP	Spring Point	BS	America/Nassau	22.4418	-73.9709	m
+AXR	Arutua	PF	Pacific/Tahiti	-15.2483	-146.617	m
+AXT	Akita	JP	Asia/Tokyo	39.6156	140.219	m
+AXU	Axum	ET	Africa/Addis_Ababa	14.1468	38.7728	m
+AYJ	Ayodhya	IN	Asia/Kolkata	26.7477	82.1637	m
+AYP	Ayacucho	PE	America/Lima	-13.1548	-74.2044	m
+AYQ	Ayers Rock	AU	Australia/Darwin	-25.1859	130.977	m
+AYT	Antalya	TR	Europe/Istanbul	36.8987	30.8005	l
+AZA	Phoenix	US	America/Phoenix	33.3078	-111.655	m
+AZD	Yazd	IR	Asia/Tehran	31.9049	54.2765	m
+AZN	Andijan	UZ	Asia/Tashkent	40.7277	72.294	m
+AZO	Kalamazoo	US	America/Detroit	42.2321	-85.5496	m
+AZR	Adrar	DZ	Africa/Algiers	27.8376	-0.1864	m
+AZS	Samana	DO	America/Santo_Domingo	19.2693	-69.7374	m
+BAH	Manama	BH	Asia/Bahrain	26.2673	50.6376	l
+BAL	Batman	TR	Europe/Istanbul	37.929	41.1166	m
+BAQ	Barranquilla	CO	America/Bogota	10.8896	-74.7808	l
+BAR	Qionghai	CN	Asia/Shanghai	19.141	110.4528	m
+BAS	Ballalae	SB	Pacific/Guadalcanal	-6.9907	155.8867	s
+BAV	Baotou	CN	Asia/Shanghai	40.56	109.997	l
+BAX	Barnaul	RU	Asia/Barnaul	53.3613	83.5397	l
+BAY	Baia Mare	RO	Europe/Bucharest	47.6584	23.4644	m
+BAZ	Barcelos	BR	America/Manaus	-0.9812	-62.9186	s
+BBA	Balmaceda	CL	America/Santiago	-45.916	-71.6895	m
+BBG	Butaritari Atoll	KI	Pacific/Tarawa	3.0858	172.811	s
+BBI	Bhubaneswar	IN	Asia/Kolkata	20.251	85.8147	l
+BBK	Kasane	BW	Africa/Gaborone	-17.8317	25.1662	l
+BBM	Battambang	KH	Asia/Phnom_Penh	13.0956	103.224	m
+BBN	Bario	MY	Asia/Kuching	3.7346	115.4785	m
+BBO	Berbera	SO	Africa/Mogadishu	10.385	44.9367	m
+BBQ	Codrington	AG	America/Antigua	17.6212	-61.7983	m
+BBR	Basse Terre	GP	America/Guadeloupe	16.0136	-61.7429	s
+BBU	Bucharest	RO	Europe/Bucharest	44.5031	26.1029	l
+BCA	Baracoa	CU	America/Havana	20.3653	-74.5062	m
+BCD	Bacolod City	PH	Asia/Manila	10.7762	123.0189	l
+BCH	Baucau	TL	Asia/Dili	-8.4865	126.4	m
+BCI	Barcaldine	AU	Australia/Brisbane	-23.5663	145.3021	m
+BCM	Bacau	RO	Europe/Bucharest	46.5219	26.9103	l
+BCN	Barcelona	ES	Europe/Madrid	41.2971	2.0785	l
+BCO	Baco	ET	Africa/Addis_Ababa	5.7497	36.5602	m
+BDA	Hamilton	BM	Atlantic/Bermuda	32.3638	-64.6782	l
+BDB	Bundaberg	AU	Australia/Brisbane	-24.905	152.3226	m
+BDD	Badu	AU	Australia/Brisbane	-10.1495	142.1737	s
+BDH	Bandar Lengeh	IR	Asia/Tehran	26.5323	54.8248	m
+BDJ	Banjarmasin-Borneo Island	ID	Asia/Makassar	-3.4401	114.7612	l
+BDL	Hartford	US	America/New_York	41.9386	-72.688	l
+BDO	Bandung-Java Island	ID	Asia/Jakarta	-6.9006	107.576	m
+BDP	Bhadrapur	NP	Asia/Kathmandu	26.5708	88.0796	s
+BDQ	Vadodara	IN	Asia/Kolkata	22.3362	73.2263	l
+BDS	Brindisi	IT	Europe/Rome	40.6576	17.947	l
+BDT	Gbadolite	CD	Africa/Kinshasa	4.2527	20.9753	m
+BDU	Malselv	NO	Europe/Oslo	69.0558	18.5404	m
+BEB	Balivanich	GB	Europe/London	57.4811	-7.3628	m
+BED	Bedford	US	America/New_York	42.47	-71.289	m
+BEF	Bluefileds	NI	America/Managua	11.991	-83.7741	m
+BEG	Belgrad	RS	Europe/Belgrade	44.8184	20.3091	l
+BEJ	Tanjung Redep-Borneo Island	ID	Asia/Makassar	2.1478	117.4307	m
+BEK	Bareilly	IN	Asia/Kolkata	28.4221	79.4508	m
+BEL	Belem	BR	America/Belem	-1.3793	-48.4762	l
+BEM	Beni Mellal	MA	Africa/Casablanca	32.4019	-6.3159	l
+BEN	Benghazi	LY	Africa/Tripoli	32.0968	20.2695	l
+BER	Berlin	DE	Europe/Berlin	52.3617	13.5023	l
+BES	Brest/Guipavas	FR	Europe/Paris	48.4479	-4.4185	l
+BET	Bethel	US	America/Anchorage	60.7798	-161.838	m
+BEU	Bedourie	AU	Australia/Brisbane	-24.3461	139.46	m
+BEW	Beira	MZ	Africa/Maputo	-19.7964	34.9076	l
+BEY	Beirut	LB	Asia/Beirut	33.8198	35.4874	l
+BFD	Bradford	US	America/New_York	41.8031	-78.6401	m
+BFF	Scottsbluff	US	America/Denver	41.874	-103.596	m
+BFI	Seattle	US	America/Los_Angeles	47.527	-122.2999	m
+BFJ	Bijie	CN	Asia/Shanghai	27.2671	105.4721	m
+BFL	Bakersfield	US	America/Los_Angeles	35.4336	-119.057	m
+BFN	Bloemfontain	ZA	Africa/Johannesburg	-29.0927	26.3024	l
+BFS	Belfast	GB	Europe/London	54.6575	-6.2158	l
+BFV	Buriram	TH	Asia/Bangkok	15.2295	103.253	m
+BGA	Bucaramanga	CO	America/Bogota	7.1265	-73.1848	m
+BGC	Braganca	PT	Europe/Lisbon	41.8578	-6.7071	m
+BGF	Bangui	CF	Africa/Bangui	4.3985	18.5188	l
+BGG	Bingöl	TR	Europe/Istanbul	38.8601	40.5945	m
+BGI	Bridgetown	BB	America/Barbados	13.0747	-59.491	l
+BGM	Binghamton	US	America/New_York	42.2087	-75.9798	m
+BGO	Bergen	NO	Europe/Oslo	60.2934	5.2181	l
+BGR	Bangor	US	America/New_York	44.8064	-68.8267	m
+BGW	Baghdad	IQ	Asia/Baghdad	33.2625	44.2346	l
+BGY	Bergamo	IT	Europe/Rome	45.6694	9.7089	l
+BHB	Bar Harbor	US	America/New_York	44.45	-68.3615	m
+BHD	Belfast	GB	Europe/London	54.6181	-5.8725	m
+BHE	Blenheim	NZ	Pacific/Auckland	-41.5183	173.87	m
+BHH	Bisha	SA	Asia/Riyadh	19.9844	42.6209	m
+BHI	Bahia Blanca	AR	America/Argentina/Buenos_Aires	-38.725	-62.1693	m
+BHJ	Bhuj	IN	Asia/Kolkata	23.2878	69.6702	m
+BHK	Bukhara	UZ	Asia/Samarkand	39.7753	64.4823	l
+BHM	Birmingham	US	America/Chicago	33.5629	-86.7507	l
+BHO	Bhopal	IN	Asia/Kolkata	23.2875	77.3374	l
+BHQ	Broken Hill	AU	Australia/Broken_Hill	-32.0014	141.472	m
+BHR	Bharatpur	NP	Asia/Kathmandu	27.6781	84.4294	s
+BHS	Bathurst	AU	Australia/Sydney	-33.4068	149.6512	m
+BHU	Bhavnagar	IN	Asia/Kolkata	21.7522	72.1852	m
+BHV	Bahawalpur	PK	Asia/Karachi	29.3481	71.718	m
+BHX	Birmingham	GB	Europe/London	52.4539	-1.748	l
+BHY	Beihai	CN	Asia/Shanghai	21.5387	109.2937	m
+BIA	Bastia/Poretta	FR	Europe/Paris	42.5527	9.4837	l
+BID	Block Island	US	America/New_York	41.1684	-71.5786	s
+BIH	Bishop	US	America/Los_Angeles	37.3731	-118.364	m
+BIK	Biak-Supiori Island	ID	Asia/Jayapura	-1.19	136.108	m
+BIL	Billings	US	America/Denver	45.8089	-108.5412	m
+BIM	South Bimini	BS	America/Nassau	25.6999	-79.2647	m
+BIO	Bilbao	ES	Europe/Madrid	43.3011	-2.9106	l
+BIQ	Biarritz/Anglet/Bayonne	FR	Europe/Paris	43.4684	-1.5232	m
+BIR	Biratnagar	NP	Asia/Kathmandu	26.4815	87.264	m
+BIS	Bismarck	US	America/Chicago	46.7727	-100.7469	m
+BJA	Bejaia	DZ	Africa/Algiers	36.7125	5.0699	l
+BJB	Bojnord	IR	Asia/Tehran	37.493	57.3082	m
+BJC	Denver	US	America/Denver	39.9088	-105.117	m
+BJF	Batsfjord	NO	Europe/Oslo	70.6003	29.6926	m
+BJL	Banjul	GM	Africa/Banjul	13.338	-16.6522	l
+BJM	Bujumbura	BI	Africa/Bujumbura	-3.324	29.3185	l
+BJR	Bahir Dar	ET	Africa/Addis_Ababa	11.6081	37.3216	m
+BJV	Bodrum	TR	Europe/Istanbul	37.2493	27.664	l
+BJX	Silao	MX	America/Mexico_City	20.9927	-101.4803	l
+BJZ	Badajoz	ES	Europe/Madrid	38.8913	-6.8213	m
+BKC	Buckland	US	America/Anchorage	65.9816	-161.149	s
+BKG	Branson	US	America/Chicago	36.5321	-93.2005	m
+BKI	Kota Kinabalu	MY	Asia/Kuching	5.9327	116.0493	l
+BKK	Bangkok	TH	Asia/Bangkok	13.6811	100.747	l
+BKM	Bakalalan	MY	Asia/Kuching	3.974	115.618	s
+BKN	Jebel	TM	Asia/Ashgabat	39.6811	54.206	m
+BKO	Senou	ML	Africa/Bamako	12.5335	-7.9499	l
+BKQ	Blackall	AU	Australia/Brisbane	-24.4317	145.4297	m
+BKS	Bengkulu-Sumatra Island	ID	Asia/Jakarta	-3.8637	102.339	m
+BKW	Beckley	US	America/New_York	37.7873	-81.1242	m
+BKZ	Bukoba	TZ	Africa/Dar_es_Salaam	-1.332	31.8212	s
+BLA	Barcelona	VE	America/Caracas	10.1111	-64.6922	l
+BLB	Panama City	PA	America/Panama	8.9148	-79.5996	s
+BLD	Boulder City	US	America/Los_Angeles	35.9472	-114.8588	m
+BLE	Borlange	SE	Europe/Stockholm	60.422	15.5152	m
+BLI	Bellingham	US	America/Los_Angeles	48.7928	-122.538	m
+BLJ	Batna	DZ	Africa/Algiers	35.7521	6.3086	l
+BLL	Billund	DK	Europe/Copenhagen	55.7403	9.157	l
+BLQ	Bologna	IT	Europe/Rome	44.5354	11.2887	l
+BLR	Bangalore	IN	Asia/Kolkata	13.1979	77.7063	l
+BLV	Belleville	US	America/Chicago	38.5452	-89.8352	m
+BLW	Belet Uen	SO	Africa/Mogadishu	4.767	45.2388	s
+BLZ	Blantyre	MW	Africa/Blantyre	-15.6772	34.9723	l
+BMA	Stockholm	SE	Europe/Stockholm	59.3544	17.9417	m
+BME	Broome	AU	Australia/Perth	-17.9492	122.2283	l
+BMI	Bloomington-Normal	US	America/Chicago	40.4771	-88.9159	m
+BMK	Borkum	DE	Europe/Berlin	53.5964	6.7092	s
+BMO	Banmaw	MM	Asia/Yangon	24.2704	97.2476	s
+BMR	Baltrum	DE	Europe/Berlin	53.7249	7.3733	s
+BMU	Bima-Sumbawa Island	ID	Asia/Makassar	-8.5372	118.685	m
+BMV	Buon Ma Thuot	VN	Asia/Ho_Chi_Minh	12.6683	108.12	m
+BMW	Bordj Badji Mokhtar	DZ	Africa/Algiers	21.3778	0.927	m
+BMY	Waala	NC	Pacific/Noumea	-19.7205	163.6611	s
+BNA	Nashville	US	America/Chicago	36.1245	-86.6782	l
+BNB	Boende	CD	Africa/Kinshasa	-0.2867	20.8836	s
+BND	Bandar Abbas	IR	Asia/Tehran	27.2183	56.3778	l
+BNE	Brisbane	AU	Australia/Brisbane	-27.3842	153.117	l
+BNI	Benin	NG	Africa/Lagos	6.317	5.5995	m
+BNK	Ballina	AU	Australia/Sydney	-28.8332	153.5615	m
+BNN	Bronnoy	NO	Europe/Oslo	65.4611	12.2175	m
+BNS	Barinas	VE	America/Caracas	8.615	-70.2142	m
+BNX	Banja Luka	BA	Europe/Sarajevo	44.9414	17.2975	l
+BNY	Anua	SB	Pacific/Guadalcanal	-11.3022	159.7983	s
+BOB	Motu Mute	PF	Pacific/Tahiti	-16.4444	-151.751	m
+BOC	Isla Colon	PA	America/Panama	9.3408	-82.2508	m
+BOD	Bordeaux/Merignac	FR	Europe/Paris	44.8287	-0.7154	l
+BOG	Bogota	CO	America/Bogota	4.7016	-74.1469	l
+BOH	Bournemouth	GB	Europe/London	50.7805	-1.8396	m
+BOI	Boise	US	America/Boise	43.5644	-116.223	l
+BOJ	Burgas	BG	Europe/Sofia	42.5699	27.5152	l
+BOM	Mumbai	IN	Asia/Kolkata	19.0887	72.8679	l
+BON	Kralendijk	BQ	America/Kralendijk	12.131	-68.2685	l
+BOO	Bodo	NO	Europe/Oslo	67.2692	14.3653	l
+BOR	Belfort	LA	Europe/Paris	20.324	100.1654	m
+BOS	Boston	US	America/New_York	42.362	-71.0079	l
+BOY	Bobo Dioulasso	BF	Africa/Ouagadougou	11.1601	-4.331	l
+BPL	Bole	CN	Asia/Shanghai	44.8955	82.3001	m
+BPN	Balikpapan-Borneo Island	ID	Asia/Makassar	-1.2683	116.8945	l
+BPS	Porto Seguro	BR	America/Bahia	-16.4384	-39.0806	l
+BPT	Beaumont/Port Arthur	US	America/Chicago	29.9508	-94.0207	m
+BPX	Bangda	CN	Asia/Shanghai	30.5536	97.1083	m
+BPY	Besalampy	MG	Indian/Antananarivo	-16.7445	44.4825	m
+BQB	Busselton	AU	Australia/Perth	-33.6872	115.4003	s
+BQG	Bogorodskoye	RU	Asia/Vladivostok	52.381	140.4494	s
+BQJ	Batagay	RU	Asia/Vladivostok	67.648	134.695	s
+BQK	Brunswick	US	America/New_York	31.2588	-81.4665	m
+BQL	Boulia	AU	Australia/Brisbane	-22.9133	139.9	m
+BQN	Aguadilla	PR	America/Puerto_Rico	18.4949	-67.1294	m
+BQS	Blagoveschensk	RU	Asia/Yakutsk	50.4267	127.4155	m
+BQT	Brest	BY	Europe/Minsk	52.1081	23.8968	l
+BQU	Bequia	VC	America/St_Vincent	12.9884	-61.262	m
+BRA	Barreiras	BR	America/Bahia	-12.0789	-45.009	s
+BRC	San Carlos de Bariloche	AR	America/Argentina/Salta	-41.1512	-71.1575	l
+BRD	Brainerd	US	America/Chicago	46.4029	-94.1297	m
+BRE	Bremen	DE	Europe/Berlin	53.0468	8.7893	l
+BRI	Bari	IT	Europe/Rome	41.1389	16.7606	l
+BRK	Bourke	AU	Australia/Sydney	-30.0392	145.952	m
+BRL	Burlington	US	America/Chicago	40.7832	-91.1255	m
+BRM	Barquisimeto	VE	America/Caracas	10.0427	-69.3586	l
+BRN	Bern	CH	Europe/Zurich	46.9127	7.4988	m
+BRO	Brownsville	US	America/Chicago	25.9072	-97.4252	m
+BRQ	Brno	CZ	Europe/Prague	49.1513	16.694	m
+BRR	Eoligarry	GB	Europe/London	57.0228	-7.4431	m
+BRS	Bristol	GB	Europe/London	51.3823	-2.7165	l
+BRU	Brussels	BE	Europe/Brussels	50.9014	4.4844	l
+BRW	Barrow	US	America/Anchorage	71.2854	-156.766	m
+BRX	Barahona	DO	America/Santo_Domingo	18.2515	-71.1204	m
+BSA	Bosaso	SO	Africa/Mogadishu	11.2752	49.1392	l
+BSB	Brasilia	BR	America/Sao_Paulo	-15.8692	-47.9208	l
+BSC	Bahia Solano	CO	America/Bogota	6.2029	-77.3947	m
+BSD	Baoshan	CN	Asia/Shanghai	25.0533	99.1683	m
+BSG	Bata	GQ	Africa/Malabo	1.9055	9.8057	l
+BSK	Biskra	DZ	Africa/Algiers	34.7932	5.7389	l
+BSL	Bale/Mulhouse	FR	Europe/Paris	47.6007	7.5211	l
+BSO	Basco	PH	Asia/Manila	20.4513	121.98	m
+BSR	Basrah	IQ	Asia/Baghdad	30.5491	47.6621	l
+BSX	Pathein	MM	Asia/Yangon	16.8152	94.7799	s
+BSZ	Bishkek	KG	Asia/Bishkek	43.0613	74.4776	l
+BTC	Batticaloa	LK	Asia/Colombo	7.7051	81.6772	m
+BTH	Batam Island	ID	Asia/Jakarta	1.121	104.119	l
+BTI	Barter Island Lrrs	US	America/Anchorage	70.134	-143.582	m
+BTJ	Banda Aceh-Sumatra Island	ID	Asia/Jakarta	5.5251	95.42	l
+BTK	Bratsk	RU	Asia/Irkutsk	56.3696	101.7018	m
+BTM	Butte	US	America/Denver	45.9548	-112.497	m
+BTR	Baton Rouge	US	America/Chicago	30.5332	-91.1496	m
+BTS	Bratislava	SK	Europe/Bratislava	48.1702	17.2127	l
+BTT	Bettles	US	America/Anchorage	66.9139	-151.529	s
+BTU	Bintulu	MY	Asia/Kuching	3.1239	113.02	m
+BTV	Burlington	US	America/New_York	44.4719	-73.1533	m
+BTW	Batu Licin-Borneo Island	ID	Asia/Makassar	-3.4124	115.995	s
+BUA	Buka Island	PG	Pacific/Bougainville	-5.4223	154.6727	m
+BUC	Burketown	AU	Australia/Brisbane	-17.7486	139.534	s
+BUD	Budapest	HU	Europe/Budapest	47.4302	19.2624	l
+BUF	Buffalo	US	America/New_York	42.9405	-78.7322	l
+BUI	Bokondini-Papua Island	ID	Asia/Jayapura	-3.6846	138.6774	s
+BUN	Buenaventura	CO	America/Bogota	3.8196	-76.9898	m
+BUQ	Bulawayo	ZW	Africa/Harare	-20.0163	28.6229	l
+BUR	Burbank	US	America/Los_Angeles	34.2028	-118.3581	l
+BUS	Batumi	GE	Asia/Tbilisi	41.6094	41.6003	l
+BUT	Jakar	BT	Asia/Thimphu	27.5622	90.7471	s
+BUX	Bunia	CD	Africa/Lubumbashi	1.5657	30.2207	m
+BUZ	Bushehr	IR	Asia/Tehran	28.9448	50.8346	m
+BVA	Beauvais/Tille	FR	Europe/Paris	49.4544	2.1128	l
+BVB	Boa Vista	BR	America/Boa_Vista	2.8462	-60.6906	l
+BVC	Rabil	CV	Atlantic/Cape_Verde	16.1365	-22.8889	l
+BVE	Nespouls	FR	Europe/Paris	45.0397	1.4856	m
+BVG	Berlevag	NO	Europe/Oslo	70.8715	29.0341	m
+BVH	Vilhena	BR	America/Porto_Velho	-12.6944	-60.0983	m
+BVI	Birdsville	AU	Australia/Brisbane	-25.8975	139.348	m
+BVJ	Bovanenkovo	RU	Asia/Yekaterinburg	70.3153	68.3336	m
+BVS	Breves	BR	America/Belem	-1.6365	-50.4436	s
+BWA	Bhairawa	NP	Asia/Kathmandu	27.5046	83.4104	l
+BWI	Baltimore	US	America/New_York	39.1754	-76.6683	l
+BWK	Brac Island	HR	Europe/Zagreb	43.2845	16.6784	m
+BWN	Bandar Seri Begawan	BN	Asia/Brunei	4.9442	114.928	l
+BWO	Balakovo	RU	Europe/Saratov	51.8583	47.7456	m
+BWT	Burnie	AU	Australia/Hobart	-40.997	145.726	m
+BXG	Bendigo	AU	Australia/Melbourne	-36.7394	144.33	s
+BXH	Balkhash	KZ	Asia/Almaty	46.8942	75.0045	m
+BXR	Bam	IR	Asia/Tehran	29.0842	58.45	m
+BXT	Bontang-Borneo Island	ID	Asia/Makassar	0.1217	117.4766	s
+BXU	Butuan City	PH	Asia/Manila	8.9515	125.4788	m
+BXY	Baikonur	KZ	Asia/Qyzylorda	45.622	63.2108	l
+BYK	Bouake	CI	Africa/Abidjan	7.7388	-5.0737	m
+BYM	Bayamo	CU	America/Havana	20.3964	-76.6214	m
+BYN	Bayankhongor	MN	Asia/Ulaanbaatar	46.1633	100.704	m
+BYO	Bonito	BR	America/Campo_Grande	-21.2473	-56.4524	s
+BYR	Laeso	DK	Europe/Copenhagen	57.2772	11.0001	s
+BYW	Blakely Island	US	America/Los_Angeles	48.5792	-122.8238	s
+BZE	Belize City	BZ	America/Belize	17.54	-88.3036	l
+BZG	Bydgoszcz	PL	Europe/Warsaw	53.0968	17.9777	m
+BZI	Balikesir	TR	Europe/Istanbul	39.6193	27.926	m
+BZL	Barisal	BD	Asia/Dhaka	22.801	90.3012	m
+BZN	Bozeman	US	America/Denver	45.7789	-111.1537	m
+BZO	Bolzano	IT	Europe/Rome	46.4592	11.3261	m
+BZR	Beziers/Vias	FR	Europe/Paris	43.3235	3.3539	m
+BZV	Brazzaville	CG	Africa/Brazzaville	-4.2517	15.253	l
+BZX	Bazhong	CN	Asia/Shanghai	31.7384	106.6449	m
+CAB	Cabinda	AO	Africa/Luanda	-5.5984	12.1881	m
+CAC	Cascavel	BR	America/Sao_Paulo	-25.0003	-53.5012	m
+CAE	Columbia	US	America/New_York	33.9382	-81.123	m
+CAF	Carauari	BR	America/Manaus	-4.8715	-66.8976	s
+CAG	Cagliari	IT	Europe/Rome	39.2515	9.0543	l
+CAH	Ca Mau City	VN	Asia/Ho_Chi_Minh	9.1777	105.1778	m
+CAI	Cairo	EG	Africa/Cairo	30.1115	31.3967	l
+CAJ	Canaima	VE	America/Caracas	6.232	-62.8548	m
+CAK	Akron	US	America/New_York	40.9161	-81.4422	m
+CAL	Campbeltown	GB	Europe/London	55.4372	-5.6864	m
+CAN	Guangzhou	CN	Asia/Shanghai	23.3924	113.299	l
+CAP	Cap Haitien	HT	America/Port-au-Prince	19.7255	-72.2007	l
+CAT	Cascais	PT	Europe/Lisbon	38.725	-9.3552	m
+CAU	Caruaru	BR	America/Recife	-8.2824	-36.0135	s
+CAW	Campos Dos Goytacazes	BR	America/Sao_Paulo	-21.6983	-41.3017	m
+CAY	Cayenne / Rochambeau	GF	America/Cayenne	4.82	-52.3613	l
+CAZ	Cobar	AU	Australia/Sydney	-31.5383	145.794	m
+CBB	Cochabamba	BO	America/La_Paz	-17.4211	-66.1771	l
+CBH	Bechar	DZ	Africa/Algiers	31.6457	-2.2699	m
+CBO	Cotabato City	PH	Asia/Manila	7.1648	124.2099	m
+CBQ	Calabar	NG	Africa/Lagos	4.976	8.3472	m
+CBR	Canberra	AU	Australia/Sydney	-35.3069	149.195	m
+CBT	Catumbela	AO	Africa/Luanda	-12.4792	13.4869	m
+CCC	Cayo Coco	CU	America/Havana	22.461	-78.3284	m
+CCE	New Administrative Capital	EG	Africa/Cairo	30.0647	31.84	m
+CCF	Carcassonne/Salvaza	FR	Europe/Paris	43.216	2.3063	m
+CCJ	Calicut	IN	Asia/Kolkata	11.136	75.9552	l
+CCK	Cocos Islands	CC	Indian/Cocos	-12.1922	96.8341	l
+CCP	Concepcion	CL	America/Santiago	-36.7724	-73.0628	l
+CCR	Concord	US	America/Los_Angeles	37.9897	-122.057	m
+CCS	Caracas	VE	America/Caracas	10.6022	-66.9912	l
+CCU	Kolkata	IN	Asia/Kolkata	22.654	88.4476	l
+CCV	Craig Cove	VU	Pacific/Efate	-16.265	167.924	s
+CCZ	Chub Cay	BS	America/Nassau	25.4171	-77.8809	m
+CDB	Cold Bay	US	America/Nome	55.2079	-162.725	m
+CDC	Cedar City	US	America/Denver	37.701	-113.099	m
+CDE	Chengde	CN	Asia/Shanghai	41.1225	118.0739	m
+CDG	Paris	FR	Europe/Paris	49.009	2.5541	l
+CDP	Kadapa	IN	Asia/Kolkata	14.5132	78.7692	m
+CDR	Chadron	US	America/Denver	42.8376	-103.095	m
+CDT	Castellón	ES	Europe/Madrid	40.2139	0.0733	m
+CDV	Cordova	US	America/Anchorage	60.4918	-145.478	m
+CEB	Lapu-Lapu City	PH	Asia/Manila	10.3093	123.9797	l
+CEC	Crescent City	US	America/Los_Angeles	41.7789	-124.2364	m
+CED	Ceduna	AU	Australia/Adelaide	-32.1306	133.71	m
+CEE	Cherepovets	RU	Europe/Moscow	59.2736	38.0158	m
+CEI	Chiang Rai	TH	Asia/Bangkok	19.9523	99.8829	l
+CEK	Chelyabinsk	RU	Asia/Yekaterinburg	55.3031	61.5049	l
+CEL	Canela	BR	America/Sao_Paulo	-29.3701	-50.8317	s
+CEM	Central	US	America/Anchorage	65.5738	-144.7807	s
+CEN	Ciudad Obregon	MX	America/Hermosillo	27.3926	-109.833	m
+CEZ	Cortez	US	America/Denver	37.303	-108.628	m
+CFB	Cabo Frio	BR	America/Sao_Paulo	-22.9215	-42.0719	s
+CFE	Clermont-Ferrand/Auvergne	FR	Europe/Paris	45.7867	3.1692	l
+CFG	Cienfuegos	CU	America/Havana	22.15	-80.4142	m
+CFK	Chlef	DZ	Africa/Algiers	36.2166	1.3411	l
+CFN	Donegal	IE	Europe/Dublin	55.0442	-8.341	m
+CFR	Caen/Carpiquet	FR	Europe/Paris	49.1768	-0.4549	m
+CFS	Coffs Harbour	AU	Australia/Sydney	-30.3206	153.116	m
+CFU	Kerkyra Island	GR	Europe/Athens	39.6014	19.9122	l
+CGB	Cuiaba	BR	America/Cuiaba	-15.6529	-56.1167	l
+CGD	Changde	CN	Asia/Shanghai	28.9189	111.64	m
+CGH	Sao Paulo	BR	America/Sao_Paulo	-23.6277	-46.6546	l
+CGI	Cape Girardeau	US	America/Chicago	37.2253	-89.5708	m
+CGK	Jakarta	ID	Asia/Jakarta	-6.1256	106.656	l
+CGM	Mambajao	PH	Asia/Manila	9.2539	124.7091	m
+CGN	Cologne	DE	Europe/Berlin	50.8659	7.1427	l
+CGO	Zhengzhou	CN	Asia/Shanghai	34.5265	113.8492	l
+CGP	Chittagong	BD	Asia/Dhaka	22.2496	91.8133	l
+CGQ	Changchun	CN	Asia/Shanghai	43.9962	125.685	l
+CGR	Campo Grande	BR	America/Campo_Grande	-20.47	-54.674	m
+CGY	Laguindingan	PH	Asia/Manila	8.6122	124.4565	l
+CHA	Chattanooga	US	America/New_York	35.0353	-85.2038	m
+CHC	Christchurch	NZ	Pacific/Auckland	-43.489	172.5321	l
+CHG	Chaoyang	CN	Asia/Shanghai	41.5381	120.435	m
+CHH	Chachapoyas	PE	America/Lima	-6.2019	-77.8562	m
+CHM	Chimbote	PE	America/Lima	-9.1496	-78.5238	m
+CHO	Charlottesville	US	America/New_York	38.1386	-78.4529	m
+CHQ	Souda	GR	Europe/Athens	35.5312	24.1507	l
+CHS	Charleston	US	America/New_York	32.8962	-80.0382	l
+CHT	Waitangi	NZ	Pacific/Chatham	-43.8119	-176.4651	m
+CHU	Chuathbaluk	US	America/Anchorage	61.5791	-159.216	s
+CHX	Changuinola	PA	America/Panama	9.459	-82.5151	m
+CHY	Choiseul Bay	SB	Pacific/Guadalcanal	-6.7119	156.3961	s
+CIA	Roma	IT	Europe/Rome	41.7988	12.5953	l
+CID	Cedar Rapids	US	America/Chicago	41.8847	-91.7108	m
+CIF	Chifeng	CN	Asia/Shanghai	42.1597	118.841	m
+CIH	Changzhi	CN	Asia/Shanghai	36.2475	113.126	s
+CIJ	Cobija	BO	America/La_Paz	-11.0391	-68.7828	m
+CIK	Chalkyitsik	US	America/Anchorage	66.645	-143.74	s
+CIT	Shymkent	KZ	Asia/Almaty	42.365	69.4756	l
+CIU	Sault Ste Marie	US	America/Detroit	46.242	-84.4621	m
+CIW	Canouan	VC	America/St_Vincent	12.699	-61.3424	m
+CIX	Chiclayo	PE	America/Lima	-6.7892	-79.8283	l
+CIY	Comiso	IT	Europe/Rome	36.9958	14.6089	m
+CJA	Cajamarca	PE	America/Lima	-7.1392	-78.4894	m
+CJB	Coimbatore	IN	Asia/Kolkata	11.03	77.0434	l
+CJC	Calama	CL	America/Santiago	-22.4982	-68.9036	m
+CJJ	Cheongju	KR	Asia/Seoul	36.7156	127.5003	l
+CJL	Chitral	PK	Asia/Karachi	35.8862	71.7999	m
+CJM	Chumphon	TH	Asia/Bangkok	10.7112	99.3617	m
+CJS	Ciudad Juarez	MX	America/Ciudad_Juarez	31.6367	-106.4285	l
+CJU	Jeju City	KR	Asia/Seoul	33.5121	126.4925	l
+CJZ	Tapes	BR	America/Sao_Paulo	-6.8827	-38.6158	s
+CKB	Clarksburg	US	America/New_York	39.2966	-80.2281	m
+CKG	Chongqing	CN	Asia/Shanghai	29.7123	106.6519	l
+CKH	Chokurdah	RU	Asia/Srednekolymsk	70.6231	147.902	m
+CKS	Carajas	BR	America/Belem	-6.1178	-50.0034	m
+CKW	Christmas Creek mine	AU	Australia/Perth	-22.3543	119.6426	s
+CKY	Conakry	GN	Africa/Conakry	9.5769	-13.612	l
+CKZ	Canakkale	TR	Europe/Istanbul	40.1377	26.4268	m
+CLD	Carlsbad	US	America/Los_Angeles	33.1283	-117.28	m
+CLE	Cleveland	US	America/New_York	41.4117	-81.8498	l
+CLJ	Cluj-Napoca	RO	Europe/Bucharest	46.786	23.6857	l
+CLL	College Station	US	America/Chicago	30.5886	-96.3638	m
+CLO	Cali	CO	America/Bogota	3.5427	-76.3819	l
+CLP	Clarks Point	US	America/Anchorage	58.8337	-158.529	s
+CLQ	Colima	MX	America/Mexico_City	19.277	-103.577	m
+CLT	Charlotte	US	America/New_York	35.214	-80.9431	l
+CLV	Caldas Novas	BR	America/Sao_Paulo	-17.7251	-48.6063	s
+CLY	Calvi/Sainte-Catherine	FR	Europe/Paris	42.5304	8.793	m
+CMA	Cunnamulla	AU	Australia/Brisbane	-28.03	145.622	m
+CMB	Colombo	LK	Asia/Colombo	7.1808	79.8841	l
+CME	Ciudad del Carmen	MX	America/Merida	18.6515	-91.7994	m
+CMF	Chambery/Aix-les-Bains	FR	Europe/Paris	45.6381	5.8802	m
+CMG	Corumba	BR	America/Campo_Grande	-19.0119	-57.6728	m
+CMH	Columbus	US	America/New_York	39.998	-82.8919	l
+CMI	Champaign/Urbana	US	America/Chicago	40.0398	-88.2762	m
+CMN	Casablanca	MA	Africa/Casablanca	33.3675	-7.59	l
+CMU	Kundiawa	PG	Pacific/Port_Moresby	-6.0243	144.971	m
+CMW	Camaguey	CU	America/Havana	21.4199	-77.848	l
+CMX	Hancock	US	America/Detroit	47.1684	-88.4891	m
+CNB	Coonamble	AU	Australia/Sydney	-30.9809	148.3778	m
+CNC	Coconut Island Airport	AU	Australia/Brisbane	-10.0501	143.07	s
+CND	Constanta	RO	Europe/Bucharest	44.3622	28.4883	l
+CNF	Belo Horizonte	BR	America/Sao_Paulo	-19.6357	-43.9669	l
+CNI	Changhai	CN	Asia/Shanghai	39.2664	122.667	s
+CNJ	Cloncurry	AU	Australia/Brisbane	-20.6686	140.504	m
+CNM	Carlsbad	US	America/Denver	32.3375	-104.263	m
+CNN	Mattanur	IN	Asia/Kolkata	11.9163	75.545	l
+CNP	Neerlerit Inaat	GL	America/Scoresbysund	70.7431	-22.6505	m
+CNQ	Corrientes	AR	America/Argentina/Cordoba	-27.4455	-58.7619	m
+CNS	Cairns	AU	Australia/Brisbane	-16.8789	145.7495	l
+CNX	Chiang Mai	TH	Asia/Bangkok	18.7668	98.9626	l
+CNY	Moab	US	America/Denver	38.755	-109.755	m
+COD	Cody	US	America/Denver	44.5202	-109.024	m
+COK	Cochin	IN	Asia/Kolkata	10.151	76.4008	l
+COL	Coll Island	GB	Europe/London	56.6019	-6.6178	s
+COO	Cotonou	BJ	Africa/Porto-Novo	6.3572	2.3843	l
+COQ	Choibalsan	MN	Asia/Choibalsan	48.1354	114.6472	m
+COR	Cordoba	AR	America/Argentina/Cordoba	-31.3123	-64.2083	l
+COS	Colorado Springs	US	America/Denver	38.8058	-104.701	l
+COU	Columbia	US	America/Chicago	38.8181	-92.2196	m
+COV	Tarsus	TR	Europe/Istanbul	36.8915	35.0712	l
+CPC	Chapelco/San Martin de los Andes	AR	America/Argentina/Salta	-40.0754	-71.1373	m
+CPD	Coober Pedy	AU	Australia/Adelaide	-29.0383	134.7222	m
+CPE	Campeche	MX	America/Merida	19.816	-90.5001	m
+CPH	Copenhagen	DK	Europe/Copenhagen	55.6179	12.656	l
+CPO	Copiapo	CL	America/Santiago	-27.2612	-70.7792	m
+CPR	Casper	US	America/Denver	42.9074	-106.4616	m
+CPT	Cape Town	ZA	Africa/Johannesburg	-33.974	18.6043	l
+CPV	Campina Grande	BR	America/Fortaleza	-7.2697	-35.8961	m
+CPX	Culebra Island	PR	America/Puerto_Rico	18.313	-65.3039	m
+CQW	Wulong	CN	Asia/Shanghai	29.4657	107.6937	m
+CRA	Craiova	RO	Europe/Bucharest	44.3181	23.8886	l
+CRD	Comodoro Rivadavia	AR	America/Argentina/Catamarca	-45.7869	-67.4634	l
+CRI	Colonel Hill	BS	America/Nassau	22.7456	-74.1824	m
+CRK	Angeles City	PH	Asia/Manila	15.186	120.56	l
+CRL	Brussels	BE	Europe/Brussels	50.462	4.4596	l
+CRM	Catarman	PH	Asia/Manila	12.5016	124.6353	m
+CRP	Corpus Christi	US	America/Chicago	27.7704	-97.5012	m
+CRU	Carriacou Island	GD	America/Grenada	12.4761	-61.4728	s
+CRV	Crotone	IT	Europe/Rome	38.9972	17.0802	m
+CRW	Charleston	US	America/New_York	38.3731	-81.5932	m
+CRZ	Turkmenabat	TM	Asia/Ashgabat	38.9307	63.564	l
+CSA	Colonsay	GB	Europe/London	56.0575	-6.2431	s
+CSG	Columbus	US	America/New_York	32.5164	-84.9396	m
+CSH	Solovetsky Islands	RU	Europe/Moscow	65.03	35.7306	s
+CSK	Cap Skirring	SN	Africa/Dakar	12.3953	-16.748	m
+CSW	Cabo San Lucas	MX	America/Mazatlan	22.9491	-109.9395	m
+CSX	Changsha	CN	Asia/Shanghai	28.1892	113.22	l
+CSY	Cheboksary	RU	Europe/Moscow	56.0903	47.3473	m
+CTA	Catania	IT	Europe/Rome	37.4668	15.0664	l
+CTC	Catamarca	AR	America/Argentina/Catamarca	-28.5931	-65.7512	m
+CTD	Chitre	PA	America/Panama	7.9878	-80.4098	m
+CTG	Cartagena	CO	America/Bogota	10.4424	-75.513	l
+CTL	Charleville	AU	Australia/Brisbane	-26.4133	146.262	m
+CTM	Chetumal	MX	America/Cancun	18.505	-88.328	m
+CTN	Cooktown	AU	Australia/Brisbane	-15.4436	145.1832	m
+CTS	Chitose / Tomakomai	JP	Asia/Tokyo	42.7748	141.6904	l
+CTU	Chengdu	CN	Asia/Shanghai	30.5583	103.946	l
+CUA	Ciudad Constitucion	MX	America/Mazatlan	25.0538	-111.615	s
+CUC	Cucuta	CO	America/Bogota	7.9276	-72.5115	m
+CUE	Cuenca	EC	America/Guayaquil	-2.8895	-78.9844	m
+CUF	Cuneo	IT	Europe/Rome	44.5475	7.623	m
+CUL	Culiacan	MX	America/Mazatlan	24.765	-107.4752	l
+CUM	Cumana	VE	America/Caracas	10.4503	-64.1305	m
+CUN	Cancun	MX	America/Cancun	21.0408	-86.8735	l
+CUP	Carupano	VE	America/Caracas	10.66	-63.2617	m
+CUQ	Coen	AU	Australia/Brisbane	-13.7611	143.1133	m
+CUR	Willemstad	CW	America/Curacao	12.1889	-68.9598	l
+CUU	Chihuahua	MX	America/Chihuahua	28.7026	-105.9638	l
+CUZ	Cusco	PE	America/Lima	-13.5357	-71.9388	l
+CVG	Hebron	US	America/New_York	39.0488	-84.6678	l
+CVM	Ciudad Victoria	MX	America/Monterrey	23.7033	-98.9565	m
+CVN	Clovis	US	America/Denver	34.4266	-103.0788	m
+CVQ	Carnarvon	AU	Australia/Perth	-24.8843	113.6664	m
+CVU	Corvo	PT	Atlantic/Azores	39.6715	-31.1136	s
+CWA	Mosinee	US	America/Chicago	44.7774	-89.6702	m
+CWB	Curitiba	BR	America/Sao_Paulo	-25.5285	-49.1758	l
+CWL	Cardiff	GB	Europe/London	51.3967	-3.3433	l
+CWS	Center Island	US	America/Los_Angeles	48.49	-122.8316	s
+CXB	Cox's Bazar	BD	Asia/Dhaka	21.4575	91.9633	m
+CXI	Banana	KI	Pacific/Kiritimati	1.9863	-157.35	l
+CXJ	Caxias Do Sul	BR	America/Sao_Paulo	-29.1972	-51.1876	m
+CXP	Cilacap-Java Island	ID	Asia/Jakarta	-7.6451	109.034	m
+CXR	Nha Trang	VN	Asia/Ho_Chi_Minh	11.9982	109.219	l
+CYA	Les Cayes	HT	America/Port-au-Prince	18.2711	-73.7883	m
+CYB	Cayman Brac	KY	America/Cayman	19.687	-79.8828	m
+CYF	Chefornak	US	America/Nome	60.1367	-164.2792	s
+CYI	Chiayi City	TW	Asia/Taipei	23.4626	120.3905	m
+CYO	Cayo Largo del Sur	CU	America/Havana	21.6165	-81.546	m
+CYP	Calbayog City	PH	Asia/Manila	12.0726	124.5451	m
+CYS	Cheyenne	US	America/Denver	41.1557	-104.812	m
+CYT	Yakataga	US	America/Anchorage	60.081	-142.4945	s
+CYU	Cuyo	PH	Asia/Manila	10.8581	121.069	s
+CYX	Cherskiy	RU	Asia/Srednekolymsk	68.7406	161.338	m
+CYZ	Cauayan City	PH	Asia/Manila	16.9299	121.753	m
+CZE	Coro	VE	America/Caracas	11.4149	-69.6809	m
+CZL	Constantine	DZ	Africa/Algiers	36.276	6.6204	l
+CZM	Cozumel	MX	America/Cancun	20.5149	-86.9285	l
+CZS	Cruzeiro Do Sul	BR	America/Rio_Branco	-7.5999	-72.7695	m
+CZU	Corozal	CO	America/Bogota	9.3327	-75.2856	m
+CZX	Changzhou	CN	Asia/Shanghai	31.9205	119.7755	m
+DAB	Daytona Beach	US	America/New_York	29.1825	-81.0595	m
+DAC	Dhaka	BD	Asia/Dhaka	23.8433	90.3978	l
+DAD	Da Nang	VN	Asia/Ho_Chi_Minh	16.0439	108.199	l
+DAL	Dallas	US	America/Chicago	32.8448	-96.8477	l
+DAM	Damascus	SY	Asia/Damascus	33.4115	36.5156	l
+DAR	Dar es Salaam	TZ	Africa/Dar_es_Salaam	-6.8735	39.2073	l
+DAT	Datong	CN	Asia/Shanghai	40.0614	113.4805	l
+DAU	Daru	PG	Pacific/Port_Moresby	-9.0868	143.208	m
+DAV	David	PA	America/Panama	8.389	-82.4364	m
+DAX	Dazhou	CN	Asia/Shanghai	31.1302	107.4295	s
+DAY	Dayton	US	America/New_York	39.9024	-84.2194	m
+DBA	Dalbandin	PK	Asia/Karachi	28.8783	64.3998	s
+DBB	El Alamein	EG	Africa/Cairo	30.9243	28.4616	l
+DBM	Debra Marcos	ET	Africa/Addis_Ababa	10.3215	37.7419	s
+DBO	Dubbo	AU	Australia/Sydney	-32.2167	148.575	m
+DBQ	Dubuque	US	America/Chicago	42.402	-90.7095	m
+DBR	Darbhanga	IN	Asia/Kolkata	26.1928	85.9169	m
+DBV	Dubrovnik	HR	Europe/Zagreb	42.5622	18.2655	l
+DCA	Washington	US	America/New_York	38.8521	-77.0377	l
+DCF	Canefield	DM	America/Dominica	15.3367	-61.3921	m
+DCM	Castres/Mazamet	FR	Europe/Paris	43.5563	2.2892	m
+DCY	Daocheng County	CN	Asia/Shanghai	29.3163	100.0603	m
+DDC	Dodge City	US	America/Chicago	37.7634	-99.9656	m
+DDG	Dandong	CN	Asia/Shanghai	40.0255	124.2867	m
+DDR	Tingri	CN	Asia/Shanghai	28.6046	86.798	m
+DEA	Dera Ghazi Khan	PK	Asia/Karachi	29.961	70.4859	m
+DEB	Debrecen	HU	Europe/Budapest	47.4895	21.6163	l
+DEC	Decatur	US	America/Chicago	39.8346	-88.8657	m
+DED	Dehradun	IN	Asia/Kolkata	30.1892	78.1767	m
+DEE	Kunashir Island	RU	Asia/Magadan	43.9611	145.685	s
+DEF	Dezful	IR	Asia/Tehran	32.4344	48.3976	m
+DEL	New Delhi	IN	Asia/Kolkata	28.5556	77.0952	l
+DEM	Dembidollo	ET	Africa/Addis_Ababa	8.554	34.858	s
+DEN	Denver	US	America/Denver	39.86	-104.6738	l
+DFW	Dallas-Fort Worth	US	America/Chicago	32.8968	-97.038	l
+DGA	Dangriga	BZ	America/Belize	16.9825	-88.231	m
+DGH	Deoghar	IN	Asia/Kolkata	24.4468	86.705	s
+DGO	Durango	MX	America/Monterrey	24.1255	-104.5279	m
+DGT	Dumaguete City	PH	Asia/Manila	9.3342	123.3019	m
+DHM	Kangra	IN	Asia/Kolkata	32.1649	76.263	m
+DHN	Dothan	US	America/Chicago	31.3213	-85.4496	m
+DIA	Doha	QA	Asia/Qatar	25.2594	51.5655	l
+DIB	Dibrugarh	IN	Asia/Kolkata	27.4839	95.0169	m
+DIE	Antsiranana	MG	Indian/Antananarivo	-12.3494	49.2917	m
+DIG	Shangri-La	CN	Asia/Shanghai	27.7936	99.6772	m
+DIK	Dickinson	US	America/Denver	46.7975	-102.8019	m
+DIL	Dili	TL	Asia/Dili	-8.5466	125.5245	l
+DIN	Dien Bien Phu	VN	Asia/Bangkok	21.3975	103.008	m
+DIR	Dire Dawa	ET	Africa/Addis_Ababa	9.6235	41.855	l
+DIU	Diu	IN	Asia/Kolkata	20.7142	70.9219	s
+DIY	Diyarbakir	TR	Europe/Istanbul	37.8939	40.201	m
+DJB	Jambi-Sumatra Island	ID	Asia/Jakarta	-1.6387	103.6451	s
+DJE	Djerba	TN	Africa/Tunis	33.8737	10.7773	l
+DJG	Djanet	DZ	Africa/Algiers	24.2854	9.4637	l
+DJJ	Jayapura-Papua Island	ID	Asia/Jayapura	-2.5796	140.5199	l
+DJT	West Palm Beach	US	America/New_York	26.6832	-80.0956	l
+DLA	Douala	CM	Africa/Douala	4.0061	9.7195	l
+DLC	Dalian	CN	Asia/Shanghai	38.9657	121.5385	l
+DLE	Dole/Tavaux	FR	Europe/Paris	47.039	5.4276	m
+DLG	Dillingham	US	America/Anchorage	59.0447	-158.505	m
+DLH	Duluth	US	America/Chicago	46.8419	-92.1987	m
+DLI	Dalat	VN	Asia/Ho_Chi_Minh	11.7506	108.367	m
+DLM	Dalaman	TR	Europe/Istanbul	36.7131	28.7925	l
+DLU	Xiaguan	CN	Asia/Shanghai	25.6494	100.319	m
+DLZ	Dalanzadgad	MN	Asia/Ulaanbaatar	43.6086	104.3677	m
+DMB	Taraz	KZ	Asia/Almaty	42.8536	71.3036	l
+DMD	Doomadgee	AU	Australia/Brisbane	-17.9403	138.822	s
+DME	Moscow	RU	Europe/Moscow	55.4088	37.9063	l
+DMK	Bangkok	TH	Asia/Bangkok	13.9126	100.607	l
+DMM	Ad Dammam	SA	Asia/Riyadh	26.4691	49.7982	l
+DMU	Dimapur	IN	Asia/Kolkata	25.8839	93.7711	m
+DND	Dundee	GB	Europe/London	56.4525	-3.0258	m
+DNH	Dunhuang	CN	Asia/Shanghai	40.162	94.8128	l
+DNZ	Denizli	TR	Europe/Istanbul	37.7856	29.7013	m
+DOD	Dodoma	TZ	Africa/Dar_es_Salaam	-6.1706	35.756	m
+DOG	Dongola	SD	Africa/Khartoum	19.1537	30.4301	m
+DOH	Doha	QA	Asia/Qatar	25.2731	51.6081	l
+DOL	Deauville	FR	Europe/Paris	49.3652	0.1545	m
+DOM	Marigot	DM	America/Dominica	15.5467	-61.3011	m
+DOP	Dolpa	NP	Asia/Kathmandu	28.9857	82.8187	s
+DOV	Dover	US	America/New_York	39.1295	-75.466	m
+DOY	Dongying	CN	Asia/Shanghai	37.5014	118.7899	m
+DPL	Dipolog City	PH	Asia/Manila	8.602	123.3419	m
+DPO	Devonport	AU	Australia/Hobart	-41.1697	146.43	m
+DPS	Denpasar-Bali Island	ID	Asia/Makassar	-8.7484	115.1671	l
+DQA	Daqing Shi	CN	Asia/Shanghai	46.7509	125.1386	s
+DQM	Duqm	OM	Asia/Muscat	19.5019	57.6342	l
+DRG	Deering	US	America/Nome	66.0689	-162.7669	m
+DRJ	Drietabbetje	SR	America/Paramaribo	4.1114	-54.6728	s
+DRO	Durango	US	America/Denver	37.1515	-107.754	m
+DRP	Daraga	PH	Asia/Manila	13.1119	123.6768	l
+DRS	Dresden	DE	Europe/Berlin	51.1341	13.7678	l
+DRW	Darwin	AU	Australia/Darwin	-12.415	130.8818	l
+DSD	Grande Anse	GP	America/Guadeloupe	16.2969	-61.0844	s
+DSE	Dessie	ET	Africa/Addis_Ababa	11.1098	39.7259	s
+DSI	Destin	US	America/Chicago	30.4001	-86.4715	m
+DSM	Des Moines	US	America/Chicago	41.534	-93.6567	l
+DSN	Ordos	CN	Asia/Shanghai	39.4935	109.8599	l
+DSO	Hamhung	KP	Asia/Pyongyang	39.7452	127.474	m
+DSS	Diass	SN	Africa/Dakar	14.6709	-17.0728	l
+DTB	Siborong-Borong	ID	Asia/Jakarta	2.2597	98.9919	s
+DTD	Datadawai-Borneo Island	ID	Asia/Makassar	0.807	114.5291	s
+DTM	Dortmund	DE	Europe/Berlin	51.5183	7.6122	l
+DTR	Decatur	US	America/Los_Angeles	48.5002	-122.814	s
+DTW	Detroit	US	America/Detroit	42.2138	-83.3538	l
+DUB	Dublin	IE	Europe/Dublin	53.4287	-6.2621	l
+DUD	Dunedin	NZ	Pacific/Auckland	-45.929	170.1978	m
+DUE	Chitato	AO	Africa/Luanda	-7.4009	20.8185	m
+DUJ	Dubois	US	America/New_York	41.1783	-78.8987	m
+DUM	Dumai-Sumatra Island	ID	Asia/Jakarta	1.609	101.4335	m
+DUR	Durban	ZA	Africa/Johannesburg	-29.6144	31.1197	l
+DUS	Dusseldorf	DE	Europe/Berlin	51.2895	6.7668	l
+DUT	Unalaska	US	America/Nome	53.8988	-166.545	m
+DVL	Devils Lake	US	America/Chicago	48.1155	-98.9088	m
+DVO	Davao City	PH	Asia/Manila	7.1255	125.646	l
+DWB	Soalala	MG	Indian/Antananarivo	-16.1017	45.3588	s
+DWC	Jebel Ali	AE	Asia/Dubai	24.8962	55.1624	l
+DWD	Dawadmi	SA	Asia/Riyadh	24.4499	44.1212	m
+DXB	Dubai	AE	Asia/Dubai	25.2498	55.371	l
+DXN	Noida	IN	Asia/Kolkata	28.1799	77.6118	l
+DYG	Dayong	CN	Asia/Shanghai	29.1047	110.4428	l
+DYR	Anadyr	RU	Asia/Anadyr	64.7349	177.741	m
+DYU	Dushanbe	TJ	Asia/Dushanbe	38.5437	68.823	l
+DZA	Dzaoudzi	YT	Indian/Mayotte	-12.8093	45.2818	l
+DZH	Dazhou	CN	Asia/Shanghai	31.0488	107.4356	m
+DZN	Zhezkazgan	KZ	Asia/Almaty	47.709	67.7381	l
+EAA	Eagle	US	America/Anchorage	64.778	-141.1505	s
+EAM	Nejran	SA	Asia/Riyadh	17.6114	44.4192	m
+EAR	Kearney	US	America/Chicago	40.727	-99.0068	m
+EAS	Hondarribia	ES	Europe/Madrid	43.3565	-1.7906	m
+EAT	Wenatchee	US	America/Los_Angeles	47.3989	-120.207	m
+EAU	Eau Claire	US	America/Chicago	44.8658	-91.4843	m
+EBA	Marina  Di Campo	IT	Europe/Rome	42.7609	10.2398	m
+EBB	Kampala	UG	Africa/Kampala	0.0424	32.4435	l
+EBD	Al-Ubayyid	SD	Africa/Khartoum	13.1532	30.2327	m
+EBH	El Bayadh	DZ	Africa/Algiers	33.7217	1.0925	s
+EBJ	Esbjerg	DK	Europe/Copenhagen	55.5259	8.5534	m
+EBL	Arbil	IQ	Asia/Baghdad	36.236	43.9466	l
+ECN	Nicosia	CY	Asia/Famagusta	35.1531	33.5074	l
+ECP	Panama City Beach	US	America/Chicago	30.3571	-85.7954	m
+EDI	Edinburgh	GB	Europe/London	55.9501	-3.3723	l
+EDL	Eldoret	KE	Africa/Nairobi	0.4045	35.2389	l
+EDO	Edremit	TR	Europe/Istanbul	39.5525	27.0102	l
+EDR	Pormpuraaw	AU	Australia/Brisbane	-14.8965	141.6091	s
+EEK	Eek	US	America/Nome	60.2132	-162.044	s
+EFL	Kefallinia Island	GR	Europe/Athens	38.1201	20.5005	m
+EGC	Bergerac/Roumaniere	FR	Europe/Paris	44.8253	0.5186	m
+EGE	Eagle	US	America/Denver	39.6426	-106.918	m
+EGS	Egilsstadir	IS	Atlantic/Reykjavik	65.2833	-14.4014	m
+EGX	Egegik	US	America/Anchorage	58.1844	-157.3749	m
+EHU	Ezhou	CN	Asia/Shanghai	30.3412	115.0393	l
+EIE	Yeniseysk	RU	Asia/Krasnoyarsk	58.4742	92.1125	m
+EIN	Eindhoven	NL	Europe/Amsterdam	51.4501	5.3745	l
+EIS	Road Town	VG	America/Tortola	18.4455	-64.5417	l
+EJA	Barrancabermeja	CO	America/Bogota	7.0243	-73.8068	m
+EJH	Al Wajh	SA	Asia/Riyadh	26.1986	36.4764	m
+EKO	Elko	US	America/Los_Angeles	40.8249	-115.792	m
+EKS	Shakhtersk	RU	Asia/Sakhalin	49.1903	142.083	s
+ELC	Elcho Island	AU	Australia/Darwin	-12.0194	135.571	m
+ELD	El Dorado	US	America/Chicago	33.221	-92.8133	m
+ELF	El Fasher	SD	Africa/Khartoum	13.6149	25.3246	m
+ELG	El Menia	DZ	Africa/Algiers	30.5807	2.8616	m
+ELH	North Eleuthera	BS	America/Nassau	25.4758	-76.6808	m
+ELI	Elim	US	America/Nome	64.6147	-162.272	s
+ELM	Elmira/Corning	US	America/New_York	42.1599	-76.8916	m
+ELP	El Paso	US	America/Denver	31.8099	-106.3756	l
+ELQ	Buraidah	SA	Asia/Riyadh	26.3028	43.7744	l
+ELS	East London	ZA	Africa/Johannesburg	-33.0356	27.8259	l
+ELU	Guemar	DZ	Africa/Algiers	33.5114	6.7768	m
+EMA	Nottingham	GB	Europe/London	52.8311	-1.3281	l
+EMD	Emerald	AU	Australia/Brisbane	-23.5675	148.179	m
+EME	Emden	DE	Europe/Berlin	53.3911	7.2275	s
+EMK	Emmonak	US	America/Nome	62.7861	-164.491	m
+ENA	Kenai	US	America/Anchorage	60.5709	-151.2452	m
+ENE	Ende-Flores Island	ID	Asia/Makassar	-8.8491	121.661	s
+ENF	Enontekio	FI	Europe/Helsinki	68.3626	23.4243	m
+ENH	Enshi	CN	Asia/Shanghai	30.3203	109.485	m
+ENI	El Nido	PH	Asia/Manila	11.2024	119.4161	s
+ENO	Encarnacion	PY	America/Asuncion	-27.2275	-55.8376	l
+ENT	Eniwetok Atoll	MH	Pacific/Majuro	11.3407	162.328	s
+ENU	Enegu	NG	Africa/Lagos	6.4737	7.5605	l
+ENY	Yan'an	CN	Asia/Shanghai	36.4794	109.4641	m
+EOH	Medellin	CO	America/Bogota	6.2197	-75.5906	m
+EOI	Eday	GB	Europe/London	59.1906	-2.7722	m
+EPR	Esperance	AU	Australia/Perth	-33.6844	121.823	m
+EPU	Parnu	EE	Europe/Tallinn	58.419	24.4728	m
+EQS	Esquel	AR	America/Argentina/Catamarca	-42.908	-71.1395	m
+ERC	Erzincan	TR	Europe/Istanbul	39.7102	39.527	m
+ERF	Erfurt	DE	Europe/Berlin	50.9783	10.9607	l
+ERH	Errachidia	MA	Africa/Casablanca	31.9475	-4.3983	m
+ERI	Erie	US	America/New_York	42.0831	-80.1739	m
+ERL	Erenhot	CN	Asia/Shanghai	43.4241	112.0911	m
+ERS	Windhoek	NA	Africa/Windhoek	-22.6049	17.079	m
+ERZ	Erzurum	TR	Europe/Istanbul	39.9565	41.1702	m
+ESB	Ankara	TR	Europe/Istanbul	40.1281	32.9951	l
+ESC	Escanaba	US	America/Detroit	45.7232	-87.0886	m
+ESD	Eastsound	US	America/Los_Angeles	48.7082	-122.91	m
+ESL	Elista	RU	Europe/Moscow	46.3739	44.3309	m
+ESM	Tachina	EC	America/Guayaquil	0.9785	-79.6266	l
+ESR	El Salvador	CL	America/Santiago	-26.3111	-69.7652	m
+ESU	Essaouira	MA	Africa/Casablanca	31.3975	-9.6817	m
+ETM	Eilat	IL	Asia/Amman	29.727	35.0141	l
+ETR	Santa Rosa	EC	America/Guayaquil	-3.442	-79.997	m
+ETZ	Metz / Nancy	FR	Europe/Paris	48.9821	6.2513	m
+EUA	Eua Island	TO	Pacific/Tongatapu	-21.3783	-174.958	s
+EUG	Eugene	US	America/Los_Angeles	44.1246	-123.212	m
+EUN	El Aaiun	EH	Africa/El_Aaiun	27.1425	-13.2249	l
+EUX	Sint Eustatius	BQ	America/Kralendijk	17.4965	-62.9794	m
+EVE	Evenes	NO	Europe/Oslo	68.4913	16.6781	l
+EVG	Sveg	SE	Europe/Stockholm	62.0478	14.4229	s
+EVN	Yerevan	AM	Asia/Yerevan	40.1489	44.3979	l
+EVV	Evansville	US	America/Chicago	38.037	-87.5324	m
+EWB	New Bedford	US	America/New_York	41.6761	-70.9569	m
+EWN	New Bern	US	America/New_York	35.073	-77.0429	m
+EWR	Newark	US	America/New_York	40.6894	-74.1705	l
+EXT	Exeter	GB	Europe/London	50.7343	-3.414	m
+EYP	El Yopal	CO	America/Bogota	5.3191	-72.384	m
+EYW	Key West	US	America/New_York	24.5561	-81.7596	m
+EZE	Ezeiza	AR	America/Argentina/Buenos_Aires	-34.8222	-58.5358	l
+EZS	Elazig	TR	Europe/Istanbul	38.598	39.2835	m
+FAE	Vagar	FO	Atlantic/Faroe	62.0633	-7.2758	l
+FAI	Fairbanks	US	America/Anchorage	64.8151	-147.856	m
+FAO	Faro	PT	Europe/Lisbon	37.0159	-7.9709	l
+FAR	Fargo	US	America/Chicago	46.9207	-96.8158	m
+FAT	Fresno	US	America/Los_Angeles	36.7758	-119.718	l
+FAV	Fakarava Airport	PF	Pacific/Tahiti	-16.0541	-145.657	m
+FAY	Fayetteville	US	America/New_York	34.9912	-78.8803	m
+FBD	Faizabad	AF	Asia/Kabul	37.1221	70.5201	s
+FBE	Francisco Beltrao	BR	America/Sao_Paulo	-26.0594	-53.0638	s
+FBM	Lubumbashi	CD	Africa/Lubumbashi	-11.5915	27.5308	l
+FCA	Kalispell	US	America/Denver	48.3105	-114.256	m
+FCN	Cuxhaven	DE	Europe/Berlin	53.7677	8.6592	m
+FCO	Rome	IT	Europe/Rome	41.8045	12.252	l
+FDE	Forde	NO	Europe/Oslo	61.3911	5.7569	s
+FDF	Fort-de-France	MQ	America/Martinique	14.591	-61.0032	l
+FDH	Friedrichshafen	DE	Europe/Berlin	47.6713	9.5115	l
+FDU	Bandundu	CD	Africa/Kinshasa	-3.3113	17.3817	m
+FEG	Fergana	UZ	Asia/Tashkent	40.3588	71.745	m
+FEN	Fernando De Noronha	BR	America/Noronha	-3.8545	-32.423	m
+FEZ	Fes	MA	Africa/Casablanca	33.9273	-4.978	l
+FGU	Fangatau	PF	Pacific/Tahiti	-15.82	-140.8881	m
+FHZ	Fakahina	PF	Pacific/Tahiti	-15.9923	-140.1642	s
+FIE	Fair Isle	GB	Europe/London	59.5347	-1.6285	s
+FIH	Kinshasa	CD	Africa/Kinshasa	-4.3857	15.4446	l
+FIZ	Fitzroy Crossing	AU	Australia/Perth	-18.1836	125.5598	m
+FJR	Fujairah	AE	Asia/Dubai	25.1084	56.3281	l
+FKB	Baden-Baden	DE	Europe/Berlin	48.7794	8.0805	l
+FKI	Kisangani	CD	Africa/Lubumbashi	0.4816	25.338	l
+FKQ	Fakfak-Papua Island	ID	Asia/Jayapura	-2.9205	132.267	m
+FKS	Sukagawa	JP	Asia/Tokyo	37.2274	140.431	m
+FLA	Florencia	CO	America/Bogota	1.5892	-75.5644	m
+FLG	Flagstaff	US	America/Phoenix	35.1398	-111.6698	m
+FLL	Fort Lauderdale	US	America/New_York	26.0726	-80.1527	l
+FLN	Florianopolis	BR	America/Sao_Paulo	-27.6703	-48.5525	l
+FLO	Florence	US	America/New_York	34.1854	-79.7239	m
+FLR	Firenze	IT	Europe/Rome	43.8086	11.2028	l
+FLS	Whitemark	AU	Australia/Hobart	-40.0917	147.993	s
+FLW	Santa Cruz das Flores	PT	Atlantic/Azores	39.4553	-31.1314	m
+FLZ	Sibolga-Sumatra Island	ID	Asia/Jakarta	1.5571	98.8871	m
+FMA	Formosa	AR	America/Argentina/Cordoba	-26.2127	-58.2281	m
+FMI	Kalemie	CD	Africa/Lubumbashi	-5.8756	29.25	m
+FMM	Memmingen	DE	Europe/Berlin	47.9881	10.2382	l
+FMO	Munster	DE	Europe/Berlin	52.1338	7.6885	l
+FNA	Freetown	SL	Africa/Freetown	8.6164	-13.1955	l
+FNC	Funchal	PT	Atlantic/Madeira	32.6978	-16.7746	l
+FND	Funadhoo	MV	Indian/Maldives	6.1624	73.2875	s
+FNI	Nimes/Garons	FR	Europe/Paris	43.7574	4.4164	m
+FNJ	Pyongyang	KP	Asia/Pyongyang	39.2241	125.67	l
+FNT	Flint	US	America/Detroit	42.9693	-83.7434	m
+FOC	Fuzhou	CN	Asia/Shanghai	25.9293	119.6725	l
+FOD	Fort Dodge	US	America/Chicago	42.5526	-94.1912	m
+FOG	Foggia	IT	Europe/Rome	41.4336	15.5346	m
+FON	La Fortuna/San Carlos	CR	America/Costa_Rica	10.4693	-84.5791	m
+FOR	Fortaleza	BR	America/Fortaleza	-3.7758	-38.5322	l
+FPO	Freeport	BS	America/Nassau	26.558	-78.6956	l
+FRA	Frankfurt-am-Main	DE	Europe/Berlin	50.0267	8.5584	l
+FRD	Friday Harbor	US	America/Los_Angeles	48.5237	-123.0246	m
+FRE	Fera Island	SB	Pacific/Guadalcanal	-8.1075	159.577	s
+FRL	Forli	IT	Europe/Rome	44.1948	12.0701	m
+FRO	Floro	NO	Europe/Oslo	61.5836	5.0247	m
+FRS	San Benito	GT	America/Guatemala	16.9137	-89.8661	m
+FRW	Francistown	BW	Africa/Gaborone	-21.1592	27.4688	l
+FSC	Figari Sud-Corse	FR	Europe/Paris	41.5018	9.0971	l
+FSD	Sioux Falls	US	America/Chicago	43.5855	-96.7412	m
+FSM	Fort Smith	US	America/Chicago	35.3366	-94.3674	m
+FSP	Saint-Pierre	PM	America/Miquelon	46.7627	-56.175	m
+FSZ	Shizuoka	JP	Asia/Tokyo	34.795	138.191	l
+FTA	Futuna Island	VU	Pacific/Efate	-19.5164	170.232	s
+FTE	El Calafate	AR	America/Argentina/Rio_Gallegos	-50.2803	-72.0534	m
+FTI	Fitiuta Village	AS	Pacific/Pago_Pago	-14.2161	-169.4238	s
+FTU	Tolanaro	MG	Indian/Antananarivo	-25.0381	46.9561	m
+FTW	Fort Worth	US	America/Chicago	32.8199	-97.3608	m
+FUE	Fuerteventura Island	ES	Atlantic/Canary	28.4527	-13.8638	l
+FUG	Fuyang	CN	Asia/Shanghai	32.8822	115.7344	m
+FUJ	Goto	JP	Asia/Tokyo	32.6663	128.833	m
+FUK	Fukuoka	JP	Asia/Tokyo	33.5859	130.451	l
+FUN	Funafuti	TV	Pacific/Funafuti	-8.5239	179.197	m
+FUO	Foshan	CN	Asia/Shanghai	23.0825	113.0708	m
+FUT	Futuna Island	WF	Pacific/Wallis	-14.3116	-178.0665	s
+FWA	Fort Wayne	US	America/Indiana/Indianapolis	40.9789	-85.1945	m
+FYU	Fort Yukon	US	America/Anchorage	66.5717	-145.25	m
+GAJ	Yamagata	JP	Asia/Tokyo	38.4119	140.371	m
+GAL	Galena	US	America/Anchorage	64.7362	-156.937	m
+GAM	Gambell	US	America/Nome	63.7677	-171.7333	m
+GAN	Gan	MV	Indian/Maldives	-0.693	73.1526	l
+GAQ	Gao	ML	Africa/Bamako	16.2485	-0.0054	m
+GAU	Guwahati	IN	Asia/Kolkata	26.1067	91.5852	l
+GAY	Gaya	IN	Asia/Kolkata	24.7443	84.9512	m
+GBB	Gabala	AZ	Asia/Baku	40.8086	47.7254	m
+GBE	Gaborone	BW	Africa/Gaborone	-24.5552	25.9182	l
+GBI	Kalaburagi	IN	Asia/Kolkata	17.3082	76.9652	s
+GBJ	Grand Bourg	GP	America/Guadeloupe	15.8689	-61.2701	m
+GBZ	Claris	NZ	Pacific/Auckland	-36.2414	175.472	s
+GCC	Gillette	US	America/Denver	44.3489	-105.539	m
+GCH	Dogonbadan	IR	Asia/Tehran	30.3339	50.8338	m
+GCI	Saint Peter Port	GG	Europe/Guernsey	49.435	-2.602	m
+GCK	Garden City	US	America/Chicago	37.9275	-100.724	m
+GCM	Georgetown	KY	America/Cayman	19.2928	-81.3577	l
+GCN	Grand Canyon	US	America/Phoenix	35.9524	-112.147	m
+GDE	Gode	ET	Africa/Addis_Ababa	5.9351	43.5786	m
+GDL	Guadalajara	MX	America/Mexico_City	20.5233	-103.3101	l
+GDN	Gdansk	PL	Europe/Warsaw	54.3776	18.4662	l
+GDQ	Gondar	ET	Africa/Addis_Ababa	12.5199	37.434	m
+GDT	Cockburn Town	TC	America/Grand_Turk	21.4445	-71.1423	m
+GDV	Glendive	US	America/Denver	47.1377	-104.8069	m
+GDX	Magadan	RU	Asia/Magadan	59.911	150.72	m
+GDZ	Gelendzhik	RU	Europe/Moscow	44.5821	38.0125	m
+GEA	Noumea	NC	Pacific/Noumea	-22.2577	166.4728	m
+GEG	Spokane	US	America/Los_Angeles	47.6199	-117.534	l
+GEL	Santo Angelo	BR	America/Sao_Paulo	-28.2825	-54.1696	m
+GEO	Georgetown	GY	America/Guyana	6.4985	-58.2541	l
+GER	Nueva Gerona	CU	America/Havana	21.8347	-82.7838	m
+GES	General Santos	PH	Asia/Manila	6.0572	125.0962	l
+GET	Geraldton	AU	Australia/Perth	-28.7961	114.707	m
+GEV	Gallivare	SE	Europe/Stockholm	67.1324	20.8146	m
+GFF	Griffith	AU	Australia/Sydney	-34.2508	146.067	m
+GFK	Grand Forks	US	America/Chicago	47.9493	-97.1761	m
+GGF	Almeirim	BR	America/Santarem	-1.4795	-52.5782	s
+GGG	Longview	US	America/Chicago	32.384	-94.7115	m
+GGJ	Guaira	BR	America/Campo_Grande	-24.0811	-54.1917	s
+GGS	Gobernador Gregores	AR	America/Argentina/Rio_Gallegos	-48.7831	-70.15	s
+GGT	George Town	BS	America/Nassau	23.5626	-75.878	m
+GGW	Glasgow	US	America/Denver	48.2125	-106.615	m
+GHA	Ghardaia	DZ	Africa/Algiers	32.3841	3.7941	m
+GHB	Governor's Harbour	BS	America/Nassau	25.2847	-76.331	m
+GHV	Brasov	RO	Europe/Bucharest	45.7056	25.5229	l
+GIB	Gibraltar	GI	Europe/Gibraltar	36.1517	-5.3498	l
+GIC	Boigu	AU	Australia/Brisbane	-9.2328	142.218	s
+GID	Gitega	BI	Africa/Bujumbura	-3.4172	29.9113	m
+GIG	Rio De Janeiro	BR	America/Sao_Paulo	-22.81	-43.2506	l
+GIL	Gilgit	PK	Asia/Karachi	35.9188	74.3336	m
+GIS	Gisborne	NZ	Pacific/Auckland	-38.6633	177.978	m
+GIZ	Jizan	SA	Asia/Riyadh	16.9011	42.5858	m
+GJA	Guanaja	HN	America/Tegucigalpa	16.4454	-85.9066	m
+GJL	Jijel	DZ	Africa/Algiers	36.7941	5.8737	l
+GJT	Grand Junction	US	America/Denver	39.1267	-108.5294	m
+GKA	Goronka	PG	Pacific/Port_Moresby	-6.0817	145.392	m
+GKK	Kooddoo	MV	Indian/Maldives	0.7324	73.4336	s
+GKN	Gulkana	US	America/Anchorage	62.1559	-145.4547	m
+GLA	Glasgow	GB	Europe/London	55.8719	-4.4331	l
+GLF	Golfito	CR	America/Costa_Rica	8.654	-83.1822	m
+GLH	Greenville	US	America/Chicago	33.4829	-90.9856	m
+GLK	Galcaio	SO	Africa/Mogadishu	6.7808	47.4547	s
+GLT	Gladstone	AU	Australia/Brisbane	-23.8698	151.2254	m
+GLV	Golovin	US	America/Nome	64.5505	-163.007	s
+GMA	Gemena	CD	Africa/Kinshasa	3.2354	19.7713	m
+GMB	Gambela	ET	Africa/Addis_Ababa	8.1288	34.5631	m
+GME	Gomel	BY	Europe/Minsk	52.527	31.0167	m
+GMI	Gasmata Island	PG	Pacific/Port_Moresby	-6.2711	150.331	s
+GMO	Gombe	NG	Africa/Lagos	10.2989	10.9	m
+GMP	Seoul	KR	Asia/Seoul	37.5583	126.791	l
+GMR	Totegegie Airport	PF	Pacific/Gambier	-23.0799	-134.89	m
+GMZ	Alajero	ES	Atlantic/Canary	28.0296	-17.2146	s
+GNB	Grenoble/Saint-Geoirs	FR	Europe/Paris	45.3629	5.3294	m
+GND	Saint George's	GD	America/Grenada	12.004	-61.7853	l
+GNJ	Ganja	AZ	Asia/Baku	40.7387	46.3204	l
+GNS	Gunung Sitoli-Nias Island	ID	Asia/Jakarta	1.1663	97.7052	m
+GNV	Gainesville	US	America/New_York	29.6901	-82.2718	m
+GNY	Sanliurfa	TR	Europe/Istanbul	37.4457	38.8956	l
+GOA	Genova	IT	Europe/Rome	44.412	8.8407	l
+GOH	Nuuk	GL	America/Nuuk	64.1911	-51.6791	l
+GOI	Dabolim	IN	Asia/Kolkata	15.3801	73.8333	l
+GOJ	Nizhny Novgorod	RU	Europe/Moscow	56.2274	43.7852	l
+GOM	Goma	CD	Africa/Kigali	-1.6668	29.238	l
+GOP	Gorakhpur	IN	Asia/Kolkata	26.7397	83.4497	m
+GOQ	Golmud	CN	Asia/Shanghai	36.4006	94.7861	m
+GOT	Gothenburg	SE	Europe/Stockholm	57.6628	12.2798	l
+GOU	Garoua	CM	Africa/Douala	9.3348	13.3721	l
+GOV	Nhulunbuy	AU	Australia/Darwin	-12.2694	136.818	m
+GOX	Mopa	IN	Asia/Kolkata	15.7443	73.8606	l
+GOY	Tura	RU	Asia/Krasnoyarsk	64.3335	100.4329	s
+GPA	Patras	GR	Europe/Athens	38.1511	21.4256	m
+GPI	Guapi	CO	America/Bogota	2.5701	-77.898	m
+GPS	Baltra	EC	Pacific/Galapagos	-0.4538	-90.2659	m
+GPT	Gulfport	US	America/Chicago	30.4056	-89.0698	m
+GRB	Green Bay	US	America/Chicago	44.4835	-88.1308	m
+GRI	Grand Island	US	America/Chicago	40.9675	-98.3096	m
+GRJ	George	ZA	Africa/Johannesburg	-34.0056	22.3789	l
+GRK	Fort Cavazos/Killeen	US	America/Chicago	31.0672	-97.8289	m
+GRO	Girona	ES	Europe/Madrid	41.9046	2.7618	l
+GRQ	Groningen	NL	Europe/Amsterdam	53.1191	6.5777	l
+GRR	Grand Rapids	US	America/Detroit	42.8808	-85.5228	l
+GRU	Sao Paulo	BR	America/Sao_Paulo	-23.4313	-46.47	l
+GRV	Grozny	RU	Europe/Moscow	43.3881	45.6998	l
+GRW	Santa Cruz da Graciosa	PT	Atlantic/Azores	39.0922	-28.0298	m
+GRX	Granada	ES	Europe/Madrid	37.1887	-3.7774	m
+GRY	Grimsey	IS	Atlantic/Reykjavik	66.5458	-18.0173	m
+GRZ	Graz	AT	Europe/Vienna	46.9911	15.4396	l
+GSM	Qeshm	IR	Asia/Tehran	26.7546	55.9024	l
+GSO	Greensboro	US	America/New_York	36.0994	-79.9373	l
+GSP	Greenville	US	America/New_York	34.8957	-82.2189	m
+GST	Gustavus	US	America/Juneau	58.4253	-135.707	m
+GSV	Saratov	RU	Europe/Saratov	51.7128	46.1711	l
+GTA	Gatokae	SB	Pacific/Guadalcanal	-8.7384	158.2028	s
+GTE	Groote Eylandt	AU	Australia/Darwin	-13.9724	136.4586	m
+GTF	Great Falls	US	America/Denver	47.482	-111.371	m
+GTO	Gorontalo-Celebes Island	ID	Asia/Makassar	0.6371	122.85	s
+GTR	Columbus/W Point/Starkville	US	America/Chicago	33.4503	-88.5914	m
+GUA	Guatemala City	GT	America/Guatemala	14.5829	-90.5275	l
+GUB	Guerrero Negro	MX	America/Mazatlan	28.0261	-114.024	s
+GUC	Gunnison	US	America/Denver	38.5347	-106.9346	m
+GUM	Hagatna	GU	Pacific/Guam	13.485	144.7973	l
+GUP	Gallup	US	America/Denver	35.5117	-108.7882	m
+GUR	Gurney	PG	Pacific/Port_Moresby	-10.3115	150.334	m
+GUW	Atyrau	KZ	Asia/Atyrau	47.1213	51.8203	l
+GUZ	Guarapari	BR	America/Sao_Paulo	-20.6465	-40.4919	s
+GVA	Geneva	CH	Europe/Paris	46.2381	6.109	l
+GVR	Governador Valadares	BR	America/Sao_Paulo	-18.8959	-41.9829	m
+GWD	Gwadar	PK	Asia/Karachi	25.2967	62.4988	l
+GWL	Gwalior	IN	Asia/Kolkata	26.2933	78.2278	m
+GWT	Westerland	DE	Europe/Berlin	54.9132	8.3405	m
+GXF	Sayun	YE	Asia/Aden	15.9659	48.7881	l
+GXG	Negage	AO	Africa/Luanda	-7.7545	15.2877	m
+GYA	Guayaramerin	BO	America/La_Paz	-10.8886	-65.381	m
+GYD	Baku	AZ	Asia/Baku	40.4728	50.0509	l
+GYE	Guayaquil	EC	America/Guayaquil	-2.1574	-79.8836	l
+GYM	Guaymas	MX	America/Hermosillo	27.969	-110.925	m
+GYN	Goiania	BR	America/Sao_Paulo	-16.632	-49.2207	l
+GYS	Guangyuan	CN	Asia/Shanghai	32.3903	105.6946	m
+GYU	Guyuan	CN	Asia/Shanghai	36.0789	106.2169	m
+GYY	Gary	US	America/Chicago	41.6171	-87.4132	m
+GYZ	Gruyere	AU	Australia/Perth	-28.0345	123.8151	s
+GZG	Garze	CN	Asia/Shanghai	31.7575	99.5542	s
+GZO	Gizo	SB	Pacific/Guadalcanal	-8.0978	156.864	s
+GZP	Gazipasa	TR	Europe/Istanbul	36.2988	32.297	m
+GZT	Gaziantep	TR	Europe/Istanbul	36.9472	37.4787	l
+HAA	Hasvik	NO	Europe/Oslo	70.4867	22.1397	s
+HAC	Hachijojima	JP	Asia/Tokyo	33.1148	139.7856	m
+HAD	Halmstad	SE	Europe/Stockholm	56.6911	12.8202	m
+HAH	Moroni	KM	Indian/Comoro	-11.5337	43.2719	l
+HAJ	Hannover	DE	Europe/Berlin	52.4611	9.6851	l
+HAK	Haikou	CN	Asia/Shanghai	19.9349	110.459	l
+HAM	Hamburg	DE	Europe/Berlin	53.6304	9.9882	l
+HAN	Hanoi	VN	Asia/Bangkok	21.2212	105.807	l
+HAQ	Haa Dhaalu Atoll	MV	Indian/Maldives	6.7432	73.1671	l
+HAS	Hail	SA	Asia/Riyadh	27.4379	41.6863	l
+HAU	Karmoy	NO	Europe/Oslo	59.3453	5.2084	m
+HAV	Havana	CU	America/Havana	22.9892	-82.4091	l
+HBA	Hobart	AU	Australia/Hobart	-42.837	147.513	l
+HBE	Alexandria	EG	Africa/Cairo	30.9325	29.6964	l
+HBQ	Haibei	CN	Asia/Shanghai	38.0081	100.6451	s
+HBX	Hubli	IN	Asia/Kolkata	15.3611	75.0821	m
+HCJ	Hechi	CN	Asia/Shanghai	24.8043	107.7108	m
+HCR	Holy Cross	US	America/Anchorage	62.1883	-159.775	m
+HCZ	Chenzhou	CN	Asia/Shanghai	25.7534	112.8454	m
+HDD	Hyderabad	PK	Asia/Karachi	25.3181	68.3661	s
+HDF	Heringsdorf	DE	Europe/Berlin	53.8787	14.1523	m
+HDG	Handan	CN	Asia/Shanghai	36.5248	114.4241	m
+HDK	Kulhudhuffushi	MV	Indian/Maldives	6.6308	73.0678	s
+HDM	Hamadan	IR	Asia/Tehran	34.8664	48.5607	m
+HDN	Hayden	US	America/Denver	40.4812	-107.218	m
+HDO	Ghaziabad	IN	Asia/Kolkata	28.7077	77.3589	s
+HDS	Hoedspruit	ZA	Africa/Johannesburg	-24.3619	31.0529	m
+HDY	Hat Yai	TH	Asia/Bangkok	6.9332	100.393	l
+HEA	Herat	AF	Asia/Kabul	34.21	62.2283	l
+HEH	Heho	MM	Asia/Yangon	20.7471	96.792	m
+HEI	Busum	DE	Europe/Berlin	54.1533	8.9017	s
+HEK	Heihe	CN	Asia/Shanghai	50.1716	127.3089	m
+HEL	Helsinki	FI	Europe/Helsinki	60.3184	24.9633	l
+HER	Heraklion	GR	Europe/Athens	35.3397	25.1803	l
+HET	Hohhot	CN	Asia/Shanghai	40.8497	111.8246	l
+HFA	Haifa	IL	Asia/Jerusalem	32.8102	35.0437	m
+HFE	Hefei	CN	Asia/Shanghai	31.9878	116.9769	l
+HFN	Hornafjordur	IS	Atlantic/Reykjavik	64.2956	-15.2272	m
+HFS	Hagfors	SE	Europe/Stockholm	60.0201	13.5789	s
+HFT	Hammerfest	NO	Europe/Oslo	70.6797	23.6686	m
+HGA	Hargeisa	SO	Africa/Mogadishu	9.5141	44.0835	l
+HGD	Hughenden	AU	Australia/Brisbane	-20.815	144.225	s
+HGH	Hangzhou	CN	Asia/Shanghai	30.2361	120.4289	l
+HGI	Itanagar	IN	Asia/Kolkata	26.9668	93.6388	m
+HGL	Helgoland	DE	Europe/Berlin	54.1853	7.9158	s
+HGN	Mae Hong Son	TH	Asia/Bangkok	19.3013	97.9758	m
+HGO	Korhogo	CI	Africa/Abidjan	9.3872	-5.5567	m
+HGR	Hagerstown	US	America/New_York	39.7088	-77.728	m
+HGU	Mount Hagen	PG	Pacific/Port_Moresby	-5.8282	144.2994	m
+HHH	Hilton Head Island	US	America/New_York	32.2244	-80.6975	m
+HHN	Hahn	DE	Europe/Berlin	49.9464	7.2617	l
+HHQ	Hua Hin	TH	Asia/Bangkok	12.6362	99.9515	m
+HHR	Hawthorne	US	America/Los_Angeles	33.9228	-118.335	m
+HHZ	Hikueru Atoll	PF	Pacific/Tahiti	-17.5483	-142.612	s
+HIA	Huai'an	CN	Asia/Shanghai	33.7927	119.1267	l
+HIB	Hibbing	US	America/Chicago	47.3848	-92.8369	m
+HID	Horn Island	AU	Australia/Brisbane	-10.5856	142.2928	m
+HII	Lake Havasu City	US	America/Phoenix	34.5705	-114.3577	m
+HIJ	Hiroshima	JP	Asia/Tokyo	34.4361	132.919	l
+HIN	Sacheon	KR	Asia/Seoul	35.0886	128.0717	m
+HIR	Honiara	SB	Pacific/Guadalcanal	-9.428	160.055	l
+HJJ	Huaihua	CN	Asia/Shanghai	27.4431	109.7047	m
+HJR	Khajuraho	IN	Asia/Kolkata	24.8172	79.9186	m
+HKD	Hakodate	JP	Asia/Tokyo	41.77	140.822	l
+HKG	Hong Kong	HK	Asia/Hong_Kong	22.3118	113.9149	l
+HKK	Hokitika	NZ	Pacific/Auckland	-42.7136	170.985	m
+HKN	Hoskins	PG	Pacific/Port_Moresby	-5.4638	150.4073	m
+HKT	Phuket	TH	Asia/Bangkok	8.1133	98.3174	l
+HLA	Johannesburg	ZA	Africa/Johannesburg	-25.939	27.9266	l
+HLD	Hailar	CN	Asia/Shanghai	49.2086	119.8223	l
+HLE	Saint Helena	SH	Atlantic/St_Helena	-15.9589	-5.6461	m
+HLH	Ulanhot	CN	Asia/Shanghai	46.1953	122.0083	s
+HLN	Helena	US	America/Denver	46.6068	-111.983	m
+HLP	Jakarta	ID	Asia/Jakarta	-6.267	106.8903	l
+HLZ	Hamilton	NZ	Pacific/Auckland	-37.867	175.332	m
+HMA	Khanty-Mansiysk	RU	Asia/Yekaterinburg	61.0285	69.0861	m
+HMB	Sohag	EG	Africa/Cairo	26.3425	31.743	l
+HME	Hassi Messaoud	DZ	Africa/Algiers	31.673	6.1404	m
+HMI	Hami	CN	Asia/Shanghai	42.8414	93.6692	m
+HMO	Hermosillo	MX	America/Hermosillo	29.0928	-111.053	l
+HMV	Hemavan	SE	Europe/Stockholm	65.8061	15.0828	s
+HNA	Hanamaki	JP	Asia/Tokyo	39.4286	141.135	m
+HND	Tokyo	JP	Asia/Tokyo	35.5497	139.787	l
+HNH	Hoonah	US	America/Juneau	58.0961	-135.4101	s
+HNL	Honolulu	US	Pacific/Honolulu	21.3184	-157.9257	l
+HNM	Hana	US	Pacific/Honolulu	20.7956	-156.014	m
+HNS	Haines	US	America/Juneau	59.2439	-135.5239	m
+HNY	Hengyang	CN	Asia/Shanghai	26.7221	112.618	s
+HOB	Hobbs	US	America/Denver	32.6875	-103.217	m
+HOF	Hofuf	SA	Asia/Riyadh	25.2853	49.4852	l
+HOG	Holguin	CU	America/Havana	20.7851	-76.3155	l
+HOI	Otepa	PF	Pacific/Tahiti	-18.0748	-140.946	m
+HOK	Lajamanu	AU	Australia/Darwin	-18.3367	130.638	s
+HOM	Homer	US	America/Anchorage	59.6445	-151.4792	m
+HOR	Horta	PT	Atlantic/Azores	38.5199	-28.7159	m
+HOT	Hot Springs	US	America/Chicago	34.4788	-93.0963	m
+HOU	Houston	US	America/Chicago	29.6453	-95.2768	l
+HOV	Orsta	NO	Europe/Oslo	62.18	6.0741	m
+HPA	Lifuka	TO	Pacific/Tongatapu	-19.777	-174.341	m
+HPB	Hooper Bay	US	America/Nome	61.5239	-166.147	s
+HPH	Haiphong	VN	Asia/Bangkok	20.8174	106.7243	l
+HPN	White Plains	US	America/New_York	41.067	-73.7076	m
+HQL	Tashkurgan	CN	Asia/Shanghai	37.6613	75.2889	m
+HRB	Harbin	CN	Asia/Shanghai	45.6234	126.25	l
+HRE	Harare	ZW	Africa/Harare	-17.9318	31.0928	l
+HRF	Hoarafushi	MV	Indian/Maldives	6.9697	72.8963	s
+HRG	Hurghada	EG	Africa/Cairo	27.1768	33.7967	l
+HRI	Mattala	LK	Asia/Colombo	6.2839	81.1242	m
+HRL	Harlingen	US	America/Chicago	26.2285	-97.6544	m
+HRO	Harrison	US	America/Chicago	36.2615	-93.1547	m
+HSA	Turkistan	KZ	Asia/Almaty	43.3111	68.5504	l
+HSC	Shaoguan	CN	Asia/Shanghai	24.9786	113.421	m
+HSG	Saga	JP	Asia/Tokyo	33.1497	130.302	l
+HSL	Huslia	US	America/Anchorage	65.6979	-156.351	m
+HSN	Zhoushan	CN	Asia/Shanghai	29.9339	122.3623	l
+HSR	Rajkot	IN	Asia/Kolkata	22.3788	71.0394	l
+HSS	Hisar	IN	Asia/Kolkata	29.1861	75.7414	l
+HSV	Huntsville	US	America/Chicago	34.6362	-86.7744	m
+HTA	Chita	RU	Asia/Chita	52.0248	113.3058	l
+HTG	Khatanga	RU	Asia/Krasnoyarsk	71.9781	102.491	m
+HTI	Hamilton Island	AU	Australia/Lindeman	-20.3581	148.952	m
+HTN	Hotan	CN	Asia/Shanghai	37.0385	79.8649	m
+HTS	Huntington	US	America/New_York	38.3667	-82.558	m
+HTY	Hatay	TR	Europe/Istanbul	36.3608	36.2856	m
+HUE	Humera	ET	Africa/Addis_Ababa	13.8301	36.8824	s
+HUG	Huehuetenango	GT	America/Guatemala	15.3167	-91.5056	s
+HUH	Fare	PF	Pacific/Tahiti	-16.6871	-151.0216	m
+HUI	Hue	VN	Asia/Ho_Chi_Minh	16.4006	107.7041	l
+HUN	Hualien City	TW	Asia/Taipei	24.0232	121.618	l
+HUO	Holingol	CN	Asia/Shanghai	45.4872	119.4072	m
+HUS	Hughes	US	America/Anchorage	66.0411	-154.263	s
+HUU	Huanuco	PE	America/Lima	-9.8788	-76.2048	m
+HUX	Huatulco	MX	America/Mexico_City	15.7754	-96.2605	l
+HUY	Grimsby	GB	Europe/London	53.5762	-0.3495	m
+HUZ	Huizhou	CN	Asia/Shanghai	23.05	114.6	m
+HVB	Hervey Bay	AU	Australia/Brisbane	-25.3201	152.8807	m
+HVD	Khovd	MN	Asia/Hovd	47.9541	91.6282	m
+HVG	Honningsvag	NO	Europe/Oslo	71.0097	25.9836	m
+HVN	New Haven	US	America/New_York	41.2629	-72.8877	m
+HVR	Havre	US	America/Denver	48.5414	-109.7629	m
+HWR	Halwara	IN	Asia/Kolkata	30.7485	75.6298	l
+HXD	Delingha	CN	Asia/Shanghai	37.1253	97.2687	m
+HYA	Hyannis	US	America/New_York	41.6693	-70.2804	m
+HYD	Hyderabad	IN	Asia/Kolkata	17.2313	78.4299	l
+HYN	Huangyan	CN	Asia/Shanghai	28.5622	121.429	m
+HYS	Hays	US	America/Chicago	38.8445	-99.2731	m
+HZG	Hanzhong	CN	Asia/Shanghai	33.1335	107.2038	m
+HZH	Liping	CN	Asia/Shanghai	26.3222	109.1499	m
+IAA	Igarka	RU	Asia/Krasnoyarsk	67.4372	86.6219	m
+IAD	Dulles	US	America/New_York	38.9445	-77.4558	l
+IAG	Niagara Falls	US	America/New_York	43.1073	-78.9462	m
+IAH	Houston	US	America/Chicago	29.9844	-95.3414	l
+IAM	Amenas	DZ	Africa/Algiers	28.0515	9.6429	m
+IAN	Kiana	US	America/Anchorage	66.9761	-160.439	m
+IAO	Del Carmen	PH	Asia/Manila	9.8591	126.014	s
+IAR	Yaroslavl	RU	Europe/Moscow	57.5607	40.1574	l
+IAS	Iasi	RO	Europe/Bucharest	47.1796	27.6214	l
+IBA	Ibadan	NG	Africa/Lagos	7.3625	3.9783	m
+IBB	Isabela	EC	Pacific/Galapagos	-0.9426	-90.953	s
+IBE	Ibague	CO	America/Bogota	4.4216	-75.1333	m
+IBR	Omitama	JP	Asia/Tokyo	36.1815	140.4144	l
+IBZ	Ibiza	ES	Europe/Madrid	38.8729	1.3731	l
+ICC	Isla de Coche	VE	America/Caracas	10.7944	-63.9816	s
+ICI	Cicia	FJ	Pacific/Fiji	-17.7433	-179.342	s
+ICN	Seoul	KR	Asia/Seoul	37.4691	126.451	l
+ICT	Wichita	US	America/Chicago	37.6503	-97.4286	m
+IDA	Idaho Falls	US	America/Boise	43.5146	-112.071	m
+IDR	Indore	IN	Asia/Kolkata	22.7214	75.8005	l
+IEG	Babimost	PL	Europe/Warsaw	52.1385	15.7986	m
+IFJ	Isafjordur	IS	Atlantic/Reykjavik	66.0581	-23.1353	m
+IFN	Isfahan	IR	Asia/Tehran	32.7551	51.8839	l
+IGA	Matthew Town	BS	America/Nassau	20.975	-73.6669	m
+IGD	Igdir	TR	Europe/Istanbul	39.9766	43.8766	m
+IGG	Igiugig	US	America/Anchorage	59.324	-155.902	s
+IGR	Puerto Iguazu	AR	America/Argentina/Cordoba	-25.7373	-54.4734	m
+IGT	Magas	RU	Europe/Moscow	43.3233	45.0126	m
+IGU	Foz Do Iguacu	BR	America/Argentina/Cordoba	-25.5942	-54.4894	l
+IIA	Inis Meain	IE	Europe/Dublin	53.093	-9.5681	s
+IJK	Izhevsk	RU	Europe/Samara	56.8345	53.4622	m
+IKA	Tehran	IR	Asia/Tehran	35.4161	51.1522	l
+IKI	Iki	JP	Asia/Tokyo	33.749	129.785	m
+IKO	Nikolski	US	America/Nome	52.9416	-168.8495	s
+IKS	Tiksi	RU	Asia/Yakutsk	71.6977	128.903	m
+IKT	Irkutsk	RU	Asia/Irkutsk	52.2667	104.3956	l
+IKU	Tamchy	KG	Asia/Bishkek	42.5856	76.7012	l
+ILD	Lleida	ES	Europe/Madrid	41.7282	0.535	m
+ILF	Ilford	CA	America/Winnipeg	56.0516	-95.6188	s
+ILG	Wilmington	US	America/New_York	39.6787	-75.6065	m
+ILI	Iliamna	US	America/Anchorage	59.7544	-154.911	m
+ILM	Wilmington	US	America/New_York	34.2723	-77.9051	m
+ILO	Iloilo City	PH	Asia/Manila	10.833	122.4934	l
+ILP	Ile des Pins	NC	Pacific/Noumea	-22.5889	167.456	m
+ILQ	Ilo	PE	America/Lima	-17.695	-71.344	m
+ILR	Ilorin	NG	Africa/Lagos	8.4402	4.4939	l
+ILS	San Salvador	SV	America/El_Salvador	13.6995	-89.1199	m
+ILY	Port Ellen	GB	Europe/London	55.6827	-6.2575	m
+IMF	Imphal	IN	Asia/Kolkata	24.76	93.8967	l
+IMK	Simikot	NP	Asia/Kathmandu	29.9711	81.8189	s
+IMP	Imperatriz	BR	America/Fortaleza	-5.5313	-47.46	m
+IMT	Iron Mountain Kingsford	US	America/Chicago	45.8191	-88.1146	m
+INC	Yinchuan	CN	Asia/Shanghai	38.3228	106.3932	l
+IND	Indianapolis	US	America/Indiana/Indianapolis	39.7173	-86.2944	l
+INH	Inhambabe	MZ	Africa/Maputo	-23.8764	35.4085	m
+INI	Nis	RS	Europe/Belgrade	43.3365	21.8562	l
+INL	International Falls	US	America/Chicago	48.5662	-93.4031	m
+INN	Innsbruck	AT	Europe/Vienna	47.2602	11.344	l
+INO	Inongo	CD	Africa/Kinshasa	-1.9472	18.2858	s
+INQ	Inis Oirr	IE	Europe/Dublin	53.0647	-9.5109	s
+INU	Yaren District	NR	Pacific/Nauru	-0.5479	166.9195	m
+INV	Inverness	GB	Europe/London	57.5425	-4.0475	m
+INZ	In Salah	DZ	Africa/Algiers	27.251	2.512	m
+IOA	Ioannina	GR	Europe/Athens	39.6964	20.8225	m
+IOM	Castletown	IM	Europe/Isle_of_Man	54.0831	-4.6239	l
+IOR	Inis Mor	IE	Europe/Dublin	53.1067	-9.6536	s
+IOS	Ilheus	BR	America/Bahia	-14.8159	-39.0335	m
+IPC	Isla De Pascua	CL	Pacific/Easter	-27.1654	-109.421	l
+IPH	Ipoh	MY	Asia/Kuala_Lumpur	4.5673	101.0916	l
+IPI	Ipiales	CO	America/Bogota	0.8619	-77.6718	m
+IPL	Imperial	US	America/Los_Angeles	32.8354	-115.574	m
+IPN	Ipatinga	BR	America/Sao_Paulo	-19.4707	-42.4876	m
+IPT	Williamsport	US	America/New_York	41.2421	-76.9224	m
+IQM	Qiemo	CN	Asia/Shanghai	38.2345	85.4655	m
+IQN	Qingyang	CN	Asia/Shanghai	35.8026	107.5989	m
+IQQ	Iquique	CL	America/Santiago	-20.5363	-70.1814	l
+IQT	Iquitos	PE	America/Lima	-3.7847	-73.3088	l
+IRA	Kirakira	SB	Pacific/Guadalcanal	-10.4497	161.898	s
+IRC	Circle	US	America/Anchorage	65.8277	-144.0762	s
+IRG	Lockhart River	AU	Australia/Brisbane	-12.7869	143.305	m
+IRJ	La Rioja	AR	America/Argentina/La_Rioja	-29.3816	-66.7958	m
+IRK	Kirksville	US	America/Chicago	40.0935	-92.5449	m
+IRP	Isiro	CD	Africa/Lubumbashi	2.8276	27.5883	m
+IRZ	Santa Isabel Do Rio Negro	BR	America/Manaus	-0.3786	-64.9926	s
+ISA	Mount Isa	AU	Australia/Brisbane	-20.6664	139.4885	m
+ISB	Islamabad	PK	Asia/Karachi	33.549	72.8257	l
+ISC	St. Mary's	GB	Europe/London	49.9134	-6.2919	s
+ISE	Isparta	TR	Europe/Istanbul	37.8554	30.3684	m
+ISG	Ishigaki	JP	Asia/Tokyo	24.3964	124.245	m
+ISK	Nasik	IN	Asia/Kolkata	20.1191	73.9129	l
+ISP	Islip	US	America/New_York	40.7963	-73.1017	m
+IST	Arnavutkoy	TR	Europe/Istanbul	41.2749	28.7321	l
+ISU	Sulaymaniyah	IQ	Asia/Baghdad	35.5605	45.3151	m
+ITB	Itaituba	BR	America/Santarem	-4.2421	-56.0007	m
+ITH	Ithaca	US	America/New_York	42.491	-76.4584	m
+ITM	Osaka	JP	Asia/Tokyo	34.7809	135.4408	l
+ITO	Hilo	US	Pacific/Honolulu	19.7214	-155.0454	m
+IUE	Alofi	NU	Pacific/Niue	-19.0801	-169.9235	m
+IVC	Invercargill	NZ	Pacific/Auckland	-46.4124	168.313	m
+IVL	Ivalo	FI	Europe/Helsinki	68.6073	27.4053	l
+IWA	Ivanovo	RU	Europe/Moscow	56.9394	40.9408	m
+IWD	Ironwood	US	America/Menominee	46.5253	-90.1316	s
+IWJ	Masuda	JP	Asia/Tokyo	34.6764	131.79	m
+IWK	Iwakuni	JP	Asia/Tokyo	34.1463	132.2472	m
+IXA	Agartala	IN	Asia/Kolkata	23.887	91.2404	m
+IXB	Siliguri	IN	Asia/Kolkata	26.6812	88.3286	l
+IXC	Chandigarh	IN	Asia/Kolkata	30.6735	76.7885	l
+IXD	Allahabad	IN	Asia/Kolkata	25.4401	81.7339	m
+IXE	Mangalore	IN	Asia/Kolkata	12.9547	74.8868	l
+IXG	Belgaum	IN	Asia/Kolkata	15.8593	74.6183	m
+IXI	Lilabari	IN	Asia/Kolkata	27.2957	94.0973	m
+IXJ	Jammu	IN	Asia/Kolkata	32.6888	74.8382	m
+IXK	Keshod	IN	Asia/Kolkata	21.3171	70.2704	m
+IXL	Leh	IN	Asia/Kolkata	34.1359	77.5465	m
+IXM	Madurai	IN	Asia/Kolkata	9.8345	78.0934	m
+IXP	Pathankot	IN	Asia/Kolkata	32.2336	75.6344	m
+IXR	Ranchi	IN	Asia/Kolkata	23.3143	85.3217	m
+IXS	Silchar	IN	Asia/Kolkata	24.9129	92.9787	m
+IXU	Aurangabad	IN	Asia/Kolkata	19.8629	75.3963	m
+IXY	Kandla	IN	Asia/Kolkata	23.1127	70.1003	m
+IXZ	Port Blair	IN	Asia/Kolkata	11.6402	92.729	l
+IZA	Juiz De Fora	BR	America/Sao_Paulo	-21.5131	-43.1731	m
+IZO	Izumo	JP	Asia/Tokyo	35.4136	132.89	m
+IZT	Ixtepec	MX	America/Mexico_City	16.446	-95.0937	m
+JAC	Jackson	US	America/Denver	43.6073	-110.738	m
+JAE	Jaen	PE	America/Lima	-5.5925	-78.774	m
+JAF	Jaffna	LK	Asia/Colombo	9.7923	80.0701	l
+JAI	Jaipur	IN	Asia/Kolkata	26.8242	75.8122	l
+JAN	Jackson	US	America/Chicago	32.3112	-90.0759	m
+JAU	Jauja	PE	America/Lima	-11.7831	-75.4734	m
+JAV	Ilulissat	GL	America/Nuuk	69.2432	-51.0571	m
+JAX	Jacksonville	US	America/New_York	30.4925	-81.6878	l
+JBQ	La Isabela	DO	America/Santo_Domingo	18.5725	-69.9856	m
+JBR	Jonesboro	US	America/Chicago	35.8317	-90.6464	m
+JCK	Julia Creek	AU	Australia/Brisbane	-20.6683	141.723	s
+JCL	Ceske Budejovice	CZ	Europe/Prague	48.9482	14.4283	l
+JDF	Juiz De Fora	BR	America/Sao_Paulo	-21.7915	-43.3861	m
+JDH	Jodhpur	IN	Asia/Kolkata	26.2511	73.0489	m
+JDO	Juazeiro Do Norte	BR	America/Fortaleza	-7.2193	-39.2691	s
+JDZ	Jingdezhen	CN	Asia/Shanghai	29.3386	117.176	m
+JED	Jeddah	SA	Asia/Riyadh	21.6802	39.1574	l
+JEE	Jeremie	HT	America/Port-au-Prince	18.6631	-74.1703	m
+JEG	Aasiaat	GL	America/Nuuk	68.7218	-52.7847	m
+JER	Saint Helier	JE	Europe/Jersey	49.2079	-2.1955	m
+JFK	New York	US	America/New_York	40.6394	-73.7793	l
+JFR	Paamiut	GL	America/Nuuk	62.0147	-49.6709	s
+JGA	Jamnagar	IN	Asia/Kolkata	22.4655	70.0126	m
+JGN	Jiayuguan	CN	Asia/Shanghai	39.8591	98.3393	l
+JGS	Ji'an	CN	Asia/Shanghai	26.8569	114.737	m
+JHB	Senai	MY	Asia/Kuala_Lumpur	1.6413	103.67	l
+JHG	Jinghong	CN	Asia/Shanghai	21.9746	100.7622	l
+JHM	Lahaina	US	Pacific/Honolulu	20.9629	-156.673	m
+JHS	Sisimiut	GL	America/Nuuk	66.9513	-53.7293	m
+JIB	Djibouti City	DJ	Africa/Djibouti	11.5473	43.1595	l
+JIC	Jinchang	CN	Asia/Shanghai	38.5422	102.3483	m
+JIJ	Jijiga	ET	Africa/Addis_Ababa	9.3319	42.9118	l
+JIK	Ikaria Island	GR	Europe/Athens	37.6827	26.3471	s
+JIM	Jimma	ET	Africa/Addis_Ababa	7.6661	36.8166	m
+JIQ	Chongqing	CN	Asia/Shanghai	29.5133	108.8311	m
+JIU	Jiujiang	CN	Asia/Shanghai	29.4769	115.8011	s
+JJD	Jijoca de Jericoacoara	BR	America/Fortaleza	-2.9064	-40.3573	m
+JJG	Jaguaruna	BR	America/Sao_Paulo	-28.6753	-49.0596	s
+JJM	Meru-Kinna	KE	Africa/Nairobi	0.1651	38.1951	s
+JJN	Quanzhou	CN	Asia/Shanghai	24.7959	118.5886	l
+JKG	Jonkoping	SE	Europe/Stockholm	57.7576	14.0687	m
+JKH	Chios Island	GR	Europe/Athens	38.3432	26.1406	m
+JKL	Kalymnos Island	GR	Europe/Athens	36.9633	26.9406	s
+JKR	Janakpur	NP	Asia/Kathmandu	26.7088	85.9224	m
+JLN	Joplin	US	America/Chicago	37.1518	-94.4983	m
+JLR	Jabalpur	IN	Asia/Kolkata	23.1778	80.052	m
+JMK	Mykonos Island	GR	Europe/Athens	37.4351	25.3481	m
+JMO	Jomsom	NP	Asia/Kathmandu	28.7804	83.723	s
+JMS	Jamestown	US	America/Chicago	46.9297	-98.6782	m
+JMU	Jiamusi	CN	Asia/Shanghai	46.8428	130.4643	m
+JNB	Johannesburg	ZA	Africa/Johannesburg	-26.1401	28.2468	l
+JNG	Jining	CN	Asia/Shanghai	35.6474	116.7433	m
+JNH	Jiaxing	CN	Asia/Shanghai	30.6981	120.6631	m
+JNU	Juneau	US	America/Juneau	58.3549	-134.5744	m
+JNX	Naxos Island	GR	Europe/Athens	37.0811	25.3681	s
+JNZ	Jinzhou	CN	Asia/Shanghai	40.936	121.2771	m
+JOE	Joensuu / Liperi	FI	Europe/Helsinki	62.6588	29.6194	m
+JOG	Yogyakarta-Java Island	ID	Asia/Jakarta	-7.7882	110.432	m
+JOI	Joinville	BR	America/Sao_Paulo	-26.2245	-48.7974	m
+JOL	Jolo	PH	Asia/Manila	6.0537	121.011	m
+JOS	Jos	NG	Africa/Lagos	9.6398	8.8691	m
+JPA	Joao Pessoa	BR	America/Fortaleza	-7.1487	-34.9506	l
+JPE	Paragominas	BR	America/Belem	-3.0198	-47.3165	s
+JPR	Ji-Parana	BR	America/Porto_Velho	-10.8707	-61.8467	s
+JQA	Uummannaq	GL	America/Nuuk	70.7342	-52.6962	s
+JRG	Jharsuguda	IN	Asia/Kolkata	21.9135	84.0504	s
+JRH	Jorhat	IN	Asia/Kolkata	26.7305	94.1754	m
+JRO	Arusha	TZ	Africa/Dar_es_Salaam	-3.427	37.0735	l
+JSA	Jaisalmer	IN	Asia/Kolkata	26.8887	70.865	m
+JSH	Crete Island	GR	Europe/Athens	35.2161	26.1013	m
+JSI	Skiathos	GR	Europe/Athens	39.1771	23.5037	m
+JSK	Jask	IR	Asia/Tehran	25.6548	57.8017	s
+JSR	Jashahor	BD	Asia/Dhaka	23.1838	89.1608	m
+JST	Johnstown	US	America/New_York	40.3161	-78.8339	m
+JSU	Maniitsoq	GL	America/Nuuk	65.4125	-52.9394	s
+JSY	Syros Island	GR	Europe/Athens	37.4228	24.9509	s
+JTC	Bauru	BR	America/Sao_Paulo	-22.1608	-49.0703	m
+JTR	Santorini Island	GR	Europe/Athens	36.4	25.4786	l
+JTY	Astypalaia Island	GR	Europe/Athens	36.5799	26.3758	s
+JUB	Juba	SS	Africa/Juba	4.872	31.6011	l
+JUI	Juist	DE	Europe/Berlin	53.6814	7.0564	s
+JUJ	San Salvador de Jujuy	AR	America/Argentina/Jujuy	-24.3928	-65.0978	l
+JUL	Juliaca	PE	America/Lima	-15.4677	-70.1565	l
+JUM	Jumla	NP	Asia/Kathmandu	29.2742	82.1933	s
+JUV	Upernavik	GL	America/Nuuk	72.7902	-56.1306	s
+JUZ	Quzhou	CN	Asia/Shanghai	28.9661	118.8988	m
+JXA	Jixi	CN	Asia/Shanghai	45.293	131.193	m
+JYV	Jyvaskylan Maalaiskunta	FI	Europe/Helsinki	62.3995	25.6783	m
+JZH	Jiuzhaigou	CN	Asia/Shanghai	32.8533	103.6822	m
+KAA	Kasama	ZM	Africa/Lusaka	-10.2102	31.123	s
+KAB	Kariba	ZW	Africa/Harare	-16.5198	28.885	m
+KAC	Kamishly	SY	Asia/Damascus	37.0206	41.1914	m
+KAD	Kaduna	NG	Africa/Lagos	10.696	7.3201	l
+KAJ	Kajaani	FI	Europe/Helsinki	64.2855	27.6924	m
+KAL	Kaltag	US	America/Anchorage	64.3186	-158.742	s
+KAN	Kano	NG	Africa/Lagos	12.0456	8.5236	l
+KAO	Kuusamo	FI	Europe/Helsinki	65.9876	29.2394	m
+KAT	Kaitaia	NZ	Pacific/Auckland	-35.0698	173.2871	m
+KAW	Kawthoung	MM	Asia/Yangon	10.0493	98.538	m
+KAX	Kalbarri	AU	Australia/Perth	-27.6928	114.2592	s
+KBL	Kabul	AF	Asia/Kabul	34.5659	69.2123	l
+KBR	Kota Baharu	MY	Asia/Kuala_Lumpur	6.1669	102.293	m
+KBU	Laut Island	ID	Asia/Makassar	-3.2948	116.1638	s
+KBV	Krabi	TH	Asia/Bangkok	8.0956	98.989	l
+KCA	Kuqa	CN	Asia/Shanghai	41.6779	82.8729	s
+KCG	Chignik	US	America/Anchorage	56.3115	-158.373	s
+KCH	Kuching	MY	Asia/Kuching	1.4874	110.3529	l
+KCM	Kahramanmaras	TR	Europe/Istanbul	37.5388	36.9535	m
+KCT	Galle	LK	Asia/Colombo	5.9937	80.3203	m
+KCY	Krasnoyarsk	RU	Asia/Krasnoyarsk	56.1776	92.5459	m
+KCZ	Nankoku	JP	Asia/Tokyo	33.5452	133.6702	l
+KDD	Khuzdar	PK	Asia/Karachi	27.7906	66.6473	s
+KDH	Kandahar	AF	Asia/Kabul	31.5058	65.848	l
+KDI	Kendari-Celebes Island	ID	Asia/Makassar	-4.0816	122.418	s
+KDL	Kardla	EE	Europe/Tallinn	58.9908	22.8307	m
+KDM	Huvadhu Atoll	MV	Indian/Maldives	0.4881	72.9969	m
+KDO	Kadhdhoo	MV	Indian/Maldives	1.8592	73.5219	m
+KDU	Skardu	PK	Asia/Karachi	35.3387	75.5386	l
+KDV	Vunisea	FJ	Pacific/Fiji	-19.0581	178.157	s
+KEF	Reykjavik	IS	Atlantic/Reykjavik	63.985	-22.6056	l
+KEJ	Kemerovo	RU	Asia/Novokuznetsk	55.2701	86.1072	l
+KEM	Kemi / Tornio	FI	Europe/Helsinki	65.7787	24.5821	m
+KEP	Nepalgunj	NP	Asia/Kathmandu	28.1036	81.667	m
+KER	Kerman	IR	Asia/Tehran	30.2713	56.9497	l
+KET	Kengtung	MM	Asia/Yangon	21.3016	99.636	m
+KEW	Keewaywin	CA	America/Winnipeg	52.9911	-92.8364	s
+KFG	Daguragu	AU	Australia/Darwin	-17.4319	130.808	s
+KFP	False Pass	US	America/Nome	54.8475	-163.4072	s
+KFS	Kastamonu	TR	Europe/Istanbul	41.3142	33.7958	m
+KGA	Kananga	CD	Africa/Lubumbashi	-5.9001	22.4692	m
+KGC	Kingscote	AU	Australia/Adelaide	-35.7139	137.521	m
+KGD	Kaliningrad	RU	Europe/Kaliningrad	54.8916	20.5986	l
+KGE	Kagau Island	SB	Pacific/Guadalcanal	-7.3305	157.585	s
+KGF	Karaganda	KZ	Asia/Almaty	49.6708	73.3344	l
+KGI	Kalgoorlie	AU	Australia/Perth	-30.7915	121.4646	m
+KGK	Koliganek	US	America/Anchorage	59.7266	-157.259	s
+KGL	Kigali	RW	Africa/Kigali	-1.9686	30.1395	l
+KGP	Kogalym	RU	Asia/Yekaterinburg	62.1904	74.5338	m
+KGS	Kos Island	GR	Europe/Athens	36.7945	27.0911	l
+KHD	Khorramabad	IR	Asia/Tehran	33.4354	48.2829	m
+KHG	Kashgar	CN	Asia/Shanghai	39.5423	76.0202	l
+KHH	Kaohsiung City	TW	Asia/Taipei	22.5771	120.35	l
+KHI	Karachi	PK	Asia/Karachi	24.9065	67.1608	l
+KHK	Khark	IR	Asia/Tehran	29.2605	50.3222	m
+KHM	Kanti	MM	Asia/Yangon	25.9883	95.6744	s
+KHN	Nanchang	CN	Asia/Shanghai	28.8648	115.9027	l
+KHS	Khasab	OM	Asia/Muscat	26.171	56.2406	m
+KHT	Khost	AF	Asia/Kabul	33.2846	69.8073	m
+KHV	Khabarovsk	RU	Asia/Vladivostok	48.5283	135.1886	m
+KHZ	Kauehi	PF	Pacific/Tahiti	-15.7806	-145.1284	s
+KIE	Kieta	PG	Pacific/Bougainville	-6.3057	155.7282	s
+KIF	Kingfisher Lake	CA	America/Winnipeg	53.0125	-89.8553	s
+KIH	Kish Island	IR	Asia/Tehran	26.5254	53.9805	l
+KIJ	Niigata	JP	Asia/Tokyo	37.9542	139.1122	l
+KIK	Kirkuk	IQ	Asia/Baghdad	35.4695	44.3489	l
+KIM	Kimberley	ZA	Africa/Johannesburg	-28.8054	24.7649	l
+KIN	Kingston	JM	America/Jamaica	17.9357	-76.7875	l
+KIR	Killarney	IE	Europe/Dublin	52.1809	-9.5238	m
+KIS	Kisumu	KE	Africa/Nairobi	-0.0861	34.7289	l
+KIT	Kithira Island	GR	Europe/Athens	36.274	23.0167	s
+KIX	Osaka	JP	Asia/Tokyo	34.4273	135.244	l
+KJA	Krasnoyarsk	RU	Asia/Krasnoyarsk	56.1757	92.4858	l
+KJB	Kurnool	IN	Asia/Kolkata	15.7163	78.1692	m
+KJH	Kaili	CN	Asia/Shanghai	26.972	107.988	m
+KJT	Kertajati	ID	Asia/Jakarta	-6.6474	108.1656	m
+KKA	Koyuk	US	America/Anchorage	64.9395	-161.154	s
+KKC	Khon Kaen	TH	Asia/Bangkok	16.4666	102.784	m
+KKE	Kerikeri	NZ	Pacific/Auckland	-35.2591	173.9133	m
+KKH	Kongiganak	US	America/Nome	59.9608	-162.881	s
+KKJ	Kitakyushu	JP	Asia/Tokyo	33.8459	131.035	l
+KKN	Kirkenes	NO	Europe/Oslo	69.7258	29.8913	m
+KKR	Raitahiti	PF	Pacific/Tahiti	-15.6633	-146.885	m
+KKS	Kashan	IR	Asia/Tehran	33.8953	51.577	m
+KKW	Kikwit	CD	Africa/Kinshasa	-5.0358	18.7856	m
+KKX	Kikai	JP	Asia/Tokyo	28.3213	129.928	m
+KLG	Kalskag	US	America/Anchorage	61.5363	-160.341	s
+KLH	Kolhapur	IN	Asia/Kolkata	16.6647	74.2894	m
+KLN	Larsen Bay	US	America/Anchorage	57.5352	-153.9765	s
+KLO	Kalibo	PH	Asia/Manila	11.6794	122.376	l
+KLR	Kalmar	SE	Europe/Stockholm	56.6855	16.2876	m
+KLU	Klagenfurt am Worthersee	AT	Europe/Vienna	46.6425	14.3377	l
+KLV	Karlovy Vary	CZ	Europe/Prague	50.203	12.915	l
+KLW	Klawock	US	America/Sitka	55.5792	-133.076	m
+KLX	Kalamata	GR	Europe/Athens	37.0683	22.0255	m
+KMA	Kerema	PG	Pacific/Port_Moresby	-7.9636	145.771	m
+KMC	King Khaled Military City	SA	Asia/Riyadh	27.9009	45.5282	m
+KME	Kamembe	RW	Africa/Kigali	-2.4622	28.9079	m
+KMG	Kunming	CN	Asia/Shanghai	25.1103	102.9367	l
+KMI	Miyazaki	JP	Asia/Tokyo	31.8772	131.449	l
+KMJ	Kumamoto	JP	Asia/Tokyo	32.8373	130.855	l
+KMN	Kamina	CD	Africa/Lubumbashi	-8.7289	24.9914	s
+KMO	Manokotak	US	America/Anchorage	58.9321	-158.9019	s
+KMQ	Kanazawa	JP	Asia/Tokyo	36.3934	136.4069	l
+KMS	Kumasi	GH	Africa/Accra	6.7146	-1.5908	l
+KMW	Kostroma	RU	Europe/Moscow	57.7969	41.0194	m
+KND	Kindu	CD	Africa/Lubumbashi	-2.9192	25.9154	m
+KNG	Kaimana-Papua Island	ID	Asia/Jayapura	-3.6446	133.6951	m
+KNH	Shang-I	TW	Asia/Taipei	24.4279	118.359	m
+KNK	Kokhanok	US	America/Anchorage	59.4332	-154.8022	s
+KNO	Medan-Sumatra Island	ID	Asia/Jakarta	3.6378	98.8706	l
+KNQ	Kone	NC	Pacific/Noumea	-21.0536	164.8388	m
+KNS	King Island	AU	Australia/Hobart	-39.8775	143.878	m
+KNU	Kanpur	IN	Asia/Kolkata	26.4043	80.4101	m
+KNW	New Stuyahok	US	America/Anchorage	59.4518	-157.3738	s
+KNX	Kununurra	AU	Australia/Perth	-15.7781	128.708	m
+KOA	Kailua/Kona	US	Pacific/Honolulu	19.7388	-156.0456	l
+KOC	Koumac	NC	Pacific/Noumea	-20.5463	164.2556	s
+KOE	Kupang-Timor Island	ID	Asia/Makassar	-10.1716	123.671	m
+KOI	Orkney Islands	GB	Europe/London	58.9579	-2.9051	m
+KOJ	Kagoshima	JP	Asia/Tokyo	31.8034	130.719	l
+KOK	Kokkola / Kruunupyy	FI	Europe/Helsinki	63.7212	23.1431	m
+KOP	Nakhon Phanom	TH	Asia/Bangkok	17.3838	104.643	m
+KOS	Sihanukville	KH	Asia/Phnom_Penh	10.5706	103.6321	l
+KOT	Kotlik	US	America/Nome	63.0306	-163.533	s
+KOV	Kokshetau	KZ	Asia/Almaty	53.3291	69.5946	l
+KOW	Ganzhou	CN	Asia/Shanghai	25.8533	114.7789	s
+KPN	Kipnuk	US	America/Nome	59.9318	-164.0282	s
+KPO	Pohang	KR	Asia/Seoul	35.988	129.4204	m
+KPV	Perryville	US	America/Anchorage	55.9065	-159.1609	s
+KPW	Keperveem	RU	Asia/Anadyr	67.845	166.14	m
+KQA	Akutan	US	America/Nome	54.1446	-165.6043	s
+KQH	Kishangarh	IN	Asia/Kolkata	26.591	74.813	m
+KQT	Kurgan-Tyube	TJ	Asia/Dushanbe	37.8663	68.8645	l
+KRB	Karumba	AU	Australia/Brisbane	-17.4567	140.83	s
+KRC	Sungai Penuh	ID	Asia/Jakarta	-2.094	101.4702	s
+KRE	Kirundo	BI	Africa/Bujumbura	-2.5448	30.0946	s
+KRF	Kramfors / Solleftea	SE	Europe/Stockholm	63.0486	17.7689	m
+KRI	Kikori	PG	Pacific/Port_Moresby	-7.4244	144.2501	s
+KRK	Krakow	PL	Europe/Warsaw	50.0777	19.7848	l
+KRL	Korla	CN	Asia/Shanghai	41.615	86.1408	m
+KRN	Kiruna	SE	Europe/Stockholm	67.822	20.3368	l
+KRO	Kurgan	RU	Asia/Yekaterinburg	55.4753	65.4156	m
+KRP	Karup	DK	Europe/Copenhagen	56.2971	9.1043	m
+KRR	Krasnodar	RU	Europe/Moscow	45.0345	39.1742	l
+KRS	Kjevik	NO	Europe/Oslo	58.2042	8.0854	l
+KRT	Khartoum	SD	Africa/Khartoum	15.5895	32.5532	l
+KRW	Krasnovodsk	TM	Asia/Ashgabat	40.0628	53.0051	m
+KRY	Karamay	CN	Asia/Shanghai	45.4665	84.9527	s
+KSA	Okat	FM	Pacific/Kosrae	5.357	162.958	l
+KSC	Kosice	SK	Europe/Bratislava	48.6631	21.2411	m
+KSD	Karlstad	SE	Europe/Stockholm	59.4447	13.3374	m
+KSF	Kassel	DE	Europe/Berlin	51.4184	9.3916	l
+KSH	Kermanshah	IR	Asia/Tehran	34.3459	47.1581	m
+KSJ	Kasos Island	GR	Europe/Athens	35.4214	26.91	s
+KSL	Kassala	SD	Africa/Khartoum	15.3875	36.3288	m
+KSM	St Mary's	US	America/Nome	62.0605	-163.302	s
+KSN	Kostanay	KZ	Asia/Qostanay	53.2069	63.5503	l
+KSO	Kastoria	GR	Europe/Athens	40.4463	21.2822	s
+KSQ	Karshi	UZ	Asia/Samarkand	38.8022	65.7731	s
+KSU	Kvernberget	NO	Europe/Oslo	63.1118	7.8245	m
+KSY	Kars	TR	Europe/Istanbul	40.5622	43.115	m
+KSZ	Kotlas	RU	Europe/Moscow	61.2358	46.6975	m
+KTA	Karratha	AU	Australia/Perth	-20.7122	116.773	m
+KTD	Kitadaito	JP	Asia/Tokyo	25.9447	131.327	m
+KTG	Ketapang-Borneo Island	ID	Asia/Pontianak	-1.8172	109.9635	m
+KTI	Phnom Penh	KH	Asia/Phnom_Penh	11.36	104.9213	l
+KTM	Kathmandu	NP	Asia/Kathmandu	27.6966	85.3591	l
+KTN	Ketchikan	US	America/Sitka	55.3556	-131.714	m
+KTP	Tinson Pen	JM	America/Jamaica	17.9886	-76.8238	m
+KTS	Brevig Mission	US	America/Nome	65.3318	-166.4678	s
+KTT	Kittila	FI	Europe/Helsinki	67.701	24.8468	l
+KTW	Katowice	PL	Europe/Warsaw	50.476	19.0807	l
+KUA	Kuantan	MY	Asia/Kuala_Lumpur	3.7754	103.209	m
+KUD	Kudat	MY	Asia/Kuching	6.9241	116.8371	s
+KUF	Samara	RU	Europe/Samara	53.5049	50.1643	l
+KUG	Kubin	AU	Australia/Brisbane	-10.2265	142.2196	s
+KUH	Kushiro	JP	Asia/Tokyo	43.041	144.193	m
+KUK	Kasigluk	US	America/Nome	60.8727	-162.5247	s
+KUL	Kuala Lumpur	MY	Asia/Kuala_Lumpur	2.7456	101.71	l
+KUM	Yakushima	JP	Asia/Tokyo	30.3856	130.659	m
+KUN	Kaunas	LT	Europe/Vilnius	54.964	24.0858	l
+KUO	Kuopio / Siilinjarvi	FI	Europe/Helsinki	63.0071	27.7978	l
+KUS	Kulusuk	GL	America/Nuuk	65.5736	-37.1236	m
+KUT	Kutaisi	GE	Asia/Tbilisi	42.1774	42.4854	l
+KUU	Kullu	IN	Asia/Kolkata	31.8767	77.1544	m
+KUV	Kunsan	KR	Asia/Seoul	35.9038	126.616	m
+KVA	Kavala	GR	Europe/Athens	40.9133	24.6192	l
+KVC	King Cove	US	America/Nome	55.1163	-162.266	s
+KVG	Kavieng	PG	Pacific/Port_Moresby	-2.5794	150.808	m
+KVK	Apatity	RU	Europe/Moscow	67.4629	33.5853	s
+KVL	Kivalina	US	America/Nome	67.7346	-164.5599	s
+KVM	Markovo	RU	Asia/Anadyr	64.6654	170.4176	s
+KVO	Kraljevo	RS	Europe/Belgrade	43.8175	20.5867	m
+KVX	Kirov	RU	Europe/Kirov	58.5039	49.3478	m
+KWA	Kwajalein	MH	Pacific/Kwajalein	8.7201	167.732	m
+KWE	Guiyang	CN	Asia/Shanghai	26.5418	106.804	l
+KWI	Kuwait City	KW	Asia/Kuwait	29.2245	47.9698	l
+KWJ	Gwangju	KR	Asia/Seoul	35.1232	126.8054	m
+KWK	Kwigillingok	US	America/Nome	59.8765	-163.169	s
+KWL	Guilin City	CN	Asia/Shanghai	25.2198	110.0396	l
+KWM	Kowanyama	AU	Australia/Brisbane	-15.4854	141.7526	m
+KWN	Quinhagak	US	America/Anchorage	59.7551	-161.845	s
+KWT	Kwethluk	US	America/Anchorage	60.7903	-161.444	s
+KWZ	Kolwezi	CD	Africa/Lubumbashi	-10.7659	25.5057	m
+KXB	Kolaka	ID	Asia/Makassar	-4.3382	121.524	m
+KXF	Koro Island	FJ	Pacific/Fiji	-17.3458	179.422	s
+KXK	Komsomolsk-on-Amur	RU	Asia/Vladivostok	50.409	136.934	m
+KYA	Konya	TR	Europe/Istanbul	37.979	32.5619	l
+KYD	Orchid Island	TW	Asia/Taipei	22.027	121.535	m
+KYK	Karluk	US	America/Anchorage	57.5659	-154.4538	s
+KYP	Kyaukpyu	MM	Asia/Yangon	19.4264	93.5348	m
+KYS	Kayes	ML	Africa/Bamako	14.4825	-11.3993	m
+KYU	Koyukuk	US	America/Anchorage	64.8761	-157.727	s
+KYZ	Kyzyl	RU	Asia/Krasnoyarsk	51.6694	94.4006	m
+KZI	Kozani	GR	Europe/Athens	40.2861	21.8408	m
+KZN	Kazan	RU	Europe/Moscow	55.6062	49.2787	l
+KZO	Kzyl-Orda	KZ	Asia/Qyzylorda	44.7069	65.5925	l
+KZR	Altintas	TR	Europe/Istanbul	39.1111	30.1304	m
+KZS	Kastelorizo Island	GR	Europe/Athens	36.1417	29.5764	s
+LAD	Luanda	AO	Africa/Luanda	-8.8584	13.2312	l
+LAE	Nadzab	PG	Pacific/Port_Moresby	-6.568	146.7265	l
+LAF	Lafayette	US	America/Indiana/Indianapolis	40.4129	-86.9394	m
+LAJ	Lages	BR	America/Sao_Paulo	-27.7821	-50.2815	m
+LAK	Aklavik	CA	America/Inuvik	68.2233	-135.006	s
+LAL	Lakeland	US	America/New_York	27.9893	-82.0207	m
+LAN	Lansing	US	America/Detroit	42.7776	-84.5857	m
+LAO	Laoag City	PH	Asia/Manila	18.1751	120.531	l
+LAP	La Paz	MX	America/Mazatlan	24.0723	-110.3627	m
+LAQ	Al Bayda'	LY	Africa/Tripoli	32.789	21.9549	l
+LAR	Laramie	US	America/Denver	41.3121	-105.675	m
+LAS	Las Vegas	US	America/Los_Angeles	36.0834	-115.1518	l
+LAU	Lamu	KE	Africa/Nairobi	-2.2524	40.9129	m
+LAW	Lawton	US	America/Chicago	34.5677	-98.4166	m
+LAX	Los Angeles	US	America/Los_Angeles	33.9425	-118.408	l
+LBA	Leeds	GB	Europe/London	53.8659	-1.6606	l
+LBB	Lubbock	US	America/Chicago	33.6636	-101.823	m
+LBC	Lubeck	DE	Europe/Berlin	53.8054	10.7192	m
+LBD	Khudzhand	TJ	Asia/Dushanbe	40.2154	69.6947	l
+LBE	Latrobe	US	America/New_York	40.2759	-79.4048	m
+LBF	North Platte	US	America/Chicago	41.1262	-100.684	m
+LBJ	Labuan Bajo-Flores Island	ID	Asia/Makassar	-8.4807	119.8883	s
+LBL	Liberal	US	America/Chicago	37.0442	-100.96	m
+LBR	Labrea	BR	America/Manaus	-7.279	-64.7695	s
+LBS	Labasa	FJ	Pacific/Fiji	-16.4667	179.34	m
+LBU	Labuan	MY	Asia/Kuching	5.3017	115.2483	m
+LBV	Libreville	GA	Africa/Libreville	0.459	9.4121	l
+LBW	Long Bawan-Borneo Island	ID	Asia/Makassar	3.9005	115.6901	s
+LCA	Larnarca	CY	Asia/Nicosia	34.8751	33.6249	l
+LCE	La Ceiba	HN	America/Tegucigalpa	15.7425	-86.853	m
+LCG	Culleredo	ES	Europe/Madrid	43.3021	-8.3773	m
+LCH	Lake Charles	US	America/Chicago	30.1261	-93.2233	m
+LCJ	Lodz	PL	Europe/Warsaw	51.7219	19.3981	l
+LCK	Columbus	US	America/New_York	39.8138	-82.9278	m
+LCX	Longyan	CN	Asia/Shanghai	25.6759	116.7459	m
+LCY	London	GB	Europe/London	51.5053	0.0553	m
+LDB	Londrina	BR	America/Sao_Paulo	-23.3344	-51.1284	m
+LDE	Tarbes/Lourdes/Pyrenees	FR	Europe/Paris	43.1787	-0.0064	m
+LDG	Leshukonskoye	RU	Europe/Moscow	64.896	45.723	s
+LDH	Lord Howe Island	AU	Australia/Lord_Howe	-31.5382	159.0755	s
+LDS	Yichun	CN	Asia/Shanghai	47.7521	129.0191	m
+LDU	Lahad Datu	MY	Asia/Kuching	5.0324	118.3238	m
+LDX	Saint-Laurent-du-Maroni	GF	America/Cayenne	5.4819	-54.035	m
+LDY	Derry	GB	Europe/London	55.0428	-7.1611	m
+LEA	Exmouth	AU	Australia/Perth	-22.2352	114.09	m
+LEB	Lebanon	US	America/New_York	43.6261	-72.3042	m
+LEC	Lencois	BR	America/Bahia	-12.4823	-41.277	s
+LED	St. Petersburg	RU	Europe/Moscow	59.8003	30.2625	l
+LEI	Almeria	ES	Europe/Madrid	36.8439	-2.3701	m
+LEJ	Leipzig	DE	Europe/Berlin	51.4207	12.2327	l
+LEL	Lake Evella	AU	Australia/Darwin	-12.4989	135.806	s
+LEN	Leon	ES	Europe/Madrid	42.5907	-5.6534	m
+LEQ	Land's End	GB	Europe/London	50.1028	-5.6706	s
+LER	Leinster	AU	Australia/Perth	-27.8433	120.703	m
+LET	Leticia	CO	America/Bogota	-4.1911	-69.942	m
+LEU	Montferrer / Castellbo	ES	Europe/Madrid	42.3386	1.4092	m
+LEV	Bureta	FJ	Pacific/Fiji	-17.7111	178.759	s
+LEX	Lexington	US	America/New_York	38.0351	-84.6067	m
+LFM	Lamerd	IR	Asia/Tehran	27.3727	53.1888	m
+LFT	Lafayette	US	America/Chicago	30.2053	-91.9876	m
+LFW	Lome	TG	Africa/Lome	6.1656	1.2545	l
+LGA	New York	US	America/New_York	40.7772	-73.8726	l
+LGB	Long Beach	US	America/Los_Angeles	33.8165	-118.1499	l
+LGG	Liege	BE	Europe/Brussels	50.6386	5.4439	m
+LGI	Deadman's Cay	BS	America/Nassau	23.179	-75.0936	m
+LGK	Langkawi	MY	Asia/Kuala_Lumpur	6.3297	99.7287	l
+LGL	Long Datih	MY	Asia/Kuching	3.421	115.154	s
+LGW	London	GB	Europe/London	51.1487	-0.1857	l
+LHE	Lahore	PK	Asia/Karachi	31.5216	74.4036	l
+LHG	Lightning Ridge	AU	Australia/Sydney	-29.4529	147.9771	m
+LHR	London	GB	Europe/London	51.4707	-0.4599	l
+LHS	Las Heras	AR	America/Argentina/Rio_Gallegos	-46.5385	-68.9653	m
+LHW	Lanzhou	CN	Asia/Shanghai	36.5152	103.62	l
+LIF	Lifou	NC	Pacific/Noumea	-20.7746	167.2393	m
+LIG	Limoges/Bellegarde	FR	Europe/Paris	45.8628	1.1794	m
+LIH	Lihue	US	Pacific/Honolulu	21.9744	-159.3371	l
+LIL	Lille/Lesquin	FR	Europe/Paris	50.5666	3.1024	l
+LIM	Lima	PE	America/Lima	-12.0219	-77.1143	l
+LIN	Milan	IT	Europe/Rome	45.4451	9.2767	l
+LIO	Puerto Limon	CR	America/Costa_Rica	9.958	-83.022	m
+LIR	Liberia	CR	America/Costa_Rica	10.5933	-85.5444	l
+LIS	Lisbon	PT	Europe/Lisbon	38.7813	-9.1359	l
+LIT	Little Rock	US	America/Chicago	34.7292	-92.2236	m
+LIW	Loikaw	MM	Asia/Yangon	19.6915	97.2148	m
+LJG	Lijiang	CN	Asia/Shanghai	26.6775	100.2449	l
+LJU	Ljubljana	SI	Europe/Ljubljana	46.2237	14.4576	l
+LKA	Larantuka-Flores Island	ID	Asia/Makassar	-8.2744	123.002	s
+LKB	Lakeba Island	FJ	Pacific/Fiji	-18.1992	-178.817	s
+LKI	Kisaran-Sumatra Island	ID	Asia/Jakarta	2.4113	96.3277	s
+LKL	Lakselv	NO	Europe/Oslo	70.0688	24.9735	m
+LKM	Toli Toli-Celebes Island	ID	Asia/Makassar	0.8885	124.0336	s
+LKN	Leknes	NO	Europe/Oslo	68.1525	13.6094	m
+LKO	Lucknow	IN	Asia/Kolkata	26.7606	80.8893	l
+LLA	Lulea	SE	Europe/Stockholm	65.5438	22.122	l
+LLB	Libo	CN	Asia/Shanghai	25.4525	107.9617	s
+LLF	Yongzhou	CN	Asia/Shanghai	26.3387	111.61	m
+LLK	Lankaran	AZ	Asia/Baku	38.7579	48.807	s
+LLW	Lilongwe	MW	Africa/Blantyre	-13.7894	33.781	l
+LMA	Minchumina	US	America/Anchorage	63.886	-152.302	s
+LMM	Los Mochis	MX	America/Mazatlan	25.6855	-109.0812	m
+LMN	Limbang	MY	Asia/Brunei	4.8083	115.01	m
+LMP	Lampedusa	IT	Europe/Rome	35.4979	12.6181	m
+LMY	Lake Murray	PG	Pacific/Port_Moresby	-7.0099	141.494	s
+LNB	Lamen Bay	VU	Pacific/Efate	-16.5842	168.159	s
+LNE	Lonorore	VU	Pacific/Efate	-15.8656	168.172	s
+LNJ	Lincang	CN	Asia/Shanghai	23.7381	100.025	m
+LNK	Lincoln	US	America/Chicago	40.8449	-96.7618	m
+LNL	Longnan	CN	Asia/Shanghai	33.7899	105.79	m
+LNO	Leonora	AU	Australia/Perth	-28.8781	121.315	m
+LNS	Lancaster	US	America/New_York	40.1217	-76.2961	m
+LNV	Londolovit	PG	Pacific/Port_Moresby	-3.0436	152.629	s
+LNY	Lanai City	US	Pacific/Honolulu	20.7857	-156.9513	m
+LNZ	Linz	AT	Europe/Vienna	48.2354	14.1881	l
+LOD	Longana	VU	Pacific/Efate	-15.3067	167.967	s
+LOE	Loei	TH	Asia/Bangkok	17.4391	101.722	m
+LOH	La Toma	EC	America/Guayaquil	-3.9956	-79.3719	s
+LOO	Laghouat	DZ	Africa/Algiers	33.7644	2.9283	m
+LOP	Mataram	ID	Asia/Makassar	-8.76	116.2782	l
+LOS	Lagos	NG	Africa/Lagos	6.5774	3.3212	l
+LPA	Gran Canaria Island	ES	Atlantic/Canary	27.9319	-15.3866	l
+LPB	La Paz / El Alto	BO	America/La_Paz	-16.5103	-68.1894	l
+LPD	La Pedrera	CO	America/Bogota	-1.3249	-69.5813	s
+LPF	Liupanshui	CN	Asia/Shanghai	26.6094	104.979	m
+LPI	Linkoping	SE	Europe/Stockholm	58.4049	15.6845	l
+LPL	Liverpool	GB	Europe/London	53.3349	-2.8496	l
+LPM	Lamap	VU	Pacific/Efate	-16.4611	167.8293	s
+LPP	Lappeenranta	FI	Europe/Helsinki	61.0446	28.1447	l
+LPQ	Luang Phabang	LA	Asia/Vientiane	19.9043	102.1672	l
+LPT	Lampang	TH	Asia/Bangkok	18.2709	99.5042	m
+LPU	Long Apung-Borneo Island	ID	Asia/Makassar	1.7069	114.9699	s
+LPY	Le Puy/Loudes	FR	Europe/Paris	45.0807	3.7629	s
+LQM	Puerto Leguizamo	CO	America/Bogota	-0.1823	-74.7708	s
+LRD	Laredo	US	America/Chicago	27.5438	-99.4616	m
+LRE	Longreach	AU	Australia/Brisbane	-23.432	144.2775	m
+LRH	La Rochelle/Ile de Re	FR	Europe/Paris	46.1792	-1.1953	m
+LRM	La Romana	DO	America/Santo_Domingo	18.4522	-68.9111	l
+LRR	Lar	IR	Asia/Tehran	27.6747	54.3833	m
+LRS	Leros Island	GR	Europe/Athens	37.1849	26.8003	s
+LRU	Las Cruces	US	America/Denver	32.2894	-106.922	m
+LRV	Los Roques	VE	America/Caracas	11.9469	-66.6683	s
+LSA	Losuia	PG	Pacific/Port_Moresby	-8.5058	151.081	s
+LSC	La Serena-Coquimbo	CL	America/Santiago	-29.9162	-71.1995	m
+LSE	La Crosse	US	America/Chicago	43.879	-91.2567	m
+LSH	Lashio	MM	Asia/Yangon	22.9779	97.7522	m
+LSI	Lerwick	GB	Europe/London	59.8789	-1.2956	m
+LSP	Paraguana	VE	America/Caracas	11.7808	-70.1515	m
+LST	Launceston	AU	Australia/Hobart	-41.5449	147.2108	m
+LSW	Lhok Seumawe-Sumatra Island	ID	Asia/Jakarta	5.2267	96.9503	s
+LSY	Lismore	AU	Australia/Sydney	-28.8307	153.2584	m
+LTD	Ghadames	LY	Africa/Tripoli	30.1455	9.7021	m
+LTI	Altai	MN	Asia/Hovd	46.3764	96.2211	m
+LTK	Latakia	SY	Asia/Damascus	35.4011	35.9487	m
+LTM	Lethem	GY	America/Boa_Vista	3.3728	-59.7894	m
+LTN	London	GB	Europe/London	51.8747	-0.3683	l
+LTO	Loreto	MX	America/Mazatlan	25.9895	-111.3484	l
+LTT	La Mole	FR	Europe/Paris	43.2054	6.482	s
+LTU	Latur	IN	Asia/Kolkata	18.4115	76.4647	m
+LTX	Latacunga	EC	America/Guayaquil	-0.9068	-78.6158	m
+LUA	Lukla	NP	Asia/Kathmandu	27.6868	86.7295	m
+LUD	Luderitz	NA	Africa/Windhoek	-26.6874	15.2429	m
+LUG	Lugano	CH	Europe/Zurich	46.0043	8.9106	m
+LUK	Cincinnati	US	America/New_York	39.1024	-84.4189	m
+LUM	Luxi	CN	Asia/Shanghai	24.4011	98.5317	m
+LUN	Lusaka	ZM	Africa/Lusaka	-15.3308	28.4527	l
+LUP	Kalaupapa	US	Pacific/Honolulu	21.211	-156.974	s
+LUQ	San Luis	AR	America/Argentina/San_Luis	-33.2732	-66.3564	m
+LUR	Cape Lisburne	US	America/Nome	68.8751	-166.11	m
+LUV	Langgur-Seram Island	ID	Asia/Jayapura	-5.7603	132.7594	m
+LUX	Luxembourg	LU	Europe/Luxembourg	49.6268	6.2121	l
+LUZ	Lublin	PL	Europe/Warsaw	51.2402	22.7135	l
+LVI	Livingstone	ZM	Africa/Lusaka	-17.8215	25.8196	l
+LVO	Laverton	AU	Australia/Perth	-28.6143	122.4287	s
+LWB	Lewisburg	US	America/New_York	37.8579	-80.4004	m
+LWK	Lerwick	GB	Europe/London	60.1922	-1.2436	s
+LWN	Gyumri	AM	Asia/Yerevan	40.7504	43.8593	l
+LWS	Lewiston	US	America/Los_Angeles	46.3745	-117.015	m
+LWY	Lawas	MY	Asia/Kuching	4.8492	115.408	s
+LXA	Lhasa	CN	Asia/Shanghai	29.298	90.912	l
+LXG	Luang Namtha	LA	Asia/Vientiane	20.967	101.4	s
+LXR	Luxor	EG	Africa/Cairo	25.671	32.7064	l
+LXS	Limnos Island	GR	Europe/Athens	39.9171	25.2363	s
+LYA	Luoyang	CN	Asia/Shanghai	34.7411	112.388	l
+LYC	Lycksele	SE	Europe/Stockholm	64.5483	18.7162	m
+LYG	Lianyungang	CN	Asia/Shanghai	34.4141	119.179	l
+LYH	Lynchburg	US	America/New_York	37.3267	-79.2004	m
+LYI	Linyi	CN	Asia/Shanghai	35.0529	118.4118	m
+LYP	Faisalabad	PK	Asia/Karachi	31.3649	72.9953	l
+LYR	Longyearbyen	NO	Arctic/Longyearbyen	78.2461	15.4656	m
+LYS	Lyon	FR	Europe/Paris	45.726	5.0901	l
+LZG	Langzhong	CN	Asia/Shanghai	31.5019	106.0344	m
+LZH	Liuzhou	CN	Asia/Shanghai	24.2075	109.391	m
+LZN	Nangang Island	TW	Asia/Taipei	26.1597	119.9584	m
+LZO	Luzhou	CN	Asia/Shanghai	29.0304	105.4684	m
+LZY	Nyingchi	CN	Asia/Shanghai	29.3033	94.3353	m
+MAA	Chennai	IN	Asia/Kolkata	12.99	80.1693	l
+MAB	Maraba	BR	America/Belem	-5.3686	-49.138	m
+MAD	Madrid	ES	Europe/Madrid	40.4934	-3.5722	l
+MAF	Midland	US	America/Chicago	31.9425	-102.202	m
+MAG	Madang	PG	Pacific/Port_Moresby	-5.2071	145.789	m
+MAH	Menorca Island	ES	Europe/Madrid	39.8626	4.2187	l
+MAJ	Majuro Atoll	MH	Pacific/Majuro	7.0651	171.2717	l
+MAK	Malakal	SS	Africa/Juba	9.5587	31.6519	m
+MAM	Matamoros	MX	America/Matamoros	25.7699	-97.5253	m
+MAN	Manchester	GB	Europe/London	53.3494	-2.2795	l
+MAO	Manaus	BR	America/Manaus	-3.0386	-60.0497	l
+MAQ	Mae Sot	TH	Asia/Bangkok	16.6999	98.5451	m
+MAR	Maracaibo	VE	America/Caracas	10.5575	-71.7293	l
+MAS	Manus Island	PG	Pacific/Port_Moresby	-2.0619	147.424	m
+MAU	Maupiti	PF	Pacific/Tahiti	-16.4265	-152.244	m
+MAZ	Mayaguez	PR	America/Puerto_Rico	18.2557	-67.1485	m
+MBA	Mombasa	KE	Africa/Nairobi	-4.0348	39.5942	l
+MBD	Mafeking	ZA	Africa/Johannesburg	-25.7984	25.548	m
+MBE	Monbetsu	JP	Asia/Tokyo	44.3039	143.404	m
+MBI	Mbeya	TZ	Africa/Dar_es_Salaam	-8.9199	33.274	m
+MBJ	Montego Bay	JM	America/Jamaica	18.5034	-77.9132	l
+MBL	Manistee	US	America/Detroit	44.2727	-86.2465	s
+MBS	Saginaw	US	America/Detroit	43.5332	-84.0831	m
+MBT	Masbate	PH	Asia/Manila	12.3697	123.6301	m
+MBW	Melbourne	AU	Australia/Melbourne	-37.9778	145.0998	m
+MBX	Maribor	SI	Europe/Ljubljana	46.4799	15.6861	m
+MCE	Merced	US	America/Los_Angeles	37.2847	-120.514	m
+MCG	McGrath	US	America/Anchorage	62.9529	-155.606	m
+MCI	Kansas City	US	America/Chicago	39.3017	-94.7139	l
+MCK	Mc Cook	US	America/Chicago	40.2078	-100.5928	m
+MCN	Macon	US	America/New_York	32.6928	-83.6492	m
+MCO	Orlando	US	America/New_York	28.4294	-81.309	l
+MCP	Macapa	BR	America/Belem	0.0507	-51.0722	m
+MCT	Muscat	OM	Asia/Muscat	23.6002	58.2853	l
+MCV	McArthur River Mine	AU	Australia/Darwin	-16.4425	136.084	s
+MCW	Mason City	US	America/Chicago	43.1598	-93.3297	m
+MCX	Makhachkala	RU	Europe/Moscow	42.8168	47.6523	l
+MCY	Maroochydore	AU	Australia/Brisbane	-26.5933	153.0832	l
+MCZ	Maceio	BR	America/Maceio	-9.5126	-35.7918	l
+MDC	Manado-Celebes Island	ID	Asia/Makassar	1.5486	124.9262	l
+MDE	Rionegro	CO	America/Bogota	6.1645	-75.4231	l
+MDG	Mudanjiang	CN	Asia/Shanghai	44.5252	129.5686	m
+MDI	Makurdi	NG	Africa/Lagos	7.7039	8.6139	m
+MDK	Mbandaka	CD	Africa/Kinshasa	0.0226	18.2887	m
+MDL	Mandalay	MM	Asia/Yangon	21.7022	95.9779	l
+MDQ	Mar del Plata	AR	America/Argentina/Buenos_Aires	-37.9342	-57.5733	m
+MDT	Harrisburg	US	America/New_York	40.1928	-76.7623	m
+MDU	Mendi	PG	Pacific/Port_Moresby	-6.1477	143.657	m
+MDW	Chicago	US	America/Chicago	41.786	-87.7524	l
+MDZ	Mendoza	AR	America/Argentina/Mendoza	-32.8317	-68.7929	l
+MEB	Melbourne	AU	Australia/Melbourne	-37.7281	144.902	m
+MEC	Manta	EC	America/Guayaquil	-0.9461	-80.6788	m
+MED	Medina	SA	Asia/Riyadh	24.5534	39.7051	l
+MEE	Mare	NC	Pacific/Noumea	-21.4824	168.0385	m
+MEG	Malanje	AO	Africa/Luanda	-9.5251	16.3124	m
+MEH	Mehamn	NO	Europe/Oslo	71.0297	27.8267	m
+MEI	Meridian	US	America/Chicago	32.3326	-88.7519	m
+MEL	Melbourne	AU	Australia/Melbourne	-37.6707	144.8379	l
+MEM	Memphis	US	America/Chicago	35.0438	-89.9763	l
+MEQ	Peureumeue-Sumatra Island	ID	Asia/Jakarta	4.041	96.2533	m
+MEX	Mexico City	MX	America/Mexico_City	19.4358	-99.0703	l
+MFA	Mafia Island	TZ	Africa/Dar_es_Salaam	-7.9175	39.6685	s
+MFE	Mc Allen	US	America/Chicago	26.1761	-98.238	m
+MFG	Muzaffarabad	PK	Asia/Karachi	34.3388	73.5089	s
+MFJ	Moala	FJ	Pacific/Fiji	-18.5667	179.951	s
+MFK	Beigan Island	TW	Asia/Taipei	26.2241	120.0027	m
+MFM	Taipa	MO	Asia/Macau	22.1496	113.592	l
+MFR	Medford	US	America/Los_Angeles	42.3742	-122.873	m
+MFU	Mfuwe	ZM	Africa/Lusaka	-13.2589	31.9366	l
+MGA	Managua	NI	America/Managua	12.1415	-86.1682	l
+MGB	Mount Gambier	AU	Australia/Adelaide	-37.7444	140.7806	m
+MGC	Michigan City	US	America/Chicago	41.7033	-86.8212	m
+MGF	Maringa	BR	America/Sao_Paulo	-23.4761	-52.0162	m
+MGH	Margate	ZA	Africa/Johannesburg	-30.8574	30.343	m
+MGM	Montgomery	US	America/Chicago	32.3006	-86.394	m
+MGQ	Mogadishu	SO	Africa/Mogadishu	2.0144	45.3047	l
+MGT	Milingimbi Island	AU	Australia/Darwin	-12.0944	134.894	s
+MGW	Morgantown	US	America/New_York	39.6433	-79.9176	m
+MGZ	Mkeik	MM	Asia/Yangon	12.4398	98.6215	m
+MHC	Dalcahue	CL	America/Santiago	-42.3404	-73.7157	s
+MHD	Mashhad	IR	Asia/Tehran	36.2348	59.6429	l
+MHG	Mannheim	DE	Europe/Berlin	49.4731	8.5142	m
+MHH	Marsh Harbour	BS	America/Nassau	26.5107	-77.0843	m
+MHK	Manhattan	US	America/Chicago	39.141	-96.6708	m
+MHQ	Mariehamn	FI	Europe/Mariehamn	60.1222	19.8982	m
+MHT	Manchester	US	America/New_York	42.9326	-71.4357	m
+MHU	Mount Hotham	AU	Australia/Melbourne	-37.0475	147.334	m
+MHX	Manihiki Island	CK	Pacific/Rarotonga	-10.3809	-160.9994	s
+MIA	Miami	US	America/New_York	25.796	-80.2898	l
+MID	Merida	MX	America/Merida	20.9305	-89.6455	l
+MIG	Mianyang	CN	Asia/Shanghai	31.4281	104.741	m
+MII	Marilia	BR	America/Sao_Paulo	-22.1969	-49.9265	m
+MIJ	Mili Island	MH	Pacific/Majuro	6.0848	171.7314	s
+MIM	Merimbula	AU	Australia/Sydney	-36.9086	149.901	m
+MIR	Monastir	TN	Africa/Tunis	35.7581	10.7547	m
+MIS	Misima Island	PG	Pacific/Port_Moresby	-10.6892	152.838	s
+MIU	Maiduguri	NG	Africa/Lagos	11.8542	13.0807	l
+MJF	Mosjoen	NO	Europe/Oslo	65.784	13.2149	m
+MJI	Tripoli	LY	Africa/Tripoli	32.8918	13.2879	l
+MJK	Monkey Mia	AU	Australia/Perth	-25.8973	113.5758	m
+MJM	Mbuji Mayi	CD	Africa/Lubumbashi	-6.1212	23.569	m
+MJN	Mahajanga	MG	Indian/Antananarivo	-15.6668	46.3512	l
+MJT	Mytilene	GR	Europe/Athens	39.0574	26.5986	m
+MJZ	Mirny	RU	Asia/Yakutsk	62.5347	114.039	m
+MKE	Milwaukee	US	America/Chicago	42.9472	-87.8966	l
+MKG	Muskegon	US	America/Detroit	43.1695	-86.2382	m
+MKK	Kaunakakai	US	Pacific/Honolulu	21.1529	-157.096	m
+MKL	Jackson	US	America/Chicago	35.5999	-88.9156	m
+MKM	Mukah	MY	Asia/Kuching	2.8819	112.0433	m
+MKP	Makemo	PF	Pacific/Tahiti	-16.5839	-143.658	m
+MKQ	Merauke-Papua Island	ID	Asia/Jayapura	-8.5239	140.4197	m
+MKR	Meekatharra	AU	Australia/Perth	-26.6117	118.548	m
+MKU	Makokou	GA	Africa/Libreville	0.5792	12.8909	m
+MKW	Manokwari-Papua Island	ID	Asia/Jayapura	-0.8918	134.049	m
+MKY	Mackay	AU	Australia/Brisbane	-21.1708	149.1826	m
+MKZ	Malacca	MY	Asia/Kuala_Lumpur	2.2656	102.2528	m
+MLA	Luqa	MT	Europe/Malta	35.8459	14.4915	l
+MLB	Melbourne	US	America/New_York	28.102	-80.6411	m
+MLE	Male	MV	Indian/Maldives	4.1918	73.5291	l
+MLG	Malang-Java Island	ID	Asia/Jakarta	-7.9291	112.7142	m
+MLI	Moline	US	America/Chicago	41.4485	-90.5075	m
+MLL	Marshall	US	America/Anchorage	61.8643	-162.026	s
+MLM	Morelia	MX	America/Mexico_City	19.8499	-101.025	l
+MLN	Melilla Island	ES	Africa/Casablanca	35.2798	-2.9563	m
+MLO	Milos Island	GR	Europe/Athens	36.6969	24.4769	s
+MLU	Monroe	US	America/Chicago	32.5109	-92.0377	m
+MLW	Monrovia	LR	Africa/Monrovia	6.2891	-10.7587	m
+MLX	Malatya	TR	Europe/Istanbul	38.4353	38.091	m
+MLY	Manley Hot Springs	US	America/Anchorage	64.9919	-150.6441	s
+MMB	Ozora	JP	Asia/Tokyo	43.8806	144.164	m
+MMD	Minamidaito	JP	Asia/Tokyo	25.8465	131.263	m
+MME	Durham	GB	Europe/London	54.5092	-1.4294	m
+MMG	Mount Magnet	AU	Australia/Perth	-28.1161	117.842	m
+MMH	Mammoth Lakes	US	America/Los_Angeles	37.6254	-118.8431	m
+MMJ	Matsumoto	JP	Asia/Tokyo	36.1668	137.923	m
+MMK	Murmansk	RU	Europe/Moscow	68.7817	32.7508	l
+MMO	Vila do Maio	CV	Atlantic/Cape_Verde	15.1559	-23.2137	m
+MMX	Malmo	SE	Europe/Stockholm	55.5356	13.3763	l
+MMY	Miyako City	JP	Asia/Tokyo	24.7828	125.295	m
+MNC	Nacala	MZ	Africa/Maputo	-14.4882	40.7122	m
+MNF	Mana Island	FJ	Pacific/Fiji	-17.6728	177.0985	s
+MNG	Maningrida	AU	Australia/Darwin	-12.0561	134.234	m
+MNI	Gerald's Park	MS	America/Montserrat	16.7918	-62.1932	l
+MNJ	Mananjary	MG	Indian/Antananarivo	-21.2018	48.3583	m
+MNL	Manila	PH	Asia/Manila	14.5086	121.02	l
+MNU	Mawlamyine	MM	Asia/Yangon	16.4447	97.6607	s
+MNX	Manicore	BR	America/Manaus	-5.8114	-61.2783	m
+MNY	Stirling Island	SB	Pacific/Guadalcanal	-7.4169	155.565	s
+MOB	Mobile	US	America/Chicago	30.6912	-88.2428	m
+MOC	Montes Claros	BR	America/Sao_Paulo	-16.7069	-43.8189	m
+MOF	Maumere-Flores Island	ID	Asia/Makassar	-8.6395	122.2381	s
+MOG	Mong Hsat	MM	Asia/Yangon	20.5168	99.2568	m
+MOI	Mitiaro Island	CK	Pacific/Rarotonga	-19.8425	-157.703	s
+MOJ	Moengo	SR	America/Paramaribo	5.6076	-54.4003	s
+MOL	Aro	NO	Europe/Oslo	62.7447	7.2625	m
+MOQ	Morondava	MG	Indian/Antananarivo	-20.2847	44.3176	m
+MOT	Minot	US	America/Chicago	48.258	-101.2791	m
+MOU	Mountain Village	US	America/Nome	62.0954	-163.682	s
+MOV	Moranbah	AU	Australia/Brisbane	-22.0578	148.077	m
+MOZ	Moorea	PF	Pacific/Tahiti	-17.4898	-149.7618	m
+MPA	Mpacha	NA	Africa/Windhoek	-17.6343	24.1767	m
+MPC	Muko Muko-Sumatra Island	ID	Asia/Jakarta	-2.5411	101.0877	s
+MPH	Malay	PH	Asia/Manila	11.9245	121.954	m
+MPL	Montpellier/Mediterranee	FR	Europe/Paris	43.5762	3.963	l
+MPM	Maputo	MZ	Africa/Maputo	-25.9208	32.5726	l
+MPN	Mount Pleasant	FK	Atlantic/Stanley	-51.8226	-58.4458	m
+MPY	Maripasoula	GF	America/Cayenne	3.6559	-54.0394	m
+MQC	Miquelon	PM	America/Miquelon	47.0955	-56.3803	s
+MQF	Magnitogorsk	RU	Asia/Yekaterinburg	53.392	58.7552	l
+MQJ	Honuu	RU	Asia/Srednekolymsk	66.4509	143.2616	m
+MQL	Mildura	AU	Australia/Melbourne	-34.2292	142.086	m
+MQM	Mardin	TR	Europe/Istanbul	37.2233	40.6317	m
+MQN	Mo i Rana	NO	Europe/Oslo	66.3639	14.3014	m
+MQP	Mpumalanga	ZA	Africa/Johannesburg	-25.3833	31.1053	l
+MQS	Mustique Island	VC	America/St_Vincent	12.8879	-61.1802	m
+MQT	Marquette	US	America/Detroit	46.3515	-87.3959	m
+MQX	Mekele	ET	Africa/Addis_Ababa	13.4674	39.5335	m
+MRE	Masai Mara	KE	Africa/Nairobi	-1.4046	35.0083	m
+MRI	Anchorage	US	America/Anchorage	61.2128	-149.844	m
+MRS	Marseille	FR	Europe/Paris	43.4381	5.2125	l
+MRU	Port Louis	MU	Indian/Mauritius	-20.4302	57.6836	l
+MRV	Mineralnyye Vody	RU	Europe/Moscow	44.2251	43.0819	l
+MRX	Mahshahr	IR	Asia/Tehran	30.5562	49.1519	m
+MRY	Monterey	US	America/Los_Angeles	36.5868	-121.8442	m
+MRZ	Moree	AU	Australia/Sydney	-29.4989	149.845	m
+MSA	Muskrat Dam	CA	America/Winnipeg	53.4414	-91.7628	s
+MSJ	Misawa	JP	Asia/Tokyo	40.7032	141.368	m
+MSL	Muscle Shoals	US	America/Chicago	34.7451	-87.613	m
+MSN	Madison	US	America/Chicago	43.1399	-89.3375	m
+MSO	Missoula	US	America/Denver	46.9158	-114.0911	m
+MSP	Minneapolis	US	America/Chicago	44.8801	-93.2217	l
+MSQ	Minsk	BY	Europe/Minsk	53.8881	28.04	l
+MSR	Mus	TR	Europe/Istanbul	38.7478	41.6612	m
+MSS	Massena	US	America/New_York	44.9362	-74.8443	m
+MST	Maastricht	NL	Europe/Amsterdam	50.9111	5.7694	l
+MSU	Maseru	LS	Africa/Maseru	-29.4563	27.5545	l
+MSY	New Orleans	US	America/Chicago	29.9934	-90.2647	l
+MSZ	Namibe	AO	Africa/Luanda	-15.2612	12.1468	m
+MTF	Mizan Teferi	ET	Africa/Addis_Ababa	6.9571	35.5547	s
+MTJ	Montrose	US	America/Denver	38.5098	-107.894	m
+MTP	Montauk	US	America/New_York	41.0765	-71.9208	s
+MTR	Monteria	CO	America/Bogota	8.8237	-75.8258	m
+MTT	Minatitlan	MX	America/Mexico_City	18.1034	-94.5807	m
+MTY	Monterrey	MX	America/Monterrey	25.7785	-100.107	l
+MUA	Munda	SB	Pacific/Guadalcanal	-8.328	157.263	m
+MUB	Maun	BW	Africa/Gaborone	-19.9705	23.4314	l
+MUC	Munich	DE	Europe/Berlin	48.3538	11.7861	l
+MUE	Kamuela	US	Pacific/Honolulu	20.0013	-155.668	m
+MUH	Mersa Matruh	EG	Africa/Cairo	31.3243	27.2223	l
+MUK	Mauke Island	CK	Pacific/Rarotonga	-20.1361	-157.345	s
+MUN	Maturin	VE	America/Caracas	9.749	-63.1533	m
+MUR	Marudi	MY	Asia/Kuching	4.1787	114.3303	m
+MUX	Multan	PK	Asia/Karachi	30.2032	71.4191	l
+MUZ	Musoma	TZ	Africa/Dar_es_Salaam	-1.503	33.8021	s
+MVB	Franceville	GA	Africa/Libreville	-1.6562	13.438	m
+MVD	Montevideo	UY	America/Montevideo	-34.8356	-56.0265	l
+MVF	Mossoro	BR	America/Fortaleza	-5.2019	-37.3643	m
+MVP	Mitu	CO	America/Bogota	1.2537	-70.2339	m
+MVQ	Mogilev	BY	Europe/Minsk	53.9549	30.0951	m
+MVR	Maroua	CM	Africa/Douala	10.4514	14.2574	m
+MVT	Mataiva	PF	Pacific/Tahiti	-14.8681	-148.717	m
+MVY	Martha's Vineyard	US	America/New_York	41.3931	-70.6143	s
+MWA	Marion	US	America/Chicago	37.7512	-89.0166	m
+MWL	Mineral Wells	US	America/Chicago	32.7816	-98.0602	m
+MWQ	Magway	MM	Asia/Yangon	20.1656	94.9414	s
+MWX	Gwangju	KR	Asia/Seoul	34.9914	126.3828	l
+MWZ	Mwanza	TZ	Africa/Dar_es_Salaam	-2.4466	32.936	l
+MXH	Moro	PG	Pacific/Port_Moresby	-6.3633	143.238	s
+MXL	Mexicali	MX	America/Tijuana	32.6306	-115.2428	m
+MXP	Milan	IT	Europe/Rome	45.6306	8.7281	l
+MXV	Moron	MN	Asia/Ulaanbaatar	49.6637	100.1	m
+MXX	Mora	SE	Europe/Stockholm	60.9579	14.5114	m
+MXZ	Meixian	CN	Asia/Shanghai	24.2634	116.0979	s
+MYA	Moruya	AU	Australia/Sydney	-35.8978	150.144	m
+MYD	Malindi	KE	Africa/Nairobi	-3.2293	40.1017	m
+MYE	Miyakejima	JP	Asia/Tokyo	34.0736	139.56	m
+MYG	Mayaguana	BS	America/Nassau	22.3795	-73.0135	m
+MYI	Murray Island	AU	Australia/Brisbane	-9.9151	144.0546	s
+MYJ	Matsuyama	JP	Asia/Tokyo	33.8269	132.7001	l
+MYL	Mc Call	US	America/Boise	44.8888	-116.1011	m
+MYP	Mary	TM	Asia/Ashgabat	37.6235	61.8957	m
+MYQ	Mysore	IN	Asia/Kolkata	12.2298	76.6537	m
+MYR	Myrtle Beach	US	America/New_York	33.6797	-78.9283	l
+MYT	Myitkyina	MM	Asia/Yangon	25.3836	97.3519	m
+MYU	Mekoryuk	US	America/Nome	60.3723	-166.2698	m
+MYW	Mtwara	TZ	Africa/Dar_es_Salaam	-10.3362	40.182	m
+MYY	Miri	MY	Asia/Kuching	4.322	113.987	m
+MZG	Makung City	TW	Asia/Taipei	23.5687	119.628	l
+MZH	Amasya	TR	Europe/Istanbul	40.8294	35.522	m
+MZI	Mopti	ML	Africa/Bamako	14.5128	-4.0796	m
+MZL	Manizales	CO	America/Bogota	5.0296	-75.4647	m
+MZO	Manzanillo	CU	America/Havana	20.2886	-77.0875	m
+MZQ	Mkuze	ZA	Africa/Johannesburg	-27.6261	32.0443	m
+MZR	Mazar-i-Sharif	AF	Asia/Kabul	36.7041	67.2105	l
+MZT	Mazatlan	MX	America/Mazatlan	23.1628	-106.2645	l
+MZV	Mulu	MY	Asia/Kuching	4.0483	114.805	m
+MZW	Mecheria	DZ	Africa/Algiers	33.5359	-0.2424	m
+NAA	Narrabri	AU	Australia/Sydney	-30.3192	149.827	m
+NAG	Naqpur	IN	Asia/Kolkata	21.0922	79.0472	l
+NAH	Tahuna-Sangihe Island	ID	Asia/Makassar	3.6848	125.5272	m
+NAJ	Nakhchivan	AZ	Asia/Baku	39.1888	45.4584	l
+NAL	Nalchik	RU	Europe/Moscow	43.5129	43.6366	m
+NAM	Namlea-Buru Island	ID	Asia/Jayapura	-3.1432	126.9765	m
+NAN	Nadi	FJ	Pacific/Fiji	-17.7618	177.4378	l
+NAO	Nanchong	CN	Asia/Shanghai	30.7981	106.1642	s
+NAP	Napoli	IT	Europe/Rome	40.886	14.2908	l
+NAQ	Qaanaaq	GL	America/Thule	77.4886	-69.3887	m
+NAS	Nassau	BS	America/Nassau	25.039	-77.4662	l
+NAT	Sao Goncalo Do Amarante	BR	America/Fortaleza	-5.7698	-35.3666	l
+NAU	Napuka Island	PF	Pacific/Tahiti	-14.1774	-141.2661	s
+NAV	Nevsehir	TR	Europe/Istanbul	38.7719	34.5345	l
+NAW	Narathiwat	TH	Asia/Bangkok	6.5199	101.743	m
+NBC	Nizhnekamsk	RU	Europe/Moscow	55.5647	52.0925	m
+NBE	Enfidha	TN	Africa/Tunis	36.0758	10.4386	m
+NBJ	Luanda	AO	Africa/Luanda	-9.0507	13.4991	l
+NBO	Nairobi	KE	Africa/Nairobi	-1.3189	36.9282	l
+NBS	Baishan	CN	Asia/Shanghai	42.0669	127.6022	m
+NCA	North Caicos	TC	America/Grand_Turk	21.9161	-71.943	m
+NCE	Nice	FR	Europe/Paris	43.6584	7.2159	l
+NCL	Newcastle	GB	Europe/London	55.038	-1.6896	l
+NCN	Chenega	US	America/Anchorage	60.0776	-147.9947	s
+NCU	Nukus	UZ	Asia/Samarkand	42.4884	59.6233	l
+NCY	Annecy/Meythet	FR	Europe/Paris	45.9289	6.0987	m
+NDB	Nouadhibou	MR	Africa/El_Aaiun	20.9324	-17.0302	l
+NDC	Nanded	IN	Asia/Kolkata	19.1833	77.3167	m
+NDG	Qiqihar	CN	Asia/Shanghai	47.23	123.9142	l
+NDJ	N'Djamena	TD	Africa/Ndjamena	12.1337	15.034	l
+NDR	Nador	MA	Africa/Casablanca	34.9888	-3.0282	l
+NDU	Rundu	NA	Africa/Windhoek	-17.9565	19.7194	m
+NDY	Sanday	GB	Europe/London	59.2503	-2.5767	s
+NEC	Necochea	AR	America/Argentina/Buenos_Aires	-38.4907	-58.8163	m
+NER	Chulman	RU	Asia/Yakutsk	56.9139	124.914	m
+NEV	Charlestown	KN	America/St_Kitts	17.2057	-62.5899	m
+NGB	Ningbo	CN	Asia/Shanghai	29.8267	121.462	l
+NGE	N'Gaoundere	CM	Africa/Douala	7.357	13.5592	m
+NGI	Ngau	FJ	Pacific/Fiji	-18.1156	179.34	s
+NGO	Tokoname	JP	Asia/Tokyo	34.8584	136.805	l
+NGQ	Shiquanhe	CN	Asia/Shanghai	32.0979	80.054	m
+NGS	Nagasaki	JP	Asia/Tokyo	32.9169	129.914	l
+NHV	Taiohae	PF	Pacific/Marquesas	-8.7956	-140.229	m
+NIB	Nikolai	US	America/Anchorage	63.0179	-154.3604	s
+NIM	Niamey	NE	Africa/Niamey	13.4815	2.1836	l
+NJC	Nizhnevartovsk	RU	Asia/Yekaterinburg	60.9493	76.4836	l
+NJF	Najaf	IQ	Asia/Baghdad	31.9911	44.405	l
+NKC	Nouakchott	MR	Africa/Nouakchott	18.31	-15.9697	l
+NKG	Nanjing	CN	Asia/Shanghai	31.735	118.8659	l
+NKM	Nagoya	JP	Asia/Tokyo	35.2558	136.9241	m
+NLA	Ndola	ZM	Africa/Lusaka	-12.9651	28.5156	l
+NLD	Nuevo Laredo	MX	America/Matamoros	27.4439	-99.5705	m
+NLF	Darnley Island	AU	Australia/Brisbane	-9.5792	143.7803	s
+NLG	Nelson Lagoon	US	America/Anchorage	56.0075	-161.16	s
+NLI	Nikolayevsk-na-Amure Airport	RU	Asia/Vladivostok	53.155	140.65	m
+NLK	Burnt Pine	NF	Pacific/Norfolk	-29.0418	167.9395	m
+NLU	Santa Lucia	MX	America/Mexico_City	19.7438	-99.0151	l
+NMA	Namangan	UZ	Asia/Tashkent	40.9846	71.5578	l
+NME	Nightmute	US	America/Nome	60.4691	-164.7041	s
+NMF	Maafaru	MV	Indian/Maldives	5.8174	73.4684	m
+NMI	Navi Mumbai	IN	Asia/Kolkata	18.9846	73.0653	l
+NNB	Santa Ana Island	SB	Pacific/Guadalcanal	-10.848	162.4541	s
+NNG	Nanning	CN	Asia/Shanghai	22.5981	108.1819	l
+NNM	Naryan Mar	RU	Europe/Moscow	67.64	53.1219	m
+NNR	Inverin	IE	Europe/Dublin	53.2303	-9.4678	s
+NNT	Nan	TH	Asia/Bangkok	18.8079	100.783	m
+NNY	Nanyang	CN	Asia/Shanghai	32.9827	112.6175	s
+NOB	Nicoya	CR	America/Costa_Rica	9.9765	-85.653	m
+NOC	Charleston	IE	Europe/Dublin	53.9104	-8.817	l
+NOD	Norddeich	DE	Europe/Berlin	53.6331	7.1903	s
+NOJ	Noyabrsk	RU	Asia/Yekaterinburg	63.1833	75.27	m
+NOP	Sinop	TR	Europe/Istanbul	42.0183	35.0718	m
+NOS	Nosy Be	MG	Indian/Antananarivo	-13.3121	48.3148	l
+NOU	Noumea	NC	Pacific/Noumea	-22.0146	166.213	l
+NOV	Huambo	AO	Africa/Luanda	-12.8089	15.7605	m
+NOZ	Novokuznetsk	RU	Asia/Novokuznetsk	53.8114	86.8772	m
+NPE	Napier	NZ	Pacific/Auckland	-39.4658	176.87	m
+NPL	New Plymouth	NZ	Pacific/Auckland	-39.0086	174.179	m
+NPO	Nanga Pinoh-Borneo Island	ID	Asia/Pontianak	-0.3486	111.7462	m
+NPT	Newport	US	America/New_York	41.5322	-71.281	m
+NQN	Neuquen	AR	America/Argentina/Salta	-38.949	-68.1557	l
+NQU	Nuqui	CO	America/Bogota	5.7103	-77.2619	s
+NQY	Newquay	GB	Europe/London	50.4406	-4.9954	m
+NQZ	Astana	KZ	Asia/Almaty	51.027	71.4671	l
+NRA	Narrandera	AU	Australia/Sydney	-34.7022	146.512	m
+NRD	Norderney	DE	Europe/Berlin	53.7069	7.23	s
+NRK	Norrkoping	SE	Europe/Stockholm	58.5863	16.2506	m
+NRL	North Ronaldsay	GB	Europe/London	59.3675	-2.4344	s
+NRN	Weeze	DE	Europe/Amsterdam	51.6014	6.1412	l
+NRR	Ceiba	PR	America/Puerto_Rico	18.2473	-65.6398	m
+NRT	Tokyo	JP	Asia/Tokyo	35.7686	140.3887	l
+NSH	Nowshahr	IR	Asia/Tehran	36.6643	51.4627	m
+NSI	Yaounde	CM	Africa/Douala	3.7226	11.5533	l
+NSK	Norilsk	RU	Asia/Krasnoyarsk	69.308	87.3259	l
+NSN	Nelson	NZ	Pacific/Auckland	-41.2967	173.2243	m
+NST	Nakhon Si Thammarat	TH	Asia/Bangkok	8.5396	99.9447	m
+NTE	Nantes	FR	Europe/Paris	47.1532	-1.6107	l
+NTG	Nantong	CN	Asia/Shanghai	32.0736	120.9801	m
+NTL	Williamtown	AU	Australia/Sydney	-32.7961	151.835	l
+NTN	Normanton	AU	Australia/Brisbane	-17.6841	141.0697	m
+NTQ	Wajima	JP	Asia/Tokyo	37.2931	136.962	m
+NTT	Niuatoputapu	TO	Pacific/Tongatapu	-15.9773	-173.7911	s
+NTX	Ranai-Natuna Besar Island	ID	Asia/Jakarta	3.9087	108.388	m
+NUE	Nuremberg	DE	Europe/Berlin	49.4987	11.0781	l
+NUI	Nuiqsut	US	America/Anchorage	70.21	-151.006	m
+NUL	Nulato	US	America/Anchorage	64.7293	-158.074	s
+NUM	Neom	SA	Asia/Riyadh	27.9243	35.2936	l
+NUS	Norsup	VU	Pacific/Efate	-16.0797	167.401	s
+NUX	Novy Urengoy	RU	Asia/Yekaterinburg	66.0694	76.5203	m
+NVA	Neiva	CO	America/Bogota	2.9501	-75.294	m
+NVI	Navoi	UZ	Asia/Samarkand	40.1176	65.1727	m
+NVT	Navegantes	BR	America/Sao_Paulo	-26.8794	-48.651	l
+NWI	Norwich	GB	Europe/London	52.6758	1.2828	m
+NYA	Nyagan	RU	Asia/Yekaterinburg	62.11	65.615	m
+NYI	Sunyani	GH	Africa/Accra	7.3618	-2.3288	m
+NYK	Nanyuki	KE	Africa/Nairobi	-0.0624	37.0413	m
+NYM	Nadym	RU	Asia/Yekaterinburg	65.4809	72.6989	m
+NYO	Stockholm / Nykoping	SE	Europe/Stockholm	58.7897	16.9115	l
+NYT	Pyinmana	MM	Asia/Yangon	19.6235	96.201	l
+NYU	Nyaung U	MM	Asia/Yangon	21.1788	94.9302	s
+NZC	Nazca	PE	America/Lima	-14.854	-74.9615	m
+NZG	Nizhneangarsk	RU	Asia/Irkutsk	55.8008	109.595	s
+NZH	Manzhouli	CN	Asia/Shanghai	49.5667	117.33	m
+NZL	Zalantun	CN	Asia/Shanghai	47.8659	122.7687	m
+OAJ	Jacksonville	US	America/New_York	34.8292	-77.6121	m
+OAK	Oakland	US	America/Los_Angeles	37.7201	-122.2212	l
+OAL	Cacoal	BR	America/Porto_Velho	-11.496	-61.4508	s
+OAX	Oaxaca	MX	America/Mexico_City	16.9988	-96.7261	l
+OBN	North Connel	GB	Europe/London	56.4635	-5.3997	s
+OBO	Obihiro	JP	Asia/Tokyo	42.7333	143.217	m
+OBU	Kobuk	US	America/Anchorage	66.9123	-156.897	s
+OCC	Coca	EC	America/Guayaquil	-0.4629	-76.9868	m
+OCE	Ocean City	US	America/New_York	38.3104	-75.124	m
+OCJ	Ocho Rios	JM	America/Jamaica	18.4041	-76.9698	m
+ODB	Cordoba	ES	Europe/Madrid	37.842	-4.8489	m
+ODE	Odense	DK	Europe/Copenhagen	55.4753	10.3272	l
+ODN	Long Seridan	MY	Asia/Kuching	3.9761	115.0673	s
+ODO	Bodaybo	RU	Asia/Irkutsk	57.8661	114.243	s
+ODY	Oudomsay	LA	Asia/Vientiane	20.6827	101.994	s
+OEC	Oecussi-Ambeno	TL	Asia/Dili	-9.1984	124.3379	l
+OER	Ornskoldsvik	SE	Europe/Stockholm	63.4083	18.99	m
+OES	San Antonio Oeste	AR	America/Argentina/Salta	-40.7512	-65.0343	s
+OFU	Ofu Village	AS	Pacific/Pago_Pago	-14.1844	-169.67	s
+OGD	Ogden	US	America/Denver	41.1959	-112.012	m
+OGG	Kahului	US	Pacific/Honolulu	20.8963	-156.4318	l
+OGL	Ogle	GY	America/Guyana	6.8059	-58.1077	m
+OGN	Yonaguni	JP	Asia/Tokyo	24.4673	122.9798	m
+OGS	Ogdensburg	US	America/New_York	44.6819	-75.4655	m
+OGU	Ordu	TR	Europe/Istanbul	40.9669	38.086	m
+OGX	Ouargla	DZ	Africa/Algiers	31.9172	5.4128	m
+OGZ	Beslan	RU	Europe/Moscow	43.2051	44.6066	m
+OHD	Ohrid	MK	Europe/Skopje	41.18	20.7423	l
+OHE	Mohe	CN	Asia/Shanghai	52.9169	122.4228	m
+OHO	Okhotsk	RU	Asia/Vladivostok	59.4101	143.0565	m
+OHS	Sohar	OM	Asia/Muscat	24.386	56.6254	l
+OIM	Izu Oshima	JP	Asia/Tokyo	34.782	139.36	m
+OIR	Okushiri	JP	Asia/Tokyo	42.0717	139.433	m
+OIT	Oita	JP	Asia/Tokyo	33.4794	131.737	m
+OKA	Naha	JP	Asia/Tokyo	26.1924	127.6398	l
+OKC	Oklahoma City	US	America/Chicago	35.3934	-97.5982	l
+OKD	Sapporo	JP	Asia/Tokyo	43.1174	141.3813	m
+OKE	Wadomari	JP	Asia/Tokyo	27.4316	128.7056	m
+OKI	Okinoshima	JP	Asia/Tokyo	36.1784	133.3236	m
+OKJ	Okayama City	JP	Asia/Tokyo	34.7569	133.855	l
+OKL	Oksibil-Papua Island	ID	Asia/Jayapura	-4.9071	140.6277	m
+OKR	Yorke Island	AU	Australia/Brisbane	-9.7528	143.4057	s
+OKY	Oakey	AU	Australia/Brisbane	-27.4093	151.7367	m
+OLA	Orland	NO	Europe/Oslo	63.6989	9.604	m
+OLB	Olbia	IT	Europe/Rome	40.899	9.5185	l
+OLF	Wolf Point	US	America/Denver	48.0945	-105.575	m
+OLJ	Olpoi	VU	Pacific/Efate	-14.8817	166.558	s
+OLM	Olympia	US	America/Los_Angeles	46.9694	-122.903	m
+OLP	Olympic Dam	AU	Australia/Adelaide	-30.4839	136.8767	s
+OLZ	Olyokminsk	RU	Asia/Yakutsk	60.4018	120.4761	m
+OMA	Omaha	US	America/Chicago	41.3032	-95.8941	l
+OMD	Oranjemund	NA	Africa/Johannesburg	-28.5853	16.4464	m
+OME	Nome	US	America/Nome	64.5122	-165.445	m
+OMH	Urmia	IR	Asia/Tehran	37.6681	45.0687	m
+OMN	Lyaylyakul	UZ	Asia/Tashkent	40.014	68.411	m
+OMO	Mostar	BA	Europe/Sarajevo	43.2825	17.8461	l
+OMR	Oradea	RO	Europe/Bucharest	47.0253	21.9025	l
+OMS	Omsk	RU	Asia/Omsk	54.9631	73.3124	l
+OND	Ondangwa	NA	Africa/Windhoek	-17.8782	15.9526	m
+ONG	Gununa	AU	Australia/Brisbane	-16.6625	139.178	s
+ONJ	Odate	JP	Asia/Tokyo	40.1919	140.371	m
+ONQ	Zonguldak	TR	Europe/Istanbul	41.5064	32.0886	m
+ONT	Ontario	US	America/Los_Angeles	34.056	-117.601	l
+ONX	Colon	PA	America/Panama	9.3566	-79.8674	m
+OOK	Toksook Bay	US	America/Nome	60.5414	-165.087	s
+OOL	Gold Coast	AU	Australia/Brisbane	-28.166	153.5066	l
+OOM	Cooma	AU	Australia/Sydney	-36.3004	148.9724	m
+OPF	Miami	US	America/New_York	25.907	-80.2784	m
+OPO	Porto	PT	Europe/Lisbon	41.2481	-8.6814	l
+OPP	Salinopolis	BR	America/Belem	-0.6961	-47.3361	s
+OPS	Sinop	BR	America/Cuiaba	-11.885	-55.5861	s
+OPU	Balimo	PG	Pacific/Port_Moresby	-8.05	142.933	m
+ORB	Orebro	SE	Europe/Stockholm	59.2237	15.038	m
+ORD	Chicago	US	America/Chicago	41.9786	-87.9048	l
+ORF	Norfolk	US	America/New_York	36.8953	-76.201	l
+ORG	Paramaribo	SR	America/Paramaribo	5.8112	-55.1923	s
+ORH	Worcester	US	America/New_York	42.2673	-71.8757	m
+ORK	Cork	IE	Europe/Dublin	51.8413	-8.4911	l
+ORN	Oran	DZ	Africa/Algiers	35.6206	-0.6225	l
+ORT	Northway	US	America/Anchorage	62.9613	-141.929	m
+ORU	Oruro	BO	America/La_Paz	-17.9562	-67.0758	l
+ORV	Noorvik	US	America/Anchorage	66.8179	-161.019	s
+ORY	Paris	FR	Europe/Paris	48.7295	2.359	l
+OSD	Ostersund	SE	Europe/Stockholm	63.1935	14.5042	m
+OSI	Osijek	HR	Europe/Zagreb	45.4624	18.8113	m
+OSL	Oslo	NO	Europe/Oslo	60.1939	11.1004	l
+OSR	Ostrava	CZ	Europe/Prague	49.6963	18.1111	l
+OSS	Osh	KG	Asia/Bishkek	40.609	72.7933	l
+OST	Ostend	BE	Europe/Brussels	51.1998	2.8747	l
+OSW	Orsk	RU	Asia/Yekaterinburg	51.0725	58.5956	m
+OSY	Namsos	NO	Europe/Oslo	64.4722	11.5786	s
+OTH	North Bend	US	America/Los_Angeles	43.4171	-124.246	m
+OTP	Bucharest	RO	Europe/Bucharest	44.5718	26.1033	l
+OTS	Anacortes	US	America/Los_Angeles	48.4985	-122.6625	s
+OTZ	Kotzebue	US	America/Nome	66.8847	-162.599	m
+OUA	Ouagadougou	BF	Africa/Ouagadougou	12.3532	-1.5124	l
+OUD	Oujda	MA	Africa/Casablanca	34.7896	-1.926	l
+OUI	Ban Houayxay	FR	Asia/Bangkok	48.4632	-5.0636	s
+OUL	Oulu / Oulunsalo	FI	Europe/Helsinki	64.9301	25.3546	l
+OUZ	Zouerate	MR	Africa/Nouakchott	22.7573	-12.4822	m
+OVB	Novosibirsk	RU	Asia/Novosibirsk	55.0198	82.6187	l
+OVD	Ranon	ES	Europe/Madrid	43.5636	-6.0346	l
+OVS	Sovetskiy	RU	Asia/Yekaterinburg	61.3266	63.6019	m
+OWB	Owensboro	US	America/Chicago	37.7401	-87.1668	m
+OXB	Bissau	GW	Africa/Bissau	11.8943	-15.6536	l
+OYE	Oyem	GA	Africa/Libreville	1.5431	11.5814	m
+OZC	Ozamiz City	PH	Asia/Manila	8.1785	123.842	m
+OZG	Zagora	MA	Africa/Casablanca	30.2658	-5.8608	l
+OZZ	Ouarzazate	MA	Africa/Casablanca	30.9391	-6.9094	l
+PAB	Bilaspur	IN	Asia/Kolkata	21.9884	82.111	m
+PAC	Albrook	PA	America/Panama	8.9733	-79.5556	m
+PAD	Paderborn	DE	Europe/Berlin	51.6125	8.6175	l
+PAE	Everett	US	America/Los_Angeles	47.9063	-122.282	m
+PAG	Pagadian City	PH	Asia/Manila	7.8256	123.4596	m
+PAH	Paducah	US	America/Chicago	37.0608	-88.7738	m
+PAP	Port-au-Prince	HT	America/Port-au-Prince	18.58	-72.2926	l
+PAS	Paros Island	GR	Europe/Athens	37.0205	25.1132	s
+PAT	Patna	IN	Asia/Kolkata	25.5913	85.088	m
+PAV	Paulo Afonso	BR	America/Bahia	-9.4009	-38.2506	m
+PAZ	Poza Rica	MX	America/Mexico_City	20.6027	-97.4608	m
+PBC	Puebla	MX	America/Mexico_City	19.1585	-98.3716	l
+PBD	Porbandar	IN	Asia/Kolkata	21.6495	69.6564	m
+PBG	Plattsburgh	US	America/New_York	44.6509	-73.4681	m
+PBH	Paro	BT	Asia/Thimphu	27.4032	89.4246	l
+PBJ	Paama Island	VU	Pacific/Efate	-16.432	168.2355	s
+PBM	Zandery	SR	America/Paramaribo	5.4528	-55.1878	l
+PBO	Paraburdoo	AU	Australia/Perth	-23.1711	117.745	m
+PBR	Puerto Barrios	GT	America/Guatemala	15.7309	-88.5838	m
+PBU	Putao	MM	Asia/Yangon	27.3299	97.4263	m
+PCL	Pucallpa	PE	America/Lima	-8.3781	-74.5745	l
+PCN	Picton	NZ	Pacific/Auckland	-41.3461	173.956	s
+PCP	Santo Antonio	ST	Africa/Sao_Tome	1.6612	7.4111	m
+PCR	Puerto Carreno	CO	America/Bogota	6.1847	-67.4932	m
+PDA	Puerto Inirida	CO	America/Bogota	3.8535	-67.9062	m
+PDG	Ketaping/Padang-Sumatra Island	ID	Asia/Jakarta	-0.786	100.2804	l
+PDK	Atlanta	US	America/New_York	33.8763	-84.3021	m
+PDL	Ponta Delgada	PT	Atlantic/Azores	37.7412	-25.6979	l
+PDO	Talang Gudang-Sumatra Island	ID	Asia/Jakarta	-3.2861	103.88	m
+PDP	Punta del Este	UY	America/Montevideo	-34.8551	-55.0943	m
+PDS	Piedras Negras	MX	America/Matamoros	28.6279	-100.5352	m
+PDT	Pendleton	US	America/Los_Angeles	45.6951	-118.841	m
+PDV	Plovdiv	BG	Europe/Sofia	42.0678	24.8508	l
+PDX	Portland	US	America/Los_Angeles	45.5887	-122.598	l
+PED	Pardubice	CZ	Europe/Prague	50.015	15.7398	l
+PEE	Perm	RU	Asia/Yekaterinburg	57.9145	56.0212	l
+PEG	Perugia	IT	Europe/Rome	43.0959	12.5132	l
+PEI	Pereira	CO	America/Bogota	4.8127	-75.7395	m
+PEK	Beijing	CN	Asia/Shanghai	40.0773	116.5967	l
+PEM	Puerto Maldonado	PE	America/Lima	-12.6136	-69.2286	m
+PEN	Penang	MY	Asia/Kuala_Lumpur	5.2963	100.2762	l
+PER	Perth	AU	Australia/Perth	-31.9403	115.967	l
+PES	Petrozavodsk	RU	Europe/Moscow	61.8852	34.1547	m
+PET	Pelotas	BR	America/Sao_Paulo	-31.7172	-52.3278	m
+PEU	Puerto Lempira	HN	America/Tegucigalpa	15.2622	-83.7812	s
+PEV	Pecs-Pogany	HU	Europe/Budapest	45.9889	18.242	l
+PEW	Peshawar	PK	Asia/Karachi	33.9939	71.5146	l
+PEX	Pechora	RU	Europe/Moscow	65.1211	57.1308	m
+PEZ	Penza	RU	Europe/Moscow	53.1106	45.0211	m
+PFB	Passo Fundo	BR	America/Sao_Paulo	-28.244	-52.3278	m
+PFO	Paphos	CY	Asia/Nicosia	34.718	32.4857	l
+PFQ	Parsabad	IR	Asia/Tehran	39.6036	47.8815	s
+PFR	Ilebo	CD	Africa/Lubumbashi	-4.3299	20.5901	s
+PGA	Page	US	America/Phoenix	36.9242	-111.4477	m
+PGD	Punta Gorda	US	America/New_York	26.9202	-81.9905	m
+PGF	Perpignan/Rivesaltes	FR	Europe/Paris	42.7404	2.8707	m
+PGH	Pantnagar	IN	Asia/Kolkata	29.0334	79.4737	m
+PGK	Pangkal Pinang-Palaubangka Island	ID	Asia/Jakarta	-2.1622	106.139	m
+PGU	Asalouyeh	IR	Asia/Tehran	27.3796	52.7377	m
+PGV	Greenville	US	America/New_York	35.6355	-77.3843	m
+PGZ	Ponta Grossa	BR	America/Sao_Paulo	-25.1845	-50.1438	m
+PHB	Parnaiba	BR	America/Fortaleza	-2.8937	-41.732	m
+PHC	Port Harcourt	NG	Africa/Lagos	5.0155	6.9496	l
+PHE	Port Hedland	AU	Australia/Perth	-20.3828	118.6298	l
+PHF	Newport News	US	America/New_York	37.1319	-76.493	m
+PHH	Pokhara	NP	Asia/Kathmandu	28.1838	84.0147	l
+PHL	Philadelphia	US	America/New_York	39.8719	-75.2411	l
+PHO	Point Hope	US	America/Nome	68.3488	-166.799	s
+PHS	Phitsanulok	TH	Asia/Bangkok	16.7829	100.279	m
+PHW	Phalaborwa	ZA	Africa/Johannesburg	-23.9372	31.1554	m
+PHX	Phoenix	US	America/Phoenix	33.4353	-112.0059	l
+PHY	Phetchabun	TH	Asia/Bangkok	16.676	101.195	m
+PIA	Peoria	US	America/Chicago	40.6638	-89.6926	m
+PIB	Hattiesburg/Laurel	US	America/Chicago	31.4671	-89.3371	m
+PIE	St Petersburg-Clearwater	US	America/New_York	27.9102	-82.6874	l
+PIH	Pocatello	US	America/Boise	42.9098	-112.596	m
+PIK	Glasgow	GB	Europe/London	55.5015	-4.5772	l
+PIP	Pilot Point	US	America/Anchorage	57.5804	-157.572	s
+PIR	Pierre	US	America/Chicago	44.3827	-100.286	m
+PIS	Poitiers/Biard	FR	Europe/Paris	46.5877	0.3067	m
+PIT	Pittsburgh	US	America/New_York	40.4915	-80.2329	l
+PIU	Piura	PE	America/Lima	-5.2058	-80.6164	m
+PIX	Pico Island	PT	Atlantic/Azores	38.5543	-28.4413	m
+PIZ	Point Lay	US	America/Nome	69.7329	-163.005	m
+PJA	Pajala	SE	Europe/Stockholm	67.2446	23.0749	s
+PJM	Puerto Jimenez	CR	America/Costa_Rica	8.5333	-83.3	m
+PKA	Napaskiak	US	America/Anchorage	60.7029	-161.778	s
+PKB	Parkersburg	US	America/New_York	39.3451	-81.4392	m
+PKC	Petropavlovsk-Kamchatsky	RU	Asia/Kamchatka	53.1687	158.4511	l
+PKE	Parkes	AU	Australia/Sydney	-33.1314	148.239	m
+PKG	Pangkor Island	MY	Asia/Kuala_Lumpur	4.2447	100.553	s
+PKN	Pangkalanbun-Borneo Island	ID	Asia/Pontianak	-2.7052	111.673	s
+PKP	Puka Puka Airport	PF	Pacific/Tahiti	-14.8095	-138.8126	s
+PKR	Pokhara	NP	Asia/Kathmandu	28.2006	83.9812	m
+PKU	Pekanbaru-Sumatra Island	ID	Asia/Jakarta	0.4586	101.4443	m
+PKV	Pskov	RU	Europe/Moscow	57.7813	28.3938	m
+PKX	Beijing	CN	Asia/Shanghai	39.5013	116.414	l
+PKY	Palangkaraya-Kalimantan Tengah	ID	Asia/Pontianak	-2.2271	113.9434	m
+PKZ	Pakse	LA	Asia/Vientiane	15.134	105.7799	l
+PLM	Palembang-Sumatra Island	ID	Asia/Jakarta	-2.8977	104.6981	m
+PLN	Pellston	US	America/Detroit	45.5709	-84.7967	m
+PLO	Port Lincoln	AU	Australia/Adelaide	-34.6053	135.88	m
+PLQ	Palanga	LT	Europe/Vilnius	55.9732	21.0939	l
+PLS	Providenciales Island	TC	America/Grand_Turk	21.7737	-72.2683	l
+PLW	Palu-Celebes Island	ID	Asia/Makassar	-0.9165	119.9086	m
+PLX	Semey	KZ	Asia/Almaty	50.3513	80.2344	l
+PLZ	Port Elizabeth	ZA	Africa/Johannesburg	-33.9897	25.6174	l
+PMC	Puerto Montt	CL	America/Santiago	-41.4431	-73.0941	l
+PMF	Parma	IT	Europe/Rome	44.8264	10.2971	m
+PMG	Ponta Pora	BR	America/Asuncion	-22.5496	-55.7026	m
+PMI	Palma De Mallorca	ES	Europe/Madrid	39.5517	2.7388	l
+PMK	Palm Island	AU	Australia/Brisbane	-18.7553	146.581	s
+PMO	Palermo	IT	Europe/Rome	38.176	13.091	l
+PMQ	Perito Moreno	AR	America/Argentina/Rio_Gallegos	-46.5379	-70.9787	m
+PMR	Palmerston North	NZ	Pacific/Auckland	-40.3206	175.617	m
+PMV	Isla Margarita	VE	America/Caracas	10.9126	-63.9666	l
+PMW	Palmas	BR	America/Araguaina	-10.2915	-48.357	m
+PMY	Puerto Madryn	AR	America/Argentina/Catamarca	-42.7592	-65.1027	m
+PNA	Pamplona	ES	Europe/Madrid	42.77	-1.6463	m
+PNI	Pohnpei Island	FM	Pacific/Pohnpei	6.9851	158.2099	m
+PNK	Pontianak-Borneo Island	ID	Asia/Pontianak	-0.1523	109.4045	l
+PNL	Pantelleria	IT	Europe/Rome	36.8165	11.9689	m
+PNP	Popondetta	PG	Pacific/Port_Moresby	-8.8045	148.309	m
+PNQ	Pune	IN	Asia/Kolkata	18.5821	73.9197	l
+PNR	Pointe Noire	CG	Africa/Brazzaville	-4.816	11.8866	l
+PNS	Pensacola	US	America/Chicago	30.4727	-87.1866	l
+PNT	Puerto Natales	CL	America/Punta_Arenas	-51.6707	-72.5291	m
+PNY	Puducherry	IN	Asia/Kolkata	11.968	79.812	m
+PNZ	Petrolina	BR	America/Recife	-9.3624	-40.5691	m
+POA	Porto Alegre	BR	America/Sao_Paulo	-29.994	-51.1675	l
+POG	Port Gentil	GA	Africa/Libreville	-0.7117	8.7544	l
+POL	Pemba / Porto Amelia	MZ	Africa/Maputo	-12.9933	40.5249	m
+POM	Port Moresby	PG	Pacific/Port_Moresby	-9.4434	147.22	l
+POP	Puerto Plata	DO	America/Santo_Domingo	19.7579	-70.57	m
+POR	Pori	FI	Europe/Helsinki	61.4617	21.8	m
+POS	Port of Spain	TT	America/Port_of_Spain	10.5953	-61.3376	l
+POZ	Poznan	PL	Europe/Warsaw	52.4216	16.8234	l
+PPB	Presidente Prudente	BR	America/Sao_Paulo	-22.1751	-51.4246	m
+PPE	Puerto Penasco	MX	America/Hermosillo	31.352	-113.3052	s
+PPG	Pago Pago	AS	Pacific/Pago_Pago	-14.331	-170.71	l
+PPK	Petropavlosk	KZ	Asia/Almaty	54.7756	69.1874	l
+PPN	Popayan	CO	America/Bogota	2.4544	-76.6093	m
+PPP	Proserpine	AU	Australia/Brisbane	-20.4944	148.5536	m
+PPS	Puerto Princesa City	PH	Asia/Manila	9.742	118.7591	l
+PPT	Papeete	PF	Pacific/Tahiti	-17.5535	-149.6069	l
+PPW	Papa Westray	GB	Europe/London	59.351	-2.9004	s
+PQC	Duong Dong	VN	Asia/Ho_Chi_Minh	10.1698	103.9935	l
+PQI	Presque Isle	US	America/New_York	46.689	-68.0448	m
+PQQ	Port Macquarie	AU	Australia/Sydney	-31.4358	152.863	m
+PRA	Parana	AR	America/Argentina/Cordoba	-31.7948	-60.4804	m
+PRC	Prescott	US	America/Phoenix	34.6535	-112.4199	m
+PRG	Prague	CZ	Europe/Prague	50.1009	14.2599	l
+PRI	Praslin Island	SC	Indian/Mahe	-4.3193	55.6916	m
+PRM	Portimao	PT	Europe/Lisbon	37.1493	-8.584	m
+PRN	Prishtina	XK	Europe/Belgrade	42.5728	21.0358	l
+PSA	Pisa	IT	Europe/Rome	43.6839	10.3927	l
+PSC	Pasco	US	America/Los_Angeles	46.2647	-119.119	m
+PSD	Port Said	EG	Africa/Cairo	31.2793	32.2406	l
+PSE	Ponce	PR	America/Puerto_Rico	18.0083	-66.563	m
+PSG	Petersburg	US	America/Sitka	56.8017	-132.945	m
+PSM	Portsmouth	US	America/New_York	43.0779	-70.8233	m
+PSO	Pasto	CO	America/Bogota	1.3967	-77.2909	m
+PSP	Palm Springs	US	America/Los_Angeles	33.8297	-116.507	l
+PSR	Pescara	IT	Europe/Rome	42.4311	14.183	l
+PSS	Posadas	AR	America/Argentina/Cordoba	-27.3858	-55.9707	m
+PSU	Putussibau-Borneo Island	ID	Asia/Pontianak	0.8346	112.9402	m
+PSY	Stanley	FK	Atlantic/Stanley	-51.6857	-57.7776	s
+PSZ	Puerto Suarez	BO	America/La_Paz	-18.9753	-57.8206	m
+PTA	Port Alsworth	US	America/Anchorage	60.2017	-154.3259	s
+PTF	Malolo Lailai Island	FJ	Pacific/Fiji	-17.7784	177.197	s
+PTG	Potgietersrus	ZA	Africa/Johannesburg	-23.8453	29.4586	l
+PTH	Port Heiden	US	America/Anchorage	56.9579	-158.6302	m
+PTJ	Portland	AU	Australia/Melbourne	-38.3181	141.471	m
+PTO	Pato Branco	BR	America/Sao_Paulo	-26.2172	-52.6945	s
+PTP	Pointe-a-Pitre Le Raizet	GP	America/Guadeloupe	16.2654	-61.5328	l
+PTU	Platinum	US	America/Anchorage	59.0177	-161.8279	m
+PTY	Tocumen	PA	America/Panama	9.0714	-79.3835	l
+PUB	Pueblo	US	America/Denver	38.2891	-104.497	m
+PUD	Puerto Deseado	AR	America/Argentina/Rio_Gallegos	-47.7353	-65.9041	m
+PUF	Pau/Pyrenees	FR	Europe/Paris	43.38	-0.4186	m
+PUG	Port Augusta	AU	Australia/Adelaide	-32.5069	137.717	m
+PUJ	Punta Cana	DO	America/Santo_Domingo	18.5671	-68.3646	l
+PUQ	Punta Arenas	CL	America/Punta_Arenas	-53.0026	-70.8546	l
+PUR	Puerto Rico/Manuripi	BO	America/La_Paz	-11.1077	-67.5512	s
+PUS	Busan	KR	Asia/Seoul	35.1795	128.938	l
+PUU	Puerto Asis	CO	America/Bogota	0.5052	-76.5008	m
+PUW	Pullman/Moscow	US	America/Los_Angeles	46.7416	-117.1116	m
+PUY	Pula	HR	Europe/Zagreb	44.8935	13.9222	l
+PUZ	Puerto Cabezas	NI	America/Managua	14.0472	-83.3867	m
+PVA	Providencia	CO	America/Bogota	13.3575	-81.358	m
+PVD	Providence	US	America/New_York	41.725	-71.4257	l
+PVG	Shanghai	CN	Asia/Shanghai	31.1434	121.805	l
+PVH	Porto Velho	BR	America/Porto_Velho	-8.7085	-63.9023	l
+PVK	Preveza/Lefkada	GR	Europe/Athens	38.9255	20.7653	m
+PVR	Puerto Vallarta	MX	America/Bahia_Banderas	20.6799	-105.2544	l
+PVU	Provo	US	America/Denver	40.2189	-111.7224	m
+PWE	Pevek	RU	Asia/Anadyr	69.7833	170.597	m
+PWM	Portland	US	America/New_York	43.6462	-70.3093	l
+PWQ	Pavlodar	KZ	Asia/Almaty	52.195	77.0731	l
+PXM	Puerto Escondido	MX	America/Mexico_City	15.8768	-97.0891	m
+PXO	Vila Baleira	PT	Atlantic/Madeira	33.0734	-16.35	m
+PXR	Surin	TH	Asia/Bangkok	14.8683	103.498	m
+PXU	Pleiku	VN	Asia/Ho_Chi_Minh	14.0045	108.017	m
+PYJ	Yakutia	RU	Asia/Yakutsk	66.4004	112.03	m
+PYK	Karaj	IR	Asia/Tehran	35.7761	50.8267	l
+PYT	Paracatu	BR	America/Sao_Paulo	-17.2426	-46.8831	s
+PZB	Pietermaritzburg	ZA	Africa/Johannesburg	-29.649	30.3987	m
+PZH	Fort Sandeman	PK	Asia/Karachi	31.3584	69.4636	m
+PZI	Panzhihua	CN	Asia/Shanghai	26.54	101.7985	m
+PZO	Puerto Ordaz-Ciudad Guayana	VE	America/Caracas	8.2885	-62.7604	l
+PZU	Port Sudan	SD	Africa/Khartoum	19.4346	37.2341	l
+QBC	Bella Coola	CA	America/Vancouver	52.3875	-126.596	m
+QOW	Owerri	NG	Africa/Lagos	5.4271	7.206	m
+QRO	Queretaro	MX	America/Mexico_City	20.6188	-100.1864	l
+QSF	Setif	DZ	Africa/Algiers	36.1785	5.3299	m
+QSR	Salerno	IT	Europe/Rome	40.6204	14.9113	m
+RAB	Tokua	PG	Pacific/Port_Moresby	-4.3405	152.38	m
+RAE	Arar	SA	Asia/Riyadh	30.9066	41.1382	m
+RAH	Rafha	SA	Asia/Riyadh	29.6264	43.4906	m
+RAI	Praia	CV	Atlantic/Cape_Verde	14.9411	-23.4847	l
+RAK	Marrakech	MA	Africa/Casablanca	31.6048	-8.0358	l
+RAM	Ramingining	AU	Australia/Darwin	-12.3564	134.898	s
+RAO	Ribeirao Preto	BR	America/Sao_Paulo	-21.1343	-47.7741	m
+RAP	Rapid City	US	America/Denver	44.0453	-103.057	m
+RAR	Avarua	CK	Pacific/Rarotonga	-21.2027	-159.806	l
+RAS	Rasht	IR	Asia/Tehran	37.3233	49.6178	m
+RBA	Rabat	MA	Africa/Casablanca	34.0515	-6.7515	l
+RBB	Borba	BR	America/Manaus	-4.4063	-59.6024	s
+RBQ	Rurenabaque	BO	America/La_Paz	-14.4279	-67.4968	s
+RBR	Rio Branco	BR	America/Rio_Branco	-9.869	-67.894	l
+RBV	Ramata	SB	Pacific/Guadalcanal	-8.1681	157.643	s
+RBY	Ruby	US	America/Anchorage	64.7272	-155.47	m
+RCB	Richards Bay	ZA	Africa/Johannesburg	-28.741	32.0921	m
+RCE	Roche Harbor	US	America/Los_Angeles	48.6123	-123.139	s
+RCH	Riohacha	CO	America/Bogota	11.5262	-72.926	m
+RCM	Richmond	AU	Australia/Brisbane	-20.7019	143.115	s
+RDD	Redding	US	America/Los_Angeles	40.509	-122.293	m
+RDM	Redmond	US	America/Los_Angeles	44.2541	-121.15	m
+RDO	Radom	PL	Europe/Warsaw	51.3894	21.2147	m
+RDU	Raleigh/Durham	US	America/New_York	35.8787	-78.7873	l
+RDZ	Rodez/Marcillac	FR	Europe/Paris	44.4079	2.4827	m
+REC	Recife	BR	America/Recife	-8.1275	-34.923	l
+REG	Reggio Calabria	IT	Europe/Rome	38.0712	15.6516	m
+REL	Rawson	AR	America/Argentina/Catamarca	-43.2105	-65.2703	m
+REN	Orenburg	RU	Asia/Yekaterinburg	51.7927	55.4572	m
+RER	Retalhuleu	GT	America/Guatemala	14.5214	-91.697	m
+RES	Resistencia	AR	America/Argentina/Cordoba	-27.4499	-59.0561	l
+RET	Rost	NO	Europe/Oslo	67.5265	12.1016	s
+REU	Reus	ES	Europe/Madrid	41.1475	1.1684	l
+REX	Reynosa	MX	America/Matamoros	26.0089	-98.2285	m
+RFD	Chicago/Rockford	US	America/Chicago	42.1954	-89.0972	m
+RFP	Uturoa	PF	Pacific/Tahiti	-16.7229	-151.466	m
+RGA	Rio Grande	AR	America/Argentina/Ushuaia	-53.7777	-67.7494	m
+RGI	Rangiroa	PF	Pacific/Tahiti	-14.9543	-147.661	m
+RGL	Rio Gallegos	AR	America/Argentina/Rio_Gallegos	-51.6088	-69.3089	l
+RGN	Yangon	MM	Asia/Yangon	16.9073	96.1332	l
+RGO	Chongjin	KP	Asia/Pyongyang	41.4285	129.6476	m
+RHD	Rio Hondo	AR	America/Argentina/Cordoba	-27.4966	-64.936	m
+RHI	Rhinelander	US	America/Chicago	45.6312	-89.4675	m
+RHO	Rodes Island	GR	Europe/Athens	36.4054	28.0862	l
+RHT	Badanjilin	CN	Asia/Shanghai	39.225	101.546	s
+RIA	Santa Maria	BR	America/Sao_Paulo	-29.7114	-53.6882	m
+RIB	Riberalta	BO	America/La_Paz	-11.0094	-66.0755	m
+RIC	Richmond	US	America/New_York	37.5052	-77.3197	l
+RIH	Rio Hato	PA	America/Panama	8.3759	-80.1279	s
+RIS	Rishiri	JP	Asia/Tokyo	45.242	141.186	m
+RIW	Riverton	US	America/Denver	43.0642	-108.46	m
+RIX	Riga	LV	Europe/Riga	56.9208	23.9707	l
+RIY	Riyan	YE	Asia/Aden	14.6622	49.3753	l
+RJA	Rajahmundry	IN	Asia/Kolkata	17.1058	81.8132	m
+RJH	Rajshahi	BD	Asia/Dhaka	24.4372	88.6165	m
+RJK	Rijeka	HR	Europe/Zagreb	45.2164	14.5709	l
+RJL	Logrono	ES	Europe/Madrid	42.461	-2.3222	m
+RJN	Rafsanjan	IR	Asia/Tehran	30.2983	56.049	m
+RKD	Rockland	US	America/New_York	44.0601	-69.0992	m
+RKE	Copenhagen	DK	Europe/Copenhagen	55.5856	12.1314	m
+RKS	Rock Springs	US	America/Denver	41.5942	-109.065	m
+RKT	Ras Al Khaimah	AE	Asia/Dubai	25.6135	55.9388	l
+RKV	Reykjavik	IS	Atlantic/Reykjavik	64.1287	-21.9376	m
+RLG	Rostock	DE	Europe/Berlin	53.9182	12.2783	m
+RLK	Bayannur	CN	Asia/Shanghai	40.9264	107.7409	m
+RMA	Roma	AU	Australia/Brisbane	-26.545	148.775	m
+RMF	Marsa Alam	EG	Africa/Cairo	25.5555	34.5924	l
+RMI	Rimini	IT	Europe/Rome	44.02	12.6122	l
+RML	Colombo	LK	Asia/Colombo	6.8216	79.8859	l
+RMO	Chisinau	MD	Europe/Chisinau	46.9277	28.9317	l
+RMQ	Taichung City	TW	Asia/Taipei	24.2647	120.621	l
+RMU	Corvera	ES	Europe/Madrid	37.8029	-1.1249	l
+RNB	Ronneby	SE	Europe/Stockholm	56.2667	15.265	m
+RNI	Corn Island	NI	America/Managua	12.1748	-83.0594	s
+RNJ	Yoron	JP	Asia/Tokyo	27.0438	128.4016	m
+RNL	Rennell Island	SB	Pacific/Guadalcanal	-11.55	160.0628	s
+RNN	Ronne	DK	Europe/Copenhagen	55.0633	14.7596	m
+RNO	Reno	US	America/Los_Angeles	39.4991	-119.768	l
+RNS	Rennes/Saint-Jacques	FR	Europe/Paris	48.0695	-1.7348	m
+ROA	Roanoke	US	America/New_York	37.3255	-79.9754	m
+ROB	Monrovia	LR	Africa/Monrovia	6.2338	-10.3623	l
+ROC	Rochester	US	America/New_York	43.1189	-77.6724	l
+ROI	Roi Et	TH	Asia/Bangkok	16.1168	103.774	m
+ROK	Rockhampton	AU	Australia/Brisbane	-23.38	150.4754	m
+ROO	Rondonopolis	BR	America/Cuiaba	-16.5843	-54.7248	m
+ROP	Rota Island	MP	Pacific/Saipan	14.1733	145.2411	l
+ROR	Babelthuap Island	PW	Pacific/Palau	7.367	134.5441	l
+ROS	Rosario	AR	America/Argentina/Cordoba	-32.9036	-60.785	l
+ROT	Rotorua	NZ	Pacific/Auckland	-38.1092	176.317	m
+ROW	Roswell	US	America/Denver	33.3016	-104.531	m
+RPR	Raipur	IN	Asia/Kolkata	21.1804	81.7388	m
+RQA	Ruoqiang	CN	Asia/Shanghai	38.9747	88.0083	m
+RRG	Port Mathurin	MU	Indian/Mauritius	-19.7567	63.3593	m
+RRR	Raroia	PF	Pacific/Tahiti	-16.0505	-142.4766	s
+RRS	Roros	NO	Europe/Oslo	62.5784	11.3423	m
+RSA	Santa Rosa	AR	America/Argentina/Salta	-36.5883	-64.2757	m
+RSD	Rock Sound	BS	America/Nassau	24.8916	-76.1776	m
+RSH	Russian Mission	US	America/Anchorage	61.7751	-161.3195	s
+RSI	Hanak	SA	Asia/Riyadh	25.628	37.0889	l
+RST	Rochester	US	America/Chicago	43.9083	-92.5	m
+RSU	Yeosu	KR	Asia/Seoul	34.8423	127.617	m
+RSW	Fort Myers	US	America/New_York	26.5347	-81.7528	l
+RTA	Rotuma	FJ	Pacific/Fiji	-12.4825	177.071	s
+RTB	Roatan Island	HN	America/Tegucigalpa	16.3168	-86.523	l
+RTG	Satar Tacik-Flores Island	ID	Asia/Makassar	-8.5962	120.4782	s
+RTM	Rotterdam	NL	Europe/Amsterdam	51.9569	4.4372	l
+RUA	Arua	UG	Africa/Kampala	3.0492	30.9117	m
+RUH	Riyadh	SA	Asia/Riyadh	24.9576	46.6988	l
+RUL	Gadhdhoo	MV	Indian/Maldives	0.3381	73.5129	s
+RUN	St Denis	RE	Indian/Reunion	-20.8901	55.5189	l
+RUR	Moerai	PF	Pacific/Tahiti	-22.4341	-151.361	m
+RUS	Marau	SB	Pacific/Guadalcanal	-9.8617	160.825	s
+RUT	Rutland	US	America/New_York	43.5294	-72.9496	m
+RVE	Saravena	CO	America/Bogota	6.9519	-71.8572	s
+RVK	Rorvik	NO	Europe/Oslo	64.8383	11.1461	m
+RVN	Rovaniemi	FI	Europe/Helsinki	66.5633	25.8298	l
+RVV	Raivavae Airport	PF	Pacific/Tahiti	-23.8852	-147.662	s
+RVY	Rivera	UY	America/Montevideo	-30.9746	-55.4762	m
+RXS	Roxas City	PH	Asia/Manila	11.5977	122.752	m
+RYK	Rahim Yar Khan	PK	Asia/Karachi	28.3839	70.2796	m
+RYO	El Turbio	AR	America/Argentina/Rio_Gallegos	-51.605	-72.2203	s
+RZE	Rzeszow	PL	Europe/Warsaw	50.1098	22.0242	l
+RZR	Ramsar	IR	Asia/Tehran	36.907	50.6873	m
+RZV	Rize	TR	Europe/Istanbul	41.1798	40.8488	m
+SAB	Saba	BQ	America/Kralendijk	17.6453	-63.2205	m
+SAF	Santa Fe	US	America/Denver	35.6171	-106.089	m
+SAG	Kakadi	IN	Asia/Kolkata	19.6892	74.3737	l
+SAH	Sana'a	YE	Asia/Aden	15.4763	44.2197	l
+SAI	Siem Reap	KH	Asia/Phnom_Penh	13.3697	104.2238	l
+SAL	Santa Clara	SV	America/El_Salvador	13.4445	-89.0558	l
+SAN	San Diego	US	America/Los_Angeles	32.7336	-117.19	l
+SAP	La Mesa	HN	America/Tegucigalpa	15.4526	-87.9236	l
+SAQ	Andros Island	BS	America/Nassau	25.0538	-78.049	m
+SAT	San Antonio	US	America/Chicago	29.5337	-98.4698	l
+SAV	Savannah	US	America/New_York	32.1266	-81.2	l
+SAW	Istanbul	TR	Europe/Istanbul	40.8986	29.3092	l
+SBA	Santa Barbara	US	America/Los_Angeles	34.4262	-119.84	m
+SBD	San Bernardino	US	America/Los_Angeles	34.0967	-117.2366	l
+SBH	Gustavia	BL	America/St_Barthelemy	17.9044	-62.8433	m
+SBN	South Bend	US	America/Indiana/Indianapolis	41.7083	-86.3169	m
+SBP	San Luis Obispo	US	America/Los_Angeles	35.2368	-120.642	m
+SBR	Saibai Island	AU	Australia/Brisbane	-9.3783	142.625	s
+SBT	Sabetta	RU	Asia/Yekaterinburg	71.2192	72.0522	m
+SBW	Sibu	MY	Asia/Kuching	2.2616	111.985	m
+SBY	Salisbury	US	America/New_York	38.3405	-75.5103	m
+SBZ	Sibiu	RO	Europe/Bucharest	45.7858	24.0867	l
+SCC	Deadhorse	US	America/Anchorage	70.1947	-148.465	m
+SCE	State College	US	America/New_York	40.8494	-77.8485	m
+SCK	Stockton	US	America/Los_Angeles	37.8933	-121.2381	m
+SCL	Santiago	CL	America/Santiago	-33.393	-70.7858	l
+SCM	Scammon Bay	US	America/Nome	61.8447	-165.5752	s
+SCN	Saarbrucken	DE	Europe/Berlin	49.2145	7.1097	m
+SCO	Aktau	KZ	Asia/Aqtau	43.8601	51.0909	l
+SCQ	Santiago de Compostela	ES	Europe/Madrid	42.8963	-8.4151	l
+SCR	Sälen	SE	Europe/Stockholm	61.1651	12.8335	l
+SCT	Socotra Islands	YE	Asia/Aden	12.6321	53.9062	m
+SCU	Santiago	CU	America/Havana	19.9747	-75.8355	l
+SCV	Suceava	RO	Europe/Bucharest	47.6875	26.3541	l
+SCW	Syktyvkar	RU	Europe/Moscow	61.647	50.8451	m
+SCY	San Cristobal	EC	Pacific/Galapagos	-0.9102	-89.6174	s
+SCZ	Santa Cruz/Graciosa Bay/Luova	SB	Pacific/Guadalcanal	-10.7203	165.795	s
+SDD	Lubango	AO	Africa/Luanda	-14.9248	13.5767	m
+SDE	Santiago del Estero	AR	America/Argentina/Cordoba	-27.7656	-64.31	m
+SDF	Louisville	US	America/Kentucky/Louisville	38.1706	-85.7351	l
+SDG	Sanandaj	IR	Asia/Tehran	35.2459	47.0092	m
+SDJ	Sendai	JP	Asia/Tokyo	38.1397	140.917	l
+SDK	Sandakan	MY	Asia/Kuching	5.9009	118.059	m
+SDL	Sundsvall/ Harnosand	SE	Europe/Stockholm	62.5281	17.4439	m
+SDN	Sandane	NO	Europe/Oslo	61.83	6.1058	s
+SDP	Sand Point	US	America/Anchorage	55.3139	-160.5221	m
+SDQ	Santo Domingo	DO	America/Santo_Domingo	18.4297	-69.6689	l
+SDR	Santander	ES	Europe/Madrid	43.4271	-3.82	m
+SDS	Sado	JP	Asia/Tokyo	38.0602	138.414	m
+SDU	Rio De Janeiro	BR	America/Sao_Paulo	-22.9104	-43.1628	l
+SDY	Sidney	US	America/Denver	47.7051	-104.1944	m
+SEA	Seattle	US	America/Los_Angeles	47.4479	-122.3103	l
+SEB	Sabha	LY	Africa/Tripoli	26.9925	14.4662	m
+SEN	Southend	GB	Europe/London	51.5706	0.6936	m
+SET	Serra Talhada	BR	America/Recife	-8.0614	-38.3289	s
+SEU	Seronera	TZ	Africa/Dar_es_Salaam	-2.4581	34.8225	s
+SEZ	Mahe Island	SC	Indian/Mahe	-4.6743	55.5218	l
+SFA	Sfax	TN	Africa/Tunis	34.718	10.691	m
+SFB	Orlando	US	America/New_York	28.7743	-81.2346	l
+SFC	St-Francois	GP	America/Guadeloupe	16.2578	-61.2625	s
+SFG	Grand Case	MF	America/Lower_Princes	18.1001	-63.0474	m
+SFJ	Kangerlussuaq	GL	America/Nuuk	67.0104	-50.7153	m
+SFL	Sao Filipe	CV	Atlantic/Cape_Verde	14.885	-24.48	s
+SFN	Santa Fe	AR	America/Argentina/Cordoba	-31.7117	-60.8117	m
+SFO	San Francisco	US	America/Los_Angeles	37.6198	-122.3748	l
+SFS	Olongapo City	PH	Asia/Manila	14.7948	120.2719	l
+SFT	Skelleftea	SE	Europe/Stockholm	64.6248	21.0769	m
+SGC	Surgut	RU	Asia/Yekaterinburg	61.3405	73.4058	l
+SGD	Sonderborg	DK	Europe/Copenhagen	54.9644	9.7917	m
+SGF	Springfield	US	America/Chicago	37.245	-93.3886	m
+SGN	Ho Chi Minh City	VN	Asia/Ho_Chi_Minh	10.8188	106.652	l
+SGO	St George	AU	Australia/Brisbane	-28.0497	148.595	s
+SGU	St George	US	America/Denver	37.0364	-113.5103	m
+SGY	Skagway	US	America/Juneau	59.4603	-135.3167	s
+SHA	Shanghai	CN	Asia/Shanghai	31.1981	121.3343	l
+SHB	Nakashibetsu	JP	Asia/Tokyo	43.5775	144.96	m
+SHC	Shire	ET	Africa/Addis_Ababa	14.0757	38.2736	s
+SHD	Staunton/Waynesboro/Harrisonburg	US	America/New_York	38.2638	-78.8964	m
+SHE	Shenyang	CN	Asia/Shanghai	41.6398	123.4837	l
+SHG	Shungnak	US	America/Anchorage	66.8881	-157.162	s
+SHH	Shishmaref	US	America/Nome	66.2496	-166.0891	s
+SHI	Miyakojima	JP	Asia/Tokyo	24.8267	125.145	m
+SHJ	Sharjah	AE	Asia/Dubai	25.3286	55.5172	l
+SHL	Shillong	IN	Asia/Kolkata	25.7036	91.9787	m
+SHM	Shirahama	JP	Asia/Tokyo	33.6622	135.364	m
+SHO	Manzini	SZ	Africa/Mbabane	-26.3586	31.7169	l
+SHR	Sheridan	US	America/Denver	44.7692	-106.98	m
+SHS	Shashi	CN	Asia/Shanghai	30.2928	112.4485	m
+SHV	Shreveport	US	America/Chicago	32.4447	-93.8267	m
+SHW	Sharurah	SA	Asia/Riyadh	17.4669	47.1214	m
+SHY	Shinyanga	TZ	Africa/Dar_es_Salaam	-3.6093	33.5035	s
+SID	Espargos	CV	Atlantic/Cape_Verde	16.7414	-22.9494	l
+SIF	Simara	NP	Asia/Kathmandu	27.1598	84.98	s
+SIG	San Juan	PR	America/Puerto_Rico	18.4568	-66.0981	m
+SIH	Silgadi Doti	NP	Asia/Kathmandu	29.2622	80.936	s
+SIN	Singapore	SG	Asia/Singapore	1.3502	103.994	l
+SIS	Sishen	ZA	Africa/Johannesburg	-27.6486	22.9993	m
+SIT	Sitka	US	America/Sitka	57.0471	-135.362	m
+SJC	San Jose	US	America/Los_Angeles	37.3625	-121.9292	l
+SJD	San Jose del Cabo	MX	America/Mazatlan	23.1519	-109.7207	l
+SJE	San Jose Del Guaviare	CO	America/Bogota	2.5797	-72.6394	m
+SJI	San Jose	PH	Asia/Manila	12.3615	121.047	m
+SJJ	Sarajevo	BA	Europe/Sarajevo	43.8246	18.3315	l
+SJK	Sao Jose Dos Campos	BR	America/Sao_Paulo	-23.2292	-45.8615	m
+SJL	Sao Gabriel Da Cachoeira	BR	America/Manaus	-0.1484	-66.9855	m
+SJO	San Jose	CR	America/Costa_Rica	9.9939	-84.2088	l
+SJP	Sao Jose Do Rio Preto	BR	America/Sao_Paulo	-20.8171	-49.407	m
+SJT	San Angelo	US	America/Chicago	31.3577	-100.496	m
+SJU	San Juan	PR	America/Puerto_Rico	18.4394	-66.0018	l
+SJW	Shijiazhuang	CN	Asia/Shanghai	38.2807	114.697	l
+SJZ	Velas	PT	Atlantic/Azores	38.6655	-28.1758	m
+SKB	Basseterre	KN	America/St_Kitts	17.3108	-62.7191	l
+SKD	Samarkand	UZ	Asia/Samarkand	39.7018	66.9815	l
+SKG	Thessaloniki	GR	Europe/Athens	40.5193	22.97	l
+SKH	Surkhet	NP	Asia/Kathmandu	28.586	81.636	s
+SKK	Shaktoolik	US	America/Anchorage	64.3711	-161.224	s
+SKN	Hadsel	NO	Europe/Oslo	68.5788	15.0334	m
+SKO	Sokoto	NG	Africa/Lagos	12.9157	5.2075	l
+SKP	Skopje	MK	Europe/Skopje	41.9581	21.6226	l
+SKT	Sialkot	PK	Asia/Karachi	32.5359	74.3646	l
+SKU	Skiros Island	GR	Europe/Athens	38.9676	24.4872	s
+SKX	Saransk	RU	Europe/Moscow	54.1251	45.2123	l
+SKZ	Mirpur Khas	PK	Asia/Karachi	27.722	68.7917	m
+SLA	Salta	AR	America/Argentina/Salta	-24.856	-65.4862	l
+SLC	Salt Lake City	US	America/Denver	40.7889	-111.9799	l
+SLD	Sliac	SK	Europe/Bratislava	48.6378	19.1341	m
+SLE	Salem	US	America/Los_Angeles	44.9095	-123.003	m
+SLH	Sola	VU	Pacific/Efate	-13.8517	167.537	s
+SLI	Solwesi	ZM	Africa/Lusaka	-12.1737	26.3651	s
+SLK	Saranac Lake	US	America/New_York	44.3869	-74.2046	m
+SLL	Salalah	OM	Asia/Muscat	17.0387	54.0913	l
+SLM	Salamanca	ES	Europe/Madrid	40.9521	-5.502	m
+SLN	Salina	US	America/Chicago	38.791	-97.6522	m
+SLP	San Luis Potosi	MX	America/Mexico_City	22.262	-100.9357	m
+SLQ	Sleetmute	US	America/Anchorage	61.7005	-157.166	s
+SLU	Castries	LC	America/St_Lucia	14.0202	-60.9929	m
+SLW	Saltillo	MX	America/Monterrey	25.5379	-100.9283	m
+SLX	Salt Cay	TC	America/Grand_Turk	21.333	-71.2	s
+SLY	Salekhard	RU	Asia/Yekaterinburg	66.5908	66.611	m
+SLZ	Sao Luis	BR	America/Fortaleza	-2.5864	-44.235	l
+SMA	Vila do Porto	PT	Atlantic/Azores	36.9714	-25.1706	m
+SMF	Sacramento	US	America/Los_Angeles	38.6954	-121.591	l
+SMI	Samos Island	GR	Europe/Athens	37.69	26.9117	m
+SMK	St Michael	US	America/Nome	63.4901	-162.11	s
+SML	Stella Maris	BS	America/Nassau	23.5823	-75.2686	m
+SMN	Salmon	US	America/Boise	45.1222	-113.882	m
+SMQ	Sampit-Borneo Island	ID	Asia/Pontianak	-2.4992	112.975	s
+SMR	Santa Marta	CO	America/Bogota	11.1196	-74.2306	m
+SMS	Sainte Marie	MG	Indian/Antananarivo	-17.0939	49.8158	m
+SMW	Smara	EH	Africa/El_Aaiun	26.732	-11.6837	m
+SMX	Santa Maria	US	America/Los_Angeles	34.8989	-120.457	m
+SNA	Santa Ana	US	America/Los_Angeles	33.6751	-117.8693	l
+SNB	Milikapiti	AU	Australia/Darwin	-11.4177	130.6485	m
+SNC	Salinas	EC	America/Guayaquil	-2.2101	-80.9851	l
+SNE	Preguica	CV	Atlantic/Cape_Verde	16.5889	-24.2841	m
+SNN	Shannon	IE	Europe/Dublin	52.702	-8.9248	l
+SNO	Sakon Nakhon	TH	Asia/Bangkok	17.1951	104.119	m
+SNP	St Paul Island	US	America/Nome	57.1663	-170.2226	m
+SNU	Santa Clara	CU	America/Havana	22.4922	-79.9431	l
+SNV	Santa Elena de Uairen	VE	America/Caracas	4.5547	-61.1452	m
+SNW	Thandwe	MM	Asia/Yangon	18.4607	94.3001	m
+SNX	Semnan	IR	Asia/Tehran	35.5911	53.4951	s
+SOB	Sarmellek	HU	Europe/Budapest	46.6864	17.1591	m
+SOC	Sukarata-Java Island	ID	Asia/Jakarta	-7.516	110.7575	l
+SOD	Sorocaba	BR	America/Sao_Paulo	-23.478	-47.49	s
+SOF	Sofia	BG	Europe/Sofia	42.6964	23.4177	l
+SOG	Sogndal	NO	Europe/Oslo	61.1561	7.1378	s
+SOJ	Sorkjosen	NO	Europe/Oslo	69.7868	20.9594	m
+SOM	El Tigre	VE	America/Caracas	8.9451	-64.1511	m
+SON	Luganville	VU	Pacific/Efate	-15.505	167.22	m
+SOQ	Sorong-Papua Island	ID	Asia/Jayapura	-0.894	131.287	m
+SOU	Southampton	GB	Europe/London	50.9503	-1.3568	m
+SOV	Seldovia	US	America/Anchorage	59.443	-151.7052	s
+SOW	Show Low	US	America/Phoenix	34.2641	-110.0071	m
+SOY	Stronsay	GB	Europe/London	59.1553	-2.6414	s
+SPC	Sta Cruz de la Palma	ES	Atlantic/Canary	28.6265	-17.7556	m
+SPD	Saidpur	BD	Asia/Dhaka	25.7592	88.9089	m
+SPI	Springfield	US	America/Chicago	39.8441	-89.6779	m
+SPN	Saipan Island	MP	Pacific/Saipan	15.1194	145.7288	m
+SPP	Menongue	AO	Africa/Luanda	-14.6576	17.7198	m
+SPS	Wichita Falls	US	America/Chicago	33.9888	-98.4919	m
+SPU	Split	HR	Europe/Zagreb	43.5389	16.298	l
+SPX	Giza	EG	Africa/Cairo	30.1082	30.8957	l
+SPY	San-Pedro	CI	Africa/Abidjan	4.7467	-6.6608	m
+SQD	San Francisco de Yeso	CN	America/Lima	28.3797	117.9643	m
+SQG	Sintang-Borneo Island	ID	Asia/Pontianak	-0.0452	111.458	m
+SQJ	Sanming	CN	Asia/Shanghai	26.4263	117.8336	m
+SQL	San Carlos	US	America/Los_Angeles	37.5131	-122.2508	m
+SRA	Santa Rosa	BR	America/Sao_Paulo	-27.9066	-54.5206	s
+SRE	Sucre	BO	America/La_Paz	-19.2468	-65.1496	l
+SRG	Semarang-Java Island	ID	Asia/Jakarta	-6.9707	110.3732	l
+SRP	Leirvik	NO	Europe/Oslo	59.7919	5.3408	m
+SRQ	Sarasota/Bradenton	US	America/New_York	27.3946	-82.5544	l
+SRT	Soroti	UG	Africa/Kampala	1.7277	33.6228	m
+SRY	Sari	IR	Asia/Tehran	36.6444	53.1888	m
+SRZ	Santa Cruz	BO	America/La_Paz	-17.8116	-63.1715	m
+SSA	Salvador	BR	America/Bahia	-12.9086	-38.3225	l
+SSG	Malabo	GQ	Africa/Malabo	3.7553	8.7087	l
+SSH	Sharm el-Sheikh	EG	Africa/Cairo	27.9773	34.3947	l
+SSJ	Alstahaug	NO	Europe/Oslo	65.9568	12.4689	m
+SSR	Pentecost Island	VU	Pacific/Efate	-15.4708	168.152	s
+SST	Santa Teresita	AR	America/Argentina/Buenos_Aires	-36.5423	-56.7218	m
+SSW	Stuart Island	US	America/Los_Angeles	48.6734	-123.1754	s
+SSY	Mbanza Congo	AO	Africa/Luanda	-6.2699	14.247	m
+STC	St Cloud	US	America/Chicago	45.5466	-94.0599	m
+STD	Santo Domingo	VE	America/Caracas	7.5654	-72.0351	m
+STG	St George	US	America/Nome	56.5773	-169.6638	m
+STI	Santiago	DO	America/Santo_Domingo	19.4041	-70.6044	l
+STL	St Louis	US	America/Chicago	38.7487	-90.37	l
+STM	Santarem	BR	America/Santarem	-2.4224	-54.7931	m
+STN	London	GB	Europe/London	51.885	0.235	l
+STR	Stuttgart	DE	Europe/Berlin	48.6899	9.222	l
+STS	Santa Rosa	US	America/Los_Angeles	38.509	-122.813	m
+STT	Charlotte Amalie	VI	America/St_Thomas	18.3371	-64.9773	l
+STV	Surat	IN	Asia/Kolkata	21.1155	72.7433	l
+STW	Stavropol	RU	Europe/Moscow	45.1092	42.1128	m
+STX	Christiansted	VI	America/St_Thomas	17.7014	-64.8026	m
+SUB	Surabaya	ID	Asia/Jakarta	-7.3798	112.787	l
+SUF	Lamezia Terme	IT	Europe/Rome	38.9062	16.246	l
+SUG	Surigao City	PH	Asia/Manila	9.7558	125.4809	m
+SUI	Sukhumi	GE	Asia/Tbilisi	42.8582	41.1281	l
+SUJ	Satu Mare	RO	Europe/Bucharest	47.7033	22.8857	m
+SUN	Hailey	US	America/Boise	43.5044	-114.296	m
+SUR	Summer Beaver	CA	America/Toronto	52.7086	-88.5419	s
+SUV	Nausori	FJ	Pacific/Fiji	-18.0442	178.5615	l
+SUX	Sioux City	US	America/Chicago	42.3976	-96.3822	m
+SUY	Suntar	RU	Asia/Yakutsk	62.185	117.635	s
+SVA	Savoonga	US	America/Nome	63.6864	-170.493	m
+SVB	Sambava	MG	Indian/Antananarivo	-14.2786	50.1747	m
+SVC	Silver City	US	America/Denver	32.6367	-108.1547	m
+SVD	Argyle	VC	America/St_Vincent	13.1597	-61.1488	l
+SVG	Stavanger	NO	Europe/Oslo	58.8767	5.6378	l
+SVI	San Vicente Del Caguan	CO	America/Bogota	2.1522	-74.7663	m
+SVJ	Svolvaer	NO	Europe/Oslo	68.2433	14.6692	m
+SVL	Savonlinna	FI	Europe/Helsinki	61.9431	28.9451	m
+SVO	Moscow	RU	Europe/Moscow	55.9769	37.4112	l
+SVQ	Sevilla	ES	Europe/Madrid	37.418	-5.8931	l
+SVU	Savusavu	FJ	Pacific/Fiji	-16.8034	179.3406	s
+SVX	Yekaterinburg	RU	Asia/Yekaterinburg	56.7431	60.8027	l
+SVZ	San Antonio del Tachira	VE	America/Bogota	7.8408	-72.4399	m
+SWA	Shantou	CN	Asia/Shanghai	23.552	116.5033	l
+SWF	Newburgh	US	America/New_York	41.5042	-74.1089	m
+SWO	Stillwater	US	America/Chicago	36.1621	-97.0856	m
+SWQ	Sumbawa Island	ID	Asia/Makassar	-8.489	117.412	s
+SWX	Shakawe	BW	Africa/Gaborone	-18.3739	21.8326	s
+SXB	Strasbourg	FR	Europe/Paris	48.5383	7.6282	l
+SXK	Saumlaki-Yamdena Island	ID	Asia/Jayapura	-7.8484	131.3371	s
+SXM	Saint Martin	SX	America/Lower_Princes	18.041	-63.1089	l
+SXR	Srinagar	IN	Asia/Kolkata	33.9871	74.7742	l
+SYD	Sydney	AU	Australia/Sydney	-33.9461	151.177	l
+SYM	Simao	CN	Asia/Shanghai	22.7933	100.959	s
+SYO	Shonai	JP	Asia/Tokyo	38.8122	139.787	m
+SYQ	San Jose	CR	America/Costa_Rica	9.9571	-84.1398	m
+SYR	Syracuse	US	America/New_York	43.1112	-76.1063	l
+SYS	Saskylakh	RU	Asia/Yakutsk	71.9279	114.08	m
+SYU	Sue Islet	AU	Australia/Brisbane	-10.2083	142.825	s
+SYX	Sanya	CN	Asia/Shanghai	18.3029	109.412	l
+SYY	Stornoway	GB	Europe/London	58.2156	-6.3311	m
+SYZ	Shiraz	IR	Asia/Tehran	29.5392	52.5898	l
+SZA	Soyo	AO	Africa/Luanda	-6.1411	12.3718	m
+SZB	Subang	MY	Asia/Kuala_Lumpur	3.1306	101.549	l
+SZE	Semera	ET	Africa/Addis_Ababa	11.7875	40.9915	s
+SZF	Samsun	TR	Europe/Istanbul	41.254	36.5675	m
+SZG	Salzburg	AT	Europe/Berlin	47.7933	13.0043	l
+SZH	Shuozhou	CN	Asia/Shanghai	39.2732	112.6916	m
+SZK	Skukuza	ZA	Africa/Johannesburg	-24.9609	31.5886	m
+SZX	Shenzhen	CN	Asia/Shanghai	22.6395	113.8033	l
+SZY	Szymany	PL	Europe/Warsaw	53.4819	20.9377	m
+SZZ	Goleniow	PL	Europe/Warsaw	53.5847	14.9022	l
+TAB	Scarborough	TT	America/Port_of_Spain	11.1496	-60.8313	l
+TAC	Tacloban City	PH	Asia/Manila	11.2278	125.0278	m
+TAE	Daegu	KR	Asia/Seoul	35.8944	128.657	l
+TAG	Panglao	PH	Asia/Manila	9.573	123.7701	l
+TAH	Tanna	VU	Pacific/Efate	-19.4551	169.224	m
+TAI	Ta'izz	YE	Asia/Aden	13.686	44.1391	m
+TAK	Takamatsu	JP	Asia/Tokyo	34.215	134.0155	l
+TAL	Tanana	US	America/Anchorage	65.1744	-152.109	s
+TAM	Tampico	MX	America/Monterrey	22.2926	-97.8671	m
+TAO	Qingdao	CN	Asia/Shanghai	36.362	120.0882	l
+TAP	Tapachula	MX	America/Mexico_City	14.7945	-92.3699	m
+TAS	Tashkent	UZ	Asia/Tashkent	41.2579	69.2812	l
+TAT	Poprad	SK	Europe/Bratislava	49.071	20.2414	m
+TAY	Tartu	EE	Europe/Tallinn	58.3074	26.6865	m
+TAZ	Dashoguz	TM	Asia/Ashgabat	41.7599	59.8361	l
+TBB	Tuy Hoa	VN	Asia/Ho_Chi_Minh	13.0496	109.334	m
+TBG	Tabubil	PG	Pacific/Port_Moresby	-5.2805	141.2276	s
+TBH	Romblon	PH	Asia/Manila	12.311	122.085	m
+TBI	Cat Island	BS	America/Nassau	24.3153	-75.4523	m
+TBJ	Tabarka	TN	Africa/Tunis	36.98	8.8769	m
+TBN	Fort Leonard Wood	US	America/Chicago	37.7416	-92.1407	m
+TBO	Tabora	TZ	Africa/Dar_es_Salaam	-5.0764	32.8333	s
+TBP	Tumbes	PE	America/Lima	-3.5521	-80.3811	m
+TBS	Tbilisi	GE	Asia/Tbilisi	41.6692	44.9547	l
+TBT	Tabatinga	BR	America/Bogota	-4.2557	-69.9358	m
+TBU	Nuku'alofa	TO	Pacific/Tongatapu	-21.2414	-175.1492	l
+TBZ	Tabriz	IR	Asia/Tehran	38.1339	46.235	l
+TCA	Tennant Creek	AU	Australia/Darwin	-19.6344	134.183	m
+TCB	Treasure Cay	BS	America/Nassau	26.7453	-77.3913	m
+TCG	Tacheng	CN	Asia/Shanghai	46.6725	83.3408	s
+TCO	Tumaco	CO	America/Bogota	1.8144	-78.7492	m
+TCP	Taba	EG	Africa/Cairo	29.5945	34.7758	m
+TCQ	Tacna	PE	America/Lima	-18.0533	-70.2758	m
+TCR	Thoothukkudi	IN	Asia/Kolkata	8.7242	78.0258	s
+TCZ	Tengchong	CN	Asia/Shanghai	24.9381	98.4858	m
+TDD	Trinidad	BO	America/La_Paz	-14.8187	-64.918	m
+TDK	Taldy Kurgan	KZ	Asia/Almaty	45.1225	78.4428	m
+TDS	Sasereme	PG	Pacific/Port_Moresby	-7.6217	142.868	s
+TDX	Trat	TH	Asia/Bangkok	12.2746	102.319	m
+TEB	Teterboro	US	America/New_York	40.8501	-74.0608	m
+TEE	Tebessi	DZ	Africa/Algiers	35.4316	8.1207	m
+TEN	Tongren	CN	Asia/Shanghai	27.8833	109.3089	m
+TEQ	Corlu	TR	Europe/Istanbul	41.1382	27.9191	m
+TER	Lajes	PT	Atlantic/Azores	38.7618	-27.0908	m
+TET	Tete	MZ	Africa/Maputo	-16.1048	33.6402	l
+TEX	Telluride	US	America/Denver	37.9538	-107.908	m
+TEZ	Tezpur	IN	Asia/Kolkata	26.7091	92.7847	m
+TFF	Tefe	BR	America/Manaus	-3.3829	-64.7241	m
+TFI	Tufi	PG	Pacific/Port_Moresby	-9.076	149.3198	s
+TFN	Tenerife Island	ES	Atlantic/Canary	28.4828	-16.3417	l
+TFS	Tenerife Island	ES	Atlantic/Canary	28.0445	-16.5725	l
+TFU	Chengdu	CN	Asia/Shanghai	30.3125	104.4413	l
+TGD	Podgorica	ME	Europe/Podgorica	42.3594	19.2519	l
+TGG	Kuala Terengganu	MY	Asia/Kuala_Lumpur	5.3826	103.103	m
+TGH	Tongoa Island	VU	Pacific/Efate	-16.8911	168.551	s
+TGJ	Tiga	NC	Pacific/Noumea	-21.0964	167.8038	m
+TGM	Targu Mures	RO	Europe/Bucharest	46.4677	24.4125	m
+TGO	Tongliao	CN	Asia/Shanghai	43.5567	122.2	m
+TGQ	Tangara Da Serra	BR	America/Cuiaba	-14.662	-57.4437	s
+TGR	Touggourt	DZ	Africa/Algiers	33.0678	6.0887	m
+TGT	Tanga	TZ	Africa/Dar_es_Salaam	-5.0924	39.0712	m
+TGU	Tegucigalpa	HN	America/Tegucigalpa	14.0609	-87.2172	m
+TGZ	Tuxtla Gutierrez	MX	America/Mexico_City	16.5616	-93.0257	m
+THD	Thanh Hóa	VN	Asia/Bangkok	19.9017	105.4678	s
+THE	Teresina	BR	America/Fortaleza	-5.0602	-42.8237	m
+THG	Biloela	AU	Australia/Brisbane	-24.4949	150.578	m
+THL	Tachileik	MM	Asia/Yangon	20.4838	99.9354	m
+THN	Trollhattan	SE	Europe/Stockholm	58.3181	12.345	m
+THO	Thorshofn	IS	Atlantic/Reykjavik	66.2185	-15.3347	s
+THQ	Tianshui	CN	Asia/Shanghai	34.5601	105.8603	m
+THR	Tehran	IR	Asia/Tehran	35.6892	51.3144	l
+THS	Sukhothai	TH	Asia/Bangkok	17.238	99.8182	m
+THX	Turukhansk	RU	Asia/Krasnoyarsk	65.7972	87.9353	s
+TIA	Tirana	AL	Europe/Tirane	41.4147	19.7206	l
+TIE	Tippi	ET	Africa/Addis_Ababa	7.2024	35.415	s
+TIF	Taif	SA	Asia/Riyadh	21.4847	40.5441	l
+TIH	Tuherahera	PF	Pacific/Tahiti	-15.1196	-148.231	m
+TIJ	Tijuana	MX	America/Los_Angeles	32.541	-116.97	l
+TIM	Timika-Papua Island	ID	Asia/Jayapura	-4.5298	136.8874	m
+TIN	Tindouf	DZ	Africa/Algiers	27.7004	-8.1671	m
+TIQ	Tinian Island	MP	Pacific/Saipan	14.9992	145.6194	m
+TIR	Tirupati	IN	Asia/Kolkata	13.632	79.5399	l
+TIU	Timaru	NZ	Pacific/Auckland	-44.3028	171.225	m
+TIV	Tivat	ME	Europe/Podgorica	42.4047	18.7233	m
+TIW	Tacoma	US	America/Los_Angeles	47.2674	-122.5773	m
+TIZ	Tari	PG	Pacific/Port_Moresby	-5.845	142.948	s
+TJA	Tarija	BO	America/La_Paz	-21.5557	-64.7013	m
+TJG	Tanta-Tabalong-Borneo Island	ID	Asia/Makassar	-2.2166	115.436	m
+TJH	Tajima	JP	Asia/Tokyo	35.5128	134.787	m
+TJK	Tokat	TR	Europe/Istanbul	40.3247	36.3906	m
+TJL	Tres Lagoas	BR	America/Campo_Grande	-20.7526	-51.682	s
+TJM	Tyumen	RU	Asia/Yekaterinburg	57.179	65.3277	l
+TJQ	Tanjung Pandan-Belitung Island	ID	Asia/Jakarta	-2.7441	107.7545	s
+TJS	Tanjung Selor-Borneo Island	ID	Asia/Makassar	2.8381	117.3746	s
+TJU	Kulyab	TJ	Asia/Dushanbe	37.9881	69.805	l
+TKD	Sekondi-Takoradi	GH	Africa/Accra	4.8961	-1.7748	m
+TKF	Truckee	US	America/Los_Angeles	39.3186	-120.1406	m
+TKG	Bandar Lampung-Sumatra Island	ID	Asia/Jakarta	-5.2468	105.1825	m
+TKJ	Tok	US	America/Anchorage	63.3295	-142.954	s
+TKK	Weno Island	FM	Pacific/Chuuk	7.4619	151.843	l
+TKN	Tokunoshima	JP	Asia/Tokyo	27.8364	128.8814	m
+TKP	Takapoto Airport	PF	Pacific/Tahiti	-14.7095	-145.246	m
+TKQ	Kigoma	TZ	Africa/Dar_es_Salaam	-4.8862	29.6709	s
+TKS	Tokushima	JP	Asia/Tokyo	34.1326	134.6078	l
+TKU	Turku	FI	Europe/Helsinki	60.5141	22.2628	l
+TKV	Tatakoto	PF	Pacific/Tahiti	-17.3552	-138.4473	s
+TKX	Takaroa	PF	Pacific/Tahiti	-14.4558	-145.025	m
+TLA	Teller	US	America/Nome	65.2404	-166.339	s
+TLC	Toluca	MX	America/Mexico_City	19.3369	-99.5658	l
+TLE	Toliara	MG	Indian/Antananarivo	-23.3834	43.7285	m
+TLH	Tallahassee	US	America/New_York	30.4012	-84.3543	m
+TLI	Toli Toli-Celebes Island	ID	Asia/Makassar	1.1234	120.7937	s
+TLL	Tallinn	EE	Europe/Tallinn	59.4132	24.8326	l
+TLM	Tlemcen	DZ	Africa/Algiers	35.0127	-1.4571	l
+TLN	Toulon/Hyeres/Le Palyvestre	FR	Europe/Paris	43.0973	6.146	m
+TLQ	Turpan	CN	Asia/Shanghai	43.0308	89.0987	m
+TLS	Toulouse/Blagnac	FR	Europe/Paris	43.6291	1.3638	l
+TLU	Tolu	CO	America/Bogota	9.5094	-75.5854	s
+TLV	Tel Aviv	IL	Asia/Jerusalem	32.0114	34.8867	l
+TLY	Plastun	RU	Asia/Vladivostok	44.815	136.292	s
+TMC	Waikabubak-Sumba Island	ID	Asia/Makassar	-9.4092	119.2426	s
+TME	Tame	CO	America/Bogota	6.4511	-71.7603	m
+TMF	Thimarafushi	MV	Indian/Maldives	2.211	73.1533	s
+TMG	Tomanggong	MY	Asia/Kuching	5.4026	118.6576	s
+TMH	Tanah Merah-Papua Island	ID	Asia/Jayapura	-6.0967	140.3035	m
+TMI	Tumling Tar	NP	Asia/Kathmandu	27.315	87.1933	s
+TMJ	Termez	UZ	Asia/Samarkand	37.2873	67.3119	m
+TML	Tamale	GH	Africa/Accra	9.5539	-0.8661	l
+TMM	Toamasina	MG	Indian/Antananarivo	-18.1135	49.3923	l
+TMP	Tampere / Pirkkala	FI	Europe/Helsinki	61.4141	23.6044	l
+TMR	Tamanrasset	DZ	Africa/Algiers	22.811	5.4508	l
+TMS	Sao Tome	ST	Africa/Sao_Tome	0.3782	6.7122	l
+TMT	Oriximina	BR	America/Santarem	-1.4896	-56.3968	m
+TMW	Tamworth	AU	Australia/Sydney	-31.0779	150.8455	m
+TMX	Timimoun	DZ	Africa/Algiers	29.2371	0.276	m
+TNA	Jinan	CN	Asia/Shanghai	36.8572	117.216	l
+TNC	Tin City	US	America/Nome	65.5631	-167.922	s
+TND	Trinidad	CU	America/Havana	21.7883	-79.9972	m
+TNE	Nakatane	JP	Asia/Tokyo	30.6051	130.991	m
+TNG	Tangier	MA	Africa/Casablanca	35.7317	-5.9215	l
+TNH	Tonghua	CN	Asia/Shanghai	42.0484	125.734	m
+TNJ	Tanjung Pinang-Bintan Island	ID	Asia/Jakarta	0.924	104.5334	m
+TNN	Tainan City	TW	Asia/Taipei	22.9504	120.206	l
+TNR	Antananarivo	MG	Indian/Antananarivo	-18.7969	47.4788	l
+TOD	Pulau Tioman	MY	Asia/Kuala_Lumpur	2.8182	104.16	m
+TOE	Tozeur	TN	Africa/Tunis	33.9397	8.1106	m
+TOF	Tomsk	RU	Asia/Tomsk	56.3803	85.2083	l
+TOG	Togiak Village	US	America/Anchorage	59.0528	-160.397	s
+TOL	Toledo	US	America/New_York	41.5868	-83.8078	m
+TOM	Timbuktu	ML	Africa/Bamako	16.7305	-3.0076	l
+TOS	Tromso	NO	Europe/Oslo	69.6833	18.9189	l
+TOU	Touho	NC	Pacific/Noumea	-20.7901	165.2595	m
+TOW	Toledo	BR	America/Sao_Paulo	-24.6863	-53.6975	s
+TOY	Toyama	JP	Asia/Tokyo	36.6484	137.1874	m
+TPA	Tampa	US	America/New_York	27.9755	-82.5332	l
+TPE	Taipei	TW	Asia/Taipei	25.0777	121.233	l
+TPI	Tapini	PG	Pacific/Port_Moresby	-8.3567	146.9892	s
+TPJ	Taplejung	NP	Asia/Kathmandu	27.3509	87.6953	m
+TPP	Tarapoto	PE	America/Lima	-6.5087	-76.3732	m
+TPQ	Tepic	MX	America/Mazatlan	21.4198	-104.8425	m
+TPS	Trapani	IT	Europe/Rome	37.9114	12.488	m
+TQO	Tulum	MX	America/Cancun	20.1721	-87.6603	l
+TRA	Tarama	JP	Asia/Tokyo	24.6538	124.6755	m
+TRC	Torreon	MX	America/Monterrey	25.5623	-103.4046	m
+TRD	Trondheim	NO	Europe/Oslo	63.4578	10.924	l
+TRE	Balemartine	GB	Europe/London	56.4992	-6.8692	m
+TRF	Torp	NO	Europe/Oslo	59.1867	10.2586	l
+TRG	Tauranga	NZ	Pacific/Auckland	-37.6719	176.196	m
+TRI	Bristol/Johnson/Kingsport	US	America/New_York	36.4752	-82.4074	m
+TRK	Tarakan Island	ID	Asia/Makassar	3.3251	117.5642	m
+TRN	Torino	IT	Europe/Rome	45.2008	7.6496	l
+TRR	Trincomalee	LK	Asia/Colombo	8.5392	81.1813	m
+TRS	Trieste	IT	Europe/Rome	45.8279	13.4667	l
+TRU	Trujillo	PE	America/Lima	-8.0824	-79.1088	l
+TRV	Trivandrum	IN	Asia/Kolkata	8.4819	76.92	l
+TRW	Tarawa	KI	Pacific/Tarawa	1.3816	173.147	l
+TRZ	Tiruchirappally	IN	Asia/Kolkata	10.7629	78.7177	l
+TSA	Taipei City	TW	Asia/Taipei	25.0672	121.5528	l
+TSF	Treviso	IT	Europe/Rome	45.6484	12.1944	l
+TSJ	Tsushima	JP	Asia/Tokyo	34.2849	129.331	m
+TSM	Taos	US	America/Denver	36.4525	-105.6775	m
+TSN	Tianjin	CN	Asia/Shanghai	39.1244	117.346	l
+TSR	Timisoara	RO	Europe/Bucharest	45.8099	21.3379	l
+TST	Trang	TH	Asia/Bangkok	7.5087	99.6166	m
+TSV	Townsville	AU	Australia/Brisbane	-19.2529	146.7665	m
+TTA	Tan Tan	MA	Africa/Casablanca	28.4476	-11.1617	m
+TTE	Sango-Ternate Island	ID	Asia/Jayapura	0.831	127.3816	m
+TTJ	Tottori	JP	Asia/Tokyo	35.5301	134.165	m
+TTN	Trenton	US	America/New_York	40.2767	-74.8135	m
+TTS	Tsaratanana	MG	Indian/Antananarivo	-16.7511	47.619	s
+TTT	Taitung City	TW	Asia/Taipei	22.7549	121.1018	m
+TTU	Tetouan	MA	Africa/Casablanca	35.5943	-5.32	l
+TUA	Tulcan	EC	America/Guayaquil	0.8095	-77.7081	m
+TUB	Tubuai Airport	PF	Pacific/Tahiti	-23.3654	-149.524	m
+TUC	San Miguel de Tucuman	AR	America/Argentina/Tucuman	-26.8374	-65.1042	l
+TUF	Tours/Val de Loire	FR	Europe/Paris	47.4322	0.7276	m
+TUG	Tuguegarao City	PH	Asia/Manila	17.6434	121.7332	m
+TUI	Turaif	SA	Asia/Riyadh	31.6922	38.7315	m
+TUK	Turbat	PK	Asia/Karachi	25.9848	63.0289	l
+TUL	Tulsa	US	America/Chicago	36.1971	-95.8862	l
+TUN	Tunis	TN	Africa/Tunis	36.851	10.2272	l
+TUO	Taupo	NZ	Pacific/Auckland	-38.7397	176.084	m
+TUP	Tupelo	US	America/Chicago	34.2681	-88.7699	m
+TUR	Tucurui	BR	America/Belem	-3.786	-49.7203	m
+TUS	Tucson	US	America/Phoenix	32.115	-110.9381	l
+TUU	Tabuk	SA	Asia/Riyadh	28.3711	36.6249	l
+TVC	Traverse City	US	America/Detroit	44.7414	-85.5822	m
+TVF	Thief River Falls	US	America/Chicago	48.0657	-96.185	m
+TVS	Tangshan	CN	Asia/Shanghai	39.7178	118.0026	s
+TVT	Tashkent	UZ	Asia/Tashkent	41.3129	69.3955	m
+TVU	Matei	FJ	Pacific/Fiji	-16.6906	-179.877	s
+TVY	Dawei	MM	Asia/Yangon	14.1039	98.2036	m
+TWC	Tumxuk	CN	Asia/Shanghai	39.8867	79.2334	s
+TWF	Twin Falls	US	America/Boise	42.4818	-114.488	m
+TWT	Bongao	PH	Asia/Manila	5.0482	119.7433	m
+TWU	Tawau	MY	Asia/Kuching	4.3134	118.1215	m
+TXK	Texarkana	US	America/Chicago	33.4537	-93.991	m
+TXN	Huangshan	CN	Asia/Shanghai	29.7333	118.256	l
+TYF	Torsby	SE	Europe/Stockholm	60.1576	12.9913	m
+TYL	Talara	PE	America/Lima	-4.5766	-81.2541	m
+TYN	Taiyuan	CN	Asia/Shanghai	37.7469	112.628	l
+TYR	Tyler	US	America/Chicago	32.3541	-95.4024	m
+TYS	Knoxville	US	America/New_York	35.811	-83.994	l
+TZL	Tuzla	BA	Europe/Sarajevo	44.4599	18.7236	l
+TZN	Andros	BS	America/Nassau	24.1587	-77.5898	m
+TZX	Trabzon	TR	Europe/Istanbul	40.9951	39.7897	m
+UAH	Ua Huka	PF	Pacific/Marquesas	-8.9362	-139.5541	s
+UAI	Suai	TL	Asia/Dili	-9.3019	125.2863	m
+UAP	Ua Pou	PF	Pacific/Marquesas	-9.3517	-140.078	s
+UAQ	San Juan	AR	America/Argentina/San_Juan	-31.5715	-68.4182	m
+UAR	Bouarfa	MA	Africa/Casablanca	32.5143	-1.9831	m
+UBA	Uberaba	BR	America/Sao_Paulo	-19.765	-47.9648	m
+UBB	Mabuiag Island	AU	Australia/Brisbane	-9.9502	142.1952	s
+UBJ	Ube	JP	Asia/Tokyo	33.93	131.279	m
+UBN	Ulaanbaatar	MN	Asia/Ulaanbaatar	47.6469	106.8198	l
+UBP	Ubon Ratchathani	TH	Asia/Bangkok	15.2513	104.87	m
+UCB	Ulanqab	CN	Asia/Shanghai	41.1303	113.1073	m
+UCT	Ukhta	RU	Europe/Moscow	63.5669	53.8047	m
+UDI	Uberlandia	BR	America/Sao_Paulo	-18.8836	-48.2259	m
+UDR	Udaipur	IN	Asia/Kolkata	24.6177	73.8961	m
+UEL	Quelimane	MZ	Africa/Maputo	-17.8555	36.8691	m
+UEO	Kumejima	JP	Asia/Tokyo	26.3634	126.7138	m
+UET	Quetta	PK	Asia/Karachi	30.2514	66.9378	l
+UFA	Ufa	RU	Asia/Yekaterinburg	54.5575	55.8744	l
+UGA	Bulgan	MN	Asia/Ulaanbaatar	48.855	103.476	m
+UGC	Urgench	UZ	Asia/Samarkand	41.5827	60.6434	l
+UIB	Quibdo	CO	America/Bogota	5.6908	-76.6412	m
+UIH	Quy Nohn	VN	Asia/Ho_Chi_Minh	13.955	109.042	m
+UII	Utila Island	HN	America/Tegucigalpa	16.1131	-86.8803	s
+UIN	Quincy	US	America/Chicago	39.9427	-91.1946	m
+UIO	Quito	EC	America/Guayaquil	-0.1254	-78.3543	l
+UJE	Ujae Atoll	MH	Pacific/Majuro	8.9281	165.762	s
+UKB	Kobe	JP	Asia/Tokyo	34.6328	135.224	l
+UKE	Bhawanipatna	IN	Asia/Kolkata	20.0978	83.1833	m
+UKG	Ust-Kuyga	RU	Asia/Vladivostok	70.011	135.645	s
+UKK	Ust Kamenogorsk	KZ	Asia/Almaty	50.035	82.4961	l
+UKX	Ust-Kut	RU	Asia/Irkutsk	56.8567	105.73	m
+ULG	Olgii	MN	Asia/Hovd	48.9933	89.9225	m
+ULH	Al-'Ula	SA	Asia/Riyadh	26.4836	38.117	l
+ULK	Lensk	RU	Asia/Yakutsk	60.7236	114.8253	m
+ULO	Ulaangom	MN	Asia/Hovd	50.0666	91.9383	m
+ULP	Quilpie	AU	Australia/Brisbane	-26.6092	144.2537	m
+ULU	Gulu	UG	Africa/Kampala	2.8056	32.2718	m
+ULV	Ulyanovsk	RU	Europe/Ulyanovsk	54.2702	48.2256	m
+ULY	Ulyanovsk	RU	Europe/Ulyanovsk	54.401	48.8027	m
+UME	Umea	SE	Europe/Stockholm	63.7918	20.2828	l
+UMS	Ust-Maya	RU	Asia/Khandyga	60.3574	134.4373	s
+UMU	Umuarama	BR	America/Sao_Paulo	-23.7987	-53.3138	s
+UNA	Una	BR	America/Bahia	-15.3544	-38.9987	s
+UNG	Kiunga	PG	Pacific/Port_Moresby	-6.1257	141.282	s
+UNI	Union Island	VC	America/St_Vincent	12.6001	-61.4119	m
+UNK	Unalakleet	US	America/Anchorage	63.8884	-160.799	m
+UNN	Ranong	TH	Asia/Bangkok	9.7776	98.5855	m
+UOL	Buol-Celebes Island	ID	Asia/Makassar	1.1023	121.4134	s
+UPG	Ujung Pandang-Celebes Island	ID	Asia/Makassar	-5.0755	119.5537	l
+UPN	Uruapan	MX	America/Mexico_City	19.3967	-102.039	m
+URA	Uralsk	KZ	Asia/Oral	51.152	51.5437	l
+URC	Urumqi	CN	Asia/Shanghai	43.9136	87.4794	l
+URE	Kuressaare	EE	Europe/Tallinn	58.2299	22.5095	m
+URG	Uruguaiana	BR	America/Sao_Paulo	-29.7822	-57.0382	m
+URJ	Uray	RU	Asia/Yekaterinburg	60.1033	64.8267	m
+URT	Surat Thani	TH	Asia/Bangkok	9.1326	99.1356	m
+URY	Gurayat	SA	Asia/Riyadh	31.4124	37.2789	m
+USA	Concord	US	America/New_York	35.3878	-80.7091	m
+USH	Ushuahia	AR	America/Argentina/Ushuaia	-54.8433	-68.2958	m
+USJ	Usharal	KZ	Asia/Almaty	46.1908	80.8309	s
+USK	Usinsk	RU	Europe/Moscow	66.0047	57.3672	m
+USM	Na Thon	TH	Asia/Bangkok	9.5478	100.062	l
+USN	Ulsan	KR	Asia/Seoul	35.5935	129.352	m
+USR	Ust-Nera	RU	Asia/Ust-Nera	64.55	143.115	m
+UST	St Augustine	US	America/New_York	29.9592	-81.3398	m
+USU	Coron	PH	Asia/Manila	12.1219	120.1008	m
+UTH	Udon Thani	TH	Asia/Bangkok	17.3862	102.7886	l
+UTN	Upington	ZA	Africa/Johannesburg	-28.4002	21.2636	m
+UTO	Utopia Creek	US	America/Anchorage	65.9928	-153.704	m
+UTP	Rayong	TH	Asia/Bangkok	12.6799	101.005	l
+UTT	Mthatha	ZA	Africa/Johannesburg	-31.5464	28.6734	m
+UUA	Bugulma	RU	Europe/Moscow	54.6412	52.8002	m
+UUD	Ulan Ude	RU	Asia/Irkutsk	51.8086	107.4397	l
+UUS	Yuzhno-Sakhalinsk	RU	Asia/Sakhalin	46.8855	142.7175	l
+UVE	Ouvea	NC	Pacific/Noumea	-20.6409	166.573	m
+UVF	Vieux Fort	LC	America/St_Lucia	13.7332	-60.9526	l
+UVI	Uniao Da Vitoria	BR	America/Sao_Paulo	-26.2332	-51.0668	s
+UYL	Nyala	SD	Africa/Khartoum	12.0535	24.9562	m
+UYN	Yulin	CN	Asia/Shanghai	38.3597	109.5909	m
+UYU	Quijarro	BO	America/La_Paz	-20.4413	-66.8576	l
+VAA	Vaasa	FI	Europe/Helsinki	63.0502	21.7625	l
+VAI	Vanimo	PG	Pacific/Port_Moresby	-2.6926	141.3028	m
+VAK	Chevak	US	America/Nome	61.5409	-165.6005	s
+VAL	Valenca	BR	America/Bahia	-13.2965	-38.9924	s
+VAM	Maamigili	MV	Indian/Maldives	3.4718	72.8326	m
+VAN	Van	TR	Europe/Istanbul	38.4682	43.3323	m
+VAO	Suavanao	SB	Pacific/Guadalcanal	-7.5856	158.731	s
+VAQ	Vanavara	RU	Asia/Krasnoyarsk	60.3562	102.3096	m
+VAR	Varna	BG	Europe/Sofia	43.2321	27.8251	l
+VAS	Sivas	TR	Europe/Istanbul	39.8138	36.9035	m
+VAV	Vava'u Island	TO	Pacific/Tongatapu	-18.5853	-173.962	l
+VAW	Vardo	NO	Europe/Oslo	70.3554	31.0449	m
+VBS	Brescia	IT	Europe/Rome	45.4289	10.3306	m
+VBV	Vanua Balavu	FJ	Pacific/Fiji	-17.269	-178.976	s
+VBY	Visby	SE	Europe/Stockholm	57.6628	18.3462	l
+VCA	Can Tho	VN	Asia/Ho_Chi_Minh	10.0834	105.7094	l
+VCE	Venezia	IT	Europe/Rome	45.5053	12.3519	l
+VCL	Dung Quat Bay	VN	Asia/Ho_Chi_Minh	15.4033	108.706	s
+VCP	Campinas	BR	America/Sao_Paulo	-23.0074	-47.1345	l
+VCS	Con Ong	VN	Asia/Ho_Chi_Minh	8.7318	106.633	m
+VCT	Victoria	US	America/Chicago	28.8526	-96.9185	m
+VDC	Vitória da Conquista	BR	America/Bahia	-14.9079	-40.9148	m
+VDE	El Hierro Island	ES	Atlantic/Canary	27.8148	-17.8871	m
+VDH	Dong Hoi	VN	Asia/Bangkok	17.515	106.5906	m
+VDM	Viedma / Carmen de Patagones	AR	America/Argentina/Salta	-40.8692	-63.0004	m
+VDO	Vân Đồn	VN	Asia/Bangkok	21.1207	107.4154	m
+VDS	Vadso	NO	Europe/Oslo	70.0653	29.8447	m
+VDZ	Valdez	US	America/Anchorage	61.1327	-146.2466	m
+VEE	Venetie	US	America/Anchorage	67.0087	-146.366	s
+VEL	Vernal	US	America/Denver	40.4362	-109.5117	m
+VEO	Severo-Eniseysk	RU	Asia/Krasnoyarsk	60.3733	93.0117	m
+VER	Veracruz	MX	America/Mexico_City	19.1396	-96.1886	l
+VFA	Victoria Falls	ZW	Africa/Harare	-18.0974	25.8369	l
+VGA	Vijayawada	IN	Asia/Kolkata	16.53	80.8049	l
+VGO	Vigo	ES	Europe/Madrid	42.2318	-8.6268	m
+VHM	Vilhelmina	SE	Europe/Stockholm	64.5791	16.8336	m
+VHV	Verkhnevilyuisk	RU	Asia/Yakutsk	63.4581	120.2692	s
+VIE	Vienna	AT	Europe/Vienna	48.1103	16.5697	l
+VIG	El Vigia	VE	America/Caracas	8.6241	-71.6727	m
+VII	Vinh	VN	Asia/Bangkok	18.7376	105.671	m
+VIJ	Spanish Town	VG	America/Tortola	18.4466	-64.4279	m
+VIL	Dakhla	EH	Africa/El_Aaiun	23.7183	-15.932	l
+VIT	Alava	ES	Europe/Madrid	42.8828	-2.7245	m
+VIX	Vitoria	BR	America/Sao_Paulo	-20.258	-40.285	l
+VJB	Xai-Xai	MZ	Africa/Maputo	-24.8929	33.753	s
+VKG	Rach Gia	VN	Asia/Ho_Chi_Minh	9.958	105.1324	m
+VKO	Moscow	RU	Europe/Moscow	55.5915	37.2615	l
+VKT	Vorkuta	RU	Europe/Moscow	67.4886	63.9931	m
+VLC	Valencia	ES	Europe/Madrid	39.4892	-0.481	l
+VLD	Valdosta	US	America/New_York	30.7825	-83.2767	m
+VLI	Port Vila	VU	Pacific/Efate	-17.6993	168.32	l
+VLL	Valladolid	ES	Europe/Madrid	41.7061	-4.8519	m
+VLN	Valencia	VE	America/Caracas	10.1497	-67.9284	l
+VLS	Valesdir	VU	Pacific/Efate	-16.7961	168.177	s
+VLV	Valera	VE	America/Caracas	9.3405	-70.5841	m
+VMU	Baimuru	PG	Pacific/Port_Moresby	-7.497	144.8218	m
+VNO	Vilnius	LT	Europe/Vilnius	54.6341	25.2858	l
+VNS	Varanasi	IN	Asia/Kolkata	25.4522	82.8625	l
+VNX	Vilanculo	MZ	Africa/Maputo	-22.0184	35.3133	m
+VOG	Volgograd	RU	Europe/Volgograd	48.7813	44.3392	l
+VOL	Nea Anchialos	GR	Europe/Athens	39.2196	22.7943	m
+VOZ	Voronezh	RU	Europe/Moscow	51.8143	39.2309	m
+VPE	Ngiva	AO	Africa/Luanda	-17.0435	15.6838	m
+VPN	Vopnafjordur	IS	Atlantic/Reykjavik	65.7206	-14.8506	m
+VPS	Valparaiso	US	America/Chicago	30.4813	-86.5158	m
+VPY	Chimoio	MZ	Africa/Maputo	-19.1513	33.429	m
+VQS	Vieques Island	PR	America/Puerto_Rico	18.1348	-65.4936	m
+VRA	Varadero	CU	America/Havana	23.0344	-81.4353	l
+VRB	Vero Beach	US	America/New_York	27.6556	-80.4179	m
+VRC	Virac	PH	Asia/Manila	13.5764	124.206	m
+VRL	Vila Real	PT	Europe/Lisbon	41.2743	-7.7205	m
+VRN	Verona	IT	Europe/Rome	45.395	10.8873	l
+VSA	Villahermosa	MX	America/Mexico_City	17.9943	-92.8182	l
+VSE	Viseu	PT	Europe/Lisbon	40.7255	-7.889	m
+VST	Stockholm / Vasteras	SE	Europe/Stockholm	59.5894	16.6336	l
+VSV	Shravasti	IN	Asia/Kolkata	27.4997	82.0329	s
+VTE	Vientiane	LA	Asia/Vientiane	17.9851	102.5667	l
+VTU	Las Tunas	CU	America/Havana	20.9876	-76.9358	m
+VTZ	Visakhapatnam	IN	Asia/Kolkata	17.9715	83.5036	l
+VUP	Valledupar	CO	America/Bogota	10.435	-73.2495	m
+VUS	Velikiy Ustyug	RU	Europe/Moscow	60.7883	46.26	m
+VVC	Villavicencio	CO	America/Bogota	4.1679	-73.6138	m
+VVI	Santa Cruz	BO	America/La_Paz	-17.6448	-63.1354	l
+VVO	Vladivostok	RU	Asia/Vladivostok	43.3963	132.1482	l
+VVZ	Illizi	DZ	Africa/Algiers	26.7235	8.6227	m
+VXC	Lichinga	MZ	Africa/Maputo	-13.274	35.2663	m
+VXE	Sao Pedro	CV	Atlantic/Cape_Verde	16.8334	-25.0553	l
+VXO	Vaxjo	SE	Europe/Stockholm	56.9291	14.728	m
+VYI	Vilyuisk	RU	Asia/Yakutsk	63.7567	121.6933	m
+WAA	Wales	US	America/Nome	65.6226	-168.095	s
+WAE	Wadi al-Dawasir	SA	Asia/Riyadh	20.5043	45.1996	m
+WAG	Wanganui	NZ	Pacific/Auckland	-39.9635	175.0244	m
+WAW	Warsaw	PL	Europe/Warsaw	52.1657	20.9671	l
+WBM	Wapenamanda	PG	Pacific/Port_Moresby	-5.6353	143.8922	m
+WBQ	Beaver	US	America/Anchorage	66.3622	-147.407	s
+WDH	Windhoek	NA	Africa/Windhoek	-22.4799	17.4709	l
+WDN	East Sound	US	America/Los_Angeles	48.7114	-123.0182	s
+WEF	Weifang	CN	Asia/Shanghai	36.6467	119.119	m
+WEH	Weihai	CN	Asia/Shanghai	37.1871	122.229	m
+WEI	Weipa	AU	Australia/Brisbane	-12.6775	141.9226	m
+WGA	Wagga Wagga	AU	Australia/Sydney	-35.1635	147.4683	m
+WGE	Walgett	AU	Australia/Sydney	-30.0328	148.126	m
+WGP	Waingapu-Sumba Island	ID	Asia/Makassar	-9.6692	120.302	s
+WHA	Wuhu	CN	Asia/Shanghai	31.1045	118.6669	m
+WHK	Whakatane	NZ	Pacific/Auckland	-37.9222	176.917	m
+WIC	Wick	GB	Europe/London	58.4589	-3.0931	m
+WIL	Nairobi	KE	Africa/Nairobi	-1.3217	36.8148	m
+WIN	Winton	AU	Australia/Brisbane	-22.3636	143.086	m
+WJR	Wajir	KE	Africa/Nairobi	1.7332	40.0916	m
+WJU	Wonju	KR	Asia/Seoul	37.4371	127.9601	m
+WKA	Wanaka	NZ	Pacific/Auckland	-44.7221	169.2463	m
+WKJ	Wakkanai	JP	Asia/Tokyo	45.4042	141.801	m
+WLG	Wellington	NZ	Pacific/Auckland	-41.3268	174.8069	l
+WLH	Walaha	VU	Pacific/Efate	-15.412	167.691	s
+WLK	Selawik	US	America/Anchorage	66.6001	-159.986	s
+WLS	Wallis Island	WF	Pacific/Wallis	-13.2394	-176.1986	l
+WMI	Warsaw	PL	Europe/Warsaw	52.4511	20.6518	l
+WMN	Maroantsetra	MG	Indian/Antananarivo	-15.4377	49.6891	m
+WMO	White Mountain	US	America/Nome	64.6892	-163.413	s
+WMT	Zunyi	CN	Asia/Shanghai	27.9618	106.4354	m
+WMX	Wamena-Papua Island	ID	Asia/Jayapura	-4.0973	138.9524	m
+WNA	Napakiak	US	America/Anchorage	60.6903	-161.979	s
+WNN	Wunnumin Lake	CA	America/Winnipeg	52.8939	-89.2892	s
+WNP	Naga	PH	Asia/Manila	13.5849	123.27	m
+WNR	Windorah	AU	Australia/Brisbane	-25.4106	142.6684	m
+WNS	Nawabash	PK	Asia/Karachi	26.2194	68.3901	m
+WNZ	Wenzhou	CN	Asia/Shanghai	27.9106	120.8535	l
+WRE	Whangarei	NZ	Pacific/Auckland	-35.7693	174.3637	m
+WRG	Wrangell	US	America/Sitka	56.4843	-132.37	m
+WRO	Wroclaw	PL	Europe/Warsaw	51.1037	16.8821	l
+WRY	Westray	GB	Europe/London	59.3505	-2.9501	s
+WSK	Wushan	CN	Asia/Shanghai	31.069	109.709	s
+WSN	South Naknek	US	America/Anchorage	58.7024	-157.0054	s
+WST	Westerly	US	America/New_York	41.3496	-71.8034	m
+WSZ	Westport	NZ	Pacific/Auckland	-41.7371	171.579	m
+WTA	Tambohorano	MG	Indian/Antananarivo	-17.4761	43.9728	s
+WTB	Wellcamp	AU	Australia/Brisbane	-27.5583	151.7933	l
+WTK	Noatak	US	America/Nome	67.5612	-162.9805	s
+WUA	Wuhai	CN	Asia/Shanghai	39.7934	106.7993	m
+WUH	Wuhan	CN	Asia/Shanghai	30.7748	114.2137	l
+WUN	Wiluna	AU	Australia/Perth	-26.6327	120.2219	m
+WUS	Wuyishan	CN	Asia/Shanghai	27.7019	118.001	m
+WUU	Wau	SS	Africa/Juba	7.7258	27.975	m
+WUX	Wuxi	CN	Asia/Shanghai	31.497	120.4304	l
+WUZ	Wuzhou	CN	Asia/Shanghai	23.4032	111.0933	m
+WVB	Walvis Bay	NA	Africa/Windhoek	-22.9793	14.6471	l
+WWK	Wewak	PG	Pacific/Port_Moresby	-3.5838	143.669	m
+WWT	Newtok	US	America/Nome	60.8104	-164.4995	s
+WXN	Wanxian	CN	Asia/Shanghai	30.8017	108.433	s
+WYA	Whyalla	AU	Australia/Adelaide	-33.0589	137.514	m
+WYS	West Yellowstone	US	America/Denver	44.6884	-111.118	m
+XAI	Xinyang	CN	Asia/Shanghai	32.5408	114.0791	m
+XAP	Chapeco	BR	America/Sao_Paulo	-27.1342	-52.6566	m
+XBE	Bearskin Lake	CA	America/Winnipeg	53.9656	-91.0272	s
+XBJ	Birjand	IR	Asia/Tehran	32.8965	59.2813	l
+XCH	Christmas Island	CX	Indian/Christmas	-10.4504	105.6911	m
+XCR	Chalons/Vatry	FR	Europe/Paris	48.7733	4.2061	m
+XFN	Xiangfan	CN	Asia/Shanghai	32.1522	112.2917	m
+XGR	Kangiqsualujjuaq	CA	America/Toronto	58.7114	-65.9928	s
+XIC	Xichang	CN	Asia/Shanghai	27.9891	102.184	m
+XIL	Xilinhot	CN	Asia/Shanghai	43.9156	115.964	m
+XIY	Xianyang	CN	Asia/Shanghai	34.4422	108.7624	l
+XKH	Xieng Khouang	LA	Asia/Vientiane	19.45	103.158	s
+XKS	Kasabonika	CA	America/Winnipeg	53.5247	-88.6428	m
+XLB	Lac Brochet	CA	America/Winnipeg	58.6143	-101.469	s
+XMH	Manihi Airport	PF	Pacific/Tahiti	-14.4368	-146.07	m
+XMN	Xiamen	CN	Asia/Shanghai	24.5439	118.1275	l
+XMS	Macas	EC	America/Guayaquil	-2.2992	-78.1208	m
+XMY	Yam Island	AU	Australia/Brisbane	-9.8992	142.7743	s
+XNA	Fayetteville/Springdale/	US	America/Chicago	36.2819	-94.3068	m
+XNN	Xining	CN	Asia/Shanghai	36.5277	102.0402	l
+XPK	Pukatawagan	CA	America/Winnipeg	55.7492	-101.266	s
+XPL	Comayagua	HN	America/Tegucigalpa	14.3824	-87.6212	l
+XQP	Quepos	CR	America/Costa_Rica	9.4432	-84.1298	m
+XQU	Qualicum Beach	CA	America/Vancouver	49.3375	-124.3931	m
+XRY	Jerez de la Forntera	ES	Europe/Madrid	36.7446	-6.0601	m
+XSC	South Caicos	TC	America/Grand_Turk	21.5157	-71.5285	m
+XSI	South Indian Lake	CA	America/Winnipeg	56.7928	-98.9072	s
+XSP	Seletar	SG	Asia/Kuala_Lumpur	1.4156	103.8667	m
+XTG	Thargomindah	AU	Australia/Brisbane	-27.9864	143.8121	m
+XTL	Tadoule Lake	CA	America/Winnipeg	58.7063	-98.5111	s
+XUZ	Xuzhou	CN	Asia/Shanghai	34.0591	117.5553	m
+XWA	Williston	US	America/Chicago	48.2609	-103.7512	m
+XYA	Yandina	SB	Pacific/Guadalcanal	-9.0928	159.2184	s
+YAA	Anahim Lake	CA	America/Vancouver	52.4515	-125.3038	m
+YAB	Arctic Bay	CA	America/Rankin_Inlet	73.0061	-85.0462	s
+YAC	Cat Lake	CA	America/Winnipeg	51.7272	-91.8244	s
+YAG	Fort Frances	CA	America/Winnipeg	48.6557	-93.4435	m
+YAK	Yakutat	US	America/Yakutat	59.5087	-139.6604	m
+YAL	Alert Bay	CA	America/Vancouver	50.5822	-126.916	s
+YAM	Sault Ste Marie	CA	America/Detroit	46.4832	-84.5085	m
+YAP	Yap Island	FM	Pacific/Chuuk	9.4989	138.083	l
+YAS	Yasawa Island	FJ	Pacific/Fiji	-16.7589	177.545	s
+YAT	Attawapiskat	CA	America/Toronto	52.9275	-82.4319	s
+YAX	Angling Lake	CA	America/Winnipeg	53.8492	-89.5794	s
+YAY	St. Anthony	CA	America/St_Johns	51.3919	-56.0832	m
+YAZ	Tofino	CA	America/Vancouver	49.0798	-125.7756	m
+YBB	Kugaaruk	CA	America/Cambridge_Bay	68.5357	-89.8055	s
+YBC	Baie-Comeau	CA	America/Toronto	49.1325	-68.2044	m
+YBE	Uranium City	CA	America/Swift_Current	59.5614	-108.481	s
+YBG	Bagotville	CA	America/Toronto	48.3301	-70.992	m
+YBI	Black Tickle	CA	America/St_Johns	53.4698	-55.7875	s
+YBK	Baker Lake	CA	America/Rankin_Inlet	64.2989	-96.0778	m
+YBL	Campbell River	CA	America/Vancouver	49.9508	-125.271	m
+YBP	Yibin	CN	Asia/Shanghai	28.8584	104.5262	m
+YBR	Brandon	CA	America/Winnipeg	49.91	-99.9519	m
+YBT	Brochet	CA	America/Winnipeg	57.8894	-101.679	s
+YBV	Berens River	CA	America/Winnipeg	52.3589	-97.0183	s
+YBX	Lourdes-De-Blanc-Sablon	CA	America/Blanc-Sablon	51.4436	-57.1853	m
+YBY	Bonnyville	CA	America/Edmonton	54.3042	-110.744	m
+YCB	Cambridge Bay	CA	America/Cambridge_Bay	69.1081	-105.138	m
+YCD	Nanaimo	CA	America/Vancouver	49.055	-123.8699	m
+YCG	Castlegar	CA	America/Vancouver	49.2964	-117.632	m
+YCK	Colville Lake	CA	America/Inuvik	67.0202	-126.1284	s
+YCM	St Catharines	CA	America/Toronto	43.1916	-79.1717	m
+YCO	Kugluktuk	CA	America/Cambridge_Bay	67.8164	-115.1431	s
+YCR	Cross Lake	CA	America/Winnipeg	54.6098	-97.7624	s
+YCS	Chesterfield Inlet	CA	America/Rankin_Inlet	63.3469	-90.7311	s
+YCU	Yuncheng	CN	Asia/Shanghai	35.1178	111.034	l
+YCY	Clyde River	CA	America/Iqaluit	70.4861	-68.5167	s
+YDA	Dawson City	CA	America/Dawson	64.0431	-139.128	m
+YDF	Deer Lake	CA	America/St_Johns	49.2082	-57.3961	m
+YDL	Dease Lake	CA	America/Vancouver	58.4222	-130.032	s
+YDN	Dauphin	CA	America/Winnipeg	51.1008	-100.052	m
+YDP	Nain	CA	America/Goose_Bay	56.5508	-61.6822	s
+YDV	Bloodvein River	CA	America/Winnipeg	51.7846	-96.6923	s
+YEG	Edmonton	CA	America/Edmonton	53.3097	-113.58	l
+YEI	Bursa	TR	Europe/Istanbul	40.2552	29.5626	m
+YEK	Arviat	CA	America/Rankin_Inlet	61.0942	-94.0708	s
+YER	Fort Severn	CA	America/Toronto	56.0189	-87.6761	s
+YEV	Inuvik	CA	America/Inuvik	68.3042	-133.483	m
+YFA	Fort Albany	CA	America/Toronto	52.2035	-81.6952	s
+YFB	Iqaluit	CA	America/Iqaluit	63.7564	-68.5558	m
+YFC	Fredericton	CA	America/Moncton	45.8687	-66.5299	m
+YFH	Fort Hope	CA	America/Toronto	51.5619	-87.9078	s
+YFJ	Wekweeti	CA	America/Edmonton	64.1908	-114.077	s
+YFO	Flin Flon	CA	America/Winnipeg	54.6781	-101.682	s
+YFS	Fort Simpson	CA	America/Inuvik	61.7602	-121.237	m
+YFX	St. Lewis	CA	America/St_Johns	52.3728	-55.6739	s
+YGH	Fort Good Hope	CA	America/Inuvik	66.2407	-128.6478	s
+YGJ	Yonago	JP	Asia/Tokyo	35.4922	133.236	m
+YGL	La Grande Riviere	CA	America/Toronto	53.6253	-77.7042	m
+YGO	Gods Lake Narrows	CA	America/Winnipeg	54.5577	-94.4901	s
+YGP	Gaspe	CA	America/Toronto	48.7749	-64.4819	m
+YGR	Iles-de-la-Madeleine	CA	America/Halifax	47.4252	-61.7786	m
+YGT	Igloolik	CA	America/Iqaluit	69.3647	-81.8161	s
+YGV	Havre St-Pierre	CA	America/Toronto	50.2819	-63.6114	m
+YGW	Kuujjuarapik	CA	America/Iqaluit	55.2819	-77.7653	m
+YGX	Gillam	CA	America/Winnipeg	56.3571	-94.7115	s
+YGZ	Grise Fiord	CA	America/Iqaluit	76.4258	-82.9086	s
+YHA	Port Hope Simpson	CA	America/St_Johns	52.5281	-56.2861	s
+YHG	Charlottetown	CA	America/St_Johns	52.7658	-56.1124	s
+YHI	Ulukhaktok	CA	America/Edmonton	70.7628	-117.806	s
+YHK	Gjoa Haven	CA	America/Cambridge_Bay	68.6356	-95.8497	s
+YHM	Hamilton	CA	America/Toronto	43.1713	-79.9294	l
+YHO	Hopedale	CA	America/Goose_Bay	55.4488	-60.2281	s
+YHP	Poplar Hill	CA	America/Winnipeg	52.1133	-94.2556	s
+YHR	Chevery	CA	America/Blanc-Sablon	50.4683	-59.6378	s
+YHU	Montreal	CA	America/Toronto	45.5175	-73.4169	m
+YHY	Hay River	CA	America/Edmonton	60.8397	-115.783	m
+YHZ	Halifax	CA	America/Halifax	44.8808	-63.5086	l
+YIA	Yogyakarta	ID	Asia/Jakarta	-7.9053	110.0573	l
+YIE	Arxan	CN	Asia/Shanghai	47.3106	119.9117	m
+YIF	St-Augustin	CA	America/Blanc-Sablon	51.2117	-58.6583	m
+YIH	Yichang	CN	Asia/Shanghai	30.5541	111.4826	m
+YIK	Ivujivik	CA	America/Iqaluit	62.4173	-77.9253	s
+YIN	Yining	CN	Asia/Shanghai	43.9558	81.3303	m
+YIO	Pond Inlet	CA	America/Iqaluit	72.6895	-77.9689	s
+YIV	Island Lake	CA	America/Winnipeg	53.8572	-94.6536	m
+YIW	Yiwu	CN	Asia/Shanghai	29.3421	120.0312	l
+YKA	Kamloops	CA	America/Vancouver	50.703	-120.4486	m
+YKF	Kitchener	CA	America/Toronto	43.4608	-80.3786	m
+YKG	Kangirsuk	CA	America/Toronto	60.0272	-69.9992	s
+YKH	Yingkou	CN	Asia/Shanghai	40.5425	122.3586	m
+YKL	Schefferville	CA	America/Toronto	54.8053	-66.8053	m
+YKM	Yakima	US	America/Los_Angeles	46.5682	-120.544	m
+YKO	Yuksekova	TR	Europe/Istanbul	37.5497	44.2381	m
+YKQ	Waskaganish	CA	America/Iqaluit	51.4733	-78.7583	s
+YKS	Yakutsk	RU	Asia/Yakutsk	62.0933	129.771	l
+YKU	Chisasibi	CA	America/Toronto	53.8056	-78.9169	s
+YLC	Kimmirut	CA	America/Iqaluit	62.8483	-69.8779	s
+YLE	Whati	CA	America/Edmonton	63.1317	-117.246	s
+YLH	Lansdowne House	CA	America/Toronto	52.1956	-87.9342	s
+YLK	Barrie-Orillia	CA	America/Toronto	44.4851	-79.5547	m
+YLL	Lloydminster	CA	America/Edmonton	53.3092	-110.073	m
+YLW	Kelowna	CA	America/Vancouver	49.9561	-119.378	l
+YLX	Yulin	CN	Asia/Shanghai	22.433	110.12	m
+YMH	Mary's Harbour	CA	America/St_Johns	52.3028	-55.8474	s
+YMM	Fort McMurray	CA	America/Edmonton	56.6533	-111.222	m
+YMN	Makkovik	CA	America/Goose_Bay	55.0773	-59.1879	s
+YMO	Moosonee	CA	America/Toronto	51.2911	-80.6078	m
+YMP	Port Mcneill	CA	America/Vancouver	50.5735	-127.0277	s
+YMS	Yurimaguas	PE	America/Lima	-5.8938	-76.1182	m
+YMT	Chibougamau	CA	America/Toronto	49.7719	-74.5281	m
+YMX	Montreal	CA	America/Toronto	45.6795	-74.0387	m
+YNA	Natashquan	CA	America/Blanc-Sablon	50.1901	-61.789	m
+YNB	Yanbu	SA	Asia/Riyadh	24.1442	38.0634	l
+YNC	Wemindji	CA	America/Iqaluit	53.0106	-78.8311	s
+YND	Gatineau	CA	America/Toronto	45.5217	-75.5636	m
+YNE	Norway House	CA	America/Winnipeg	53.9583	-97.8442	s
+YNJ	Yanji	CN	Asia/Shanghai	42.8828	129.451	m
+YNL	Points North Landing	CA	America/Regina	58.2767	-104.082	m
+YNO	North Spirit Lake	CA	America/Winnipeg	52.49	-92.9711	s
+YNP	Natuashish	CA	America/Goose_Bay	55.9139	-61.1844	s
+YNS	Nemiscau	CA	America/Toronto	51.6911	-76.1356	s
+YNT	Yantai	CN	Asia/Shanghai	37.6597	120.9781	l
+YNY	Sokcho / Gangneung	KR	Asia/Seoul	38.0605	128.6698	l
+YNZ	Yancheng	CN	Asia/Shanghai	33.4283	120.2054	l
+YOC	Old Crow	CA	America/Dawson	67.5706	-139.839	s
+YOG	Ogoki Post	CA	America/Toronto	51.6586	-85.9017	s
+YOH	Oxford House	CA	America/Winnipeg	54.9333	-95.2789	s
+YOJ	High Level	CA	America/Edmonton	58.6214	-117.165	m
+YOL	Yola	NG	Africa/Lagos	9.2576	12.4304	m
+YOW	Ottawa	CA	America/Toronto	45.3225	-75.6692	l
+YPA	Prince Albert	CA	America/Regina	53.2142	-105.673	m
+YPC	Paulatuk	CA	America/Inuvik	69.3608	-124.0755	s
+YPE	Peace River	CA	America/Edmonton	56.2269	-117.447	m
+YPH	Inukjuak	CA	America/Toronto	58.4719	-78.0769	s
+YPJ	Aupaluk	CA	America/Toronto	59.2967	-69.5997	s
+YPL	Pickle Lake	CA	America/Atikokan	51.4464	-90.2142	m
+YPM	Pikangikum	CA	America/Winnipeg	51.8197	-93.9733	s
+YPN	Port-Menier	CA	America/Toronto	49.8364	-64.2886	m
+YPO	Peawanuck	CA	America/Toronto	54.9879	-85.4426	s
+YPQ	Peterborough	CA	America/Toronto	44.2323	-78.3621	m
+YPR	Prince Rupert	CA	America/Vancouver	54.2861	-130.445	m
+YPW	Powell River	CA	America/Vancouver	49.8342	-124.5	m
+YPX	Puvirnituq	CA	America/Iqaluit	60.0506	-77.2869	m
+YPY	Fort Chipewyan	CA	America/Edmonton	58.7672	-111.117	m
+YPZ	Burns Lake	CA	America/Vancouver	54.3764	-125.951	m
+YQA	Muskoka	CA	America/Toronto	44.9754	-79.3065	m
+YQB	Quebec	CA	America/Toronto	46.7911	-71.3933	l
+YQC	Quaqtaq	CA	America/Iqaluit	61.0464	-69.6178	s
+YQD	The Pas	CA	America/Winnipeg	53.9714	-101.091	m
+YQG	Windsor	CA	America/Toronto	42.2756	-82.9556	l
+YQH	Watson Lake	CA	America/Whitehorse	60.1168	-128.822	m
+YQK	Kenora	CA	America/Winnipeg	49.7883	-94.3631	m
+YQL	Lethbridge	CA	America/Edmonton	49.6303	-112.8	m
+YQM	Moncton	CA	America/Moncton	46.1132	-64.6772	m
+YQN	Nakina	CA	America/Toronto	50.1828	-86.6964	m
+YQQ	Comox	CA	America/Vancouver	49.7108	-124.887	m
+YQR	Regina	CA	America/Regina	50.4319	-104.6609	m
+YQT	Thunder Bay	CA	America/Toronto	48.3719	-89.3239	m
+YQU	Grande Prairie	CA	America/Edmonton	55.1797	-118.885	m
+YQX	Gander	CA	America/St_Johns	48.9363	-54.5677	m
+YQY	Sydney	CA	America/Glace_Bay	46.1611	-60.0498	m
+YQZ	Quesnel	CA	America/Vancouver	53.0261	-122.51	m
+YRA	Gameti	CA	America/Edmonton	64.1161	-117.31	s
+YRB	Resolute Bay	CA	America/Resolute	74.7169	-94.9694	m
+YRF	Cartwright	CA	America/Goose_Bay	53.6825	-57.0423	s
+YRG	Rigolet	CA	America/Goose_Bay	54.1797	-58.4575	s
+YRJ	Roberval	CA	America/Toronto	48.5197	-72.2657	m
+YRL	Red Lake	CA	America/Winnipeg	51.0669	-93.7931	m
+YRO	Ottawa	CA	America/Toronto	45.4605	-75.644	m
+YRS	Red Sucker Lake	CA	America/Winnipeg	54.1672	-93.5572	s
+YRT	Rankin Inlet	CA	America/Rankin_Inlet	62.8114	-92.1158	m
+YSB	Sudbury	CA	America/Toronto	46.625	-80.7989	m
+YSF	Stony Rapids	CA	America/Regina	59.2503	-105.841	m
+YSG	Lutselk'e	CA	America/Edmonton	62.4178	-110.6828	s
+YSJ	Saint John	CA	America/Moncton	45.3161	-65.8903	m
+YSK	Sanikiluaq	CA	America/Iqaluit	56.5369	-79.2502	s
+YSM	Fort Smith	CA	America/Edmonton	60.0203	-111.962	m
+YSO	Postville	CA	America/Goose_Bay	54.9105	-59.7851	s
+YSQ	Songyuan	CN	Asia/Shanghai	44.9311	124.5521	m
+YST	St. Theresa Point	CA	America/Winnipeg	53.8453	-94.852	s
+YSY	Sachs Harbour	CA	America/Inuvik	71.9939	-125.243	s
+YTE	Cape Dorset	CA	America/Iqaluit	64.23	-76.5267	s
+YTH	Thompson	CA	America/Winnipeg	55.8011	-97.8642	m
+YTL	Big Trout Lake	CA	America/Winnipeg	53.8178	-89.8969	s
+YTQ	Tasiujaq	CA	America/Toronto	58.6678	-69.9558	s
+YTS	Timmins	CA	America/Toronto	48.5697	-81.3767	m
+YTW	Yutian	CN	Asia/Shanghai	36.8085	81.7827	s
+YTY	Yangzhou	CN	Asia/Shanghai	32.5634	119.7198	m
+YTZ	Toronto	CA	America/Toronto	43.6279	-79.3955	m
+YUD	Umiujaq	CA	America/Iqaluit	56.5361	-76.5183	s
+YUL	Montreal	CA	America/Toronto	45.4678	-73.7423	l
+YUM	Yuma	US	America/Phoenix	32.6509	-114.6094	m
+YUS	Yushu	CN	Asia/Shanghai	32.8364	97.0364	m
+YUT	Repulse Bay	CA	America/Rankin_Inlet	66.521	-86.2252	s
+YUX	Hall Beach	CA	America/Iqaluit	68.7761	-81.2425	m
+YUY	Rouyn-Noranda	CA	America/Toronto	48.2061	-78.8356	m
+YVB	Bonaventure	CA	America/Toronto	48.0711	-65.4603	m
+YVC	La Ronge	CA	America/Regina	55.1514	-105.262	m
+YVM	Qikiqtarjuaq	CA	America/Iqaluit	67.5466	-64.0314	s
+YVO	Val-d'Or	CA	America/Toronto	48.0533	-77.7828	m
+YVP	Kuujjuaq	CA	America/Toronto	58.0961	-68.4269	m
+YVQ	Norman Wells	CA	America/Inuvik	65.2816	-126.798	m
+YVR	Vancouver	CA	America/Vancouver	49.1939	-123.184	l
+YVV	Wiarton	CA	America/Toronto	44.7458	-81.1072	m
+YVZ	Deer Lake	CA	America/Winnipeg	52.6556	-94.0612	s
+YWB	Kangiqsujuaq	CA	America/Toronto	61.5886	-71.9294	s
+YWG	Winnipeg	CA	America/Winnipeg	49.91	-97.2399	l
+YWJ	Deline	CA	America/Inuvik	65.2111	-123.436	s
+YWK	Wabush	CA	America/Goose_Bay	52.9219	-66.8644	m
+YWL	Williams Lake	CA	America/Vancouver	52.1831	-122.054	m
+YWM	Williams Harbour	CA	America/St_Johns	52.5674	-55.7849	s
+YWP	Webequie	CA	America/Toronto	52.9594	-87.3749	s
+YXC	Cranbrook	CA	America/Edmonton	49.6108	-115.782	m
+YXE	Saskatoon	CA	America/Regina	52.1707	-106.7008	l
+YXH	Medicine Hat	CA	America/Edmonton	50.0189	-110.721	m
+YXJ	Fort St.John	CA	America/Dawson_Creek	56.2381	-120.74	m
+YXL	Sioux Lookout	CA	America/Winnipeg	50.1139	-91.9053	m
+YXN	Whale Cove	CA	America/Rankin_Inlet	62.24	-92.5981	s
+YXP	Pangnirtung	CA	America/Iqaluit	66.1449	-65.7136	s
+YXS	Prince George	CA	America/Vancouver	53.8843	-122.6666	m
+YXT	Terrace	CA	America/Vancouver	54.4685	-128.576	m
+YXU	London	CA	America/Toronto	43.0328	-81.149	m
+YXX	Abbotsford	CA	America/Los_Angeles	49.0253	-122.361	m
+YXY	Whitehorse	CA	America/Whitehorse	60.7085	-135.0657	m
+YYA	Yueyang	CN	Asia/Shanghai	29.3117	113.2816	m
+YYB	North Bay	CA	America/Toronto	46.3636	-79.4228	m
+YYC	Calgary	CA	America/Edmonton	51.1188	-114.0099	l
+YYD	Smithers	CA	America/Vancouver	54.8247	-127.183	m
+YYE	Fort Nelson	CA	America/Fort_Nelson	58.8364	-122.597	m
+YYF	Penticton	CA	America/Vancouver	49.4631	-119.602	m
+YYG	Charlottetown	CA	America/Halifax	46.2889	-63.1252	m
+YYH	Taloyoak	CA	America/Cambridge_Bay	69.5467	-93.5767	s
+YYJ	Victoria	CA	America/Vancouver	48.6472	-123.4278	l
+YYL	Lynn Lake	CA	America/Winnipeg	56.8639	-101.076	m
+YYQ	Churchill	CA	America/Winnipeg	58.7392	-94.065	m
+YYR	Goose Bay	CA	America/Goose_Bay	53.3192	-60.4258	m
+YYT	St. John's	CA	America/St_Johns	47.6186	-52.7519	l
+YYY	Mont-Joli	CA	America/Toronto	48.6086	-68.2081	m
+YYZ	Toronto	CA	America/Toronto	43.6759	-79.6294	l
+YZF	Yellowknife	CA	America/Edmonton	62.4628	-114.44	m
+YZG	Salluit	CA	America/Toronto	62.1794	-75.6672	s
+YZP	Sandspit	CA	America/Vancouver	53.2543	-131.814	m
+YZS	Coral Harbour	CA	America/Atikokan	64.1933	-83.3594	m
+YZT	Port Hardy	CA	America/Vancouver	50.6806	-127.367	m
+YZU	Whitecourt	CA	America/Edmonton	54.1439	-115.787	m
+YZV	Sept-Iles	CA	America/Toronto	50.2233	-66.2656	m
+YZY	Mackenzie	CN	America/Vancouver	38.8019	100.675	m
+YZZ	Trail	CA	America/Vancouver	49.0556	-117.609	s
+ZAD	Zadar	HR	Europe/Zagreb	44.097	15.3536	l
+ZAG	Zagreb	HR	Europe/Zagreb	45.7429	16.0688	l
+ZAH	Zahedan	IR	Asia/Tehran	29.4757	60.9062	l
+ZAL	Valdivia	CL	America/Santiago	-39.65	-73.0861	m
+ZAM	Zamboanga City	PH	Asia/Manila	6.9224	122.06	l
+ZAT	Zhaotong	CN	Asia/Shanghai	27.2058	103.6915	m
+ZAZ	Zaragoza	ES	Europe/Madrid	41.6662	-1.0415	l
+ZBF	Bathurst	CA	America/Moncton	47.6297	-65.7389	m
+ZBR	Chabahar	IR	Asia/Tehran	25.4432	60.3822	m
+ZCL	Zacatecas	MX	America/Mexico_City	22.8949	-102.6872	m
+ZCO	Temuco	CL	America/Santiago	-38.9259	-72.6515	l
+ZEL	Bella Bella	CA	America/Vancouver	52.185	-128.157	m
+ZEM	Eastmain River	CA	America/Iqaluit	52.2264	-78.5225	s
+ZFD	Fond-Du-Lac	CA	America/Swift_Current	59.3344	-107.182	s
+ZFL	Zhaosu	CN	Asia/Shanghai	43.0885	81.223	s
+ZFM	Fort Mcpherson	CA	America/Inuvik	67.407	-134.8602	s
+ZFN	Tulita	CA	America/Inuvik	64.9095	-125.5703	s
+ZGI	Gods River	CA	America/Winnipeg	54.8397	-94.0786	s
+ZGS	La Romaine	CA	America/Blanc-Sablon	50.2596	-60.6744	s
+ZHA	Zhanjiang	CN	Asia/Shanghai	21.4817	110.5903	l
+ZHY	Zhongwei	CN	Asia/Shanghai	37.5731	105.1545	m
+ZIA	Zhukovsky	RU	Europe/Moscow	55.5533	38.15	l
+ZIG	Ziguinchor	SN	Africa/Dakar	12.5556	-16.2833	m
+ZIH	Ixtapa	MX	America/Mexico_City	17.6018	-101.4606	l
+ZIX	Zhigansk	RU	Asia/Yakutsk	66.7965	123.361	m
+ZKE	Kashechewan	CA	America/Toronto	52.2825	-81.6778	s
+ZKP	Zyryanka	RU	Asia/Srednekolymsk	65.7485	150.8889	m
+ZLO	Manzanillo	MX	America/Mexico_City	19.1448	-104.559	m
+ZLT	La Tabatiere	CA	America/Blanc-Sablon	50.8308	-58.9756	s
+ZMT	Masset	CA	America/Vancouver	54.0275	-132.125	m
+ZND	Zinder	NE	Africa/Niamey	13.779	8.9838	m
+ZNE	Newman	AU	Australia/Perth	-23.4178	119.803	m
+ZNZ	Kiembi Samaki	TZ	Africa/Dar_es_Salaam	-6.222	39.2249	l
+ZOS	Osorno	CL	America/Santiago	-40.6112	-73.061	m
+ZPB	Sachigo Lake	CA	America/Winnipeg	53.8909	-92.1959	s
+ZPC	Pucon	CL	America/Santiago	-39.2928	-71.9159	s
+ZQN	Queenstown	NZ	Pacific/Auckland	-45.0192	168.7464	l
+ZRH	Zurich	CH	Europe/Zurich	47.4581	8.5481	l
+ZRJ	Round Lake	CA	America/Winnipeg	52.9436	-91.3128	s
+ZSA	San Salvador	BS	America/Nassau	24.063	-74.5232	l
+ZSE	St Pierre	RE	Indian/Reunion	-21.3194	55.4225	l
+ZSJ	Sandy Lake	CA	America/Winnipeg	53.0642	-93.3444	m
+ZTB	Tete-a-la-Baleine	CA	America/Blanc-Sablon	50.6744	-59.3836	s
+ZTH	Zakynthos Island	GR	Europe/Athens	37.7509	20.8843	m
+ZTM	Shamattawa	CA	America/Winnipeg	55.8636	-92.0811	s
+ZUH	Zhuhai	CN	Asia/Shanghai	22.0064	113.376	l
+ZUM	Churchill Falls	CA	America/Goose_Bay	53.5619	-64.1064	s
+ZWL	Wollaston Lake	CA	America/Regina	58.1069	-103.172	s
+ZYI	Zunyi	CN	Asia/Shanghai	27.8107	107.2472	m
+ZYL	Sylhet	BD	Asia/Dhaka	24.964	91.8647	l

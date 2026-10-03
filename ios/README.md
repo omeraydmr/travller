@@ -1,4 +1,4 @@
-# Traveller · iOS
+# Stubly · iOS
 
 SwiftUI, iOS 17+. Türkiye'den yurt dışına giden gruplar için ilk sürüm.
 
@@ -8,19 +8,34 @@ SwiftUI, iOS 17+. Türkiye'den yurt dışına giden gruplar için ilk sürüm.
 brew install xcodegen
 cd ios
 xcodegen generate
-open Traveller.xcodeproj
+open Stubly.xcodeproj
 ```
 
-`Traveller.xcodeproj` üretilen bir dosyadır ve repoya eklenmez; yapı `project.yml` içinde tanımlıdır.
+`Stubly.xcodeproj` üretilen bir dosyadır ve repoya eklenmez; yapı `project.yml` içinde tanımlıdır.
 Yeni dosya eklediğinde `xcodegen generate` komutunu tekrar çalıştır.
+
+Debug derlemeleri staging sunucusuna, Release derlemeleri production sunucusuna bağlanır
+(`Config/Debug.xcconfig`, `Config/Release.xcconfig`; anahtarlar `Config/Secrets.xcconfig`, git'e girmez).
+
+## Dağıtım (cihaza kurulum)
+
+```bash
+cd ios
+scripts/release.sh            # Release arşivi + kayıtlı cihazlara kurulabilir IPA → ios/dist/Stubly.ipa
+scripts/release.sh --install  # ayrıca bağlı iPhone'a kurar ve açar
+```
+
+IPA geliştirme imzasıyla çıkar (`Config/ExportOptions.plist`, `method: debugging`); yalnızca Apple Developer
+hesabında kayıtlı cihazlara kurulur. Yeni bir cihaz eklemek için cihazı Mac'e bağlayıp Xcode'da bir kez çalıştırmak
+yeterli; otomatik imzalama cihazı profile ekler.
 
 ## iCloud paylaşımı (CloudKit)
 
 Ekip paylaşımı ve eşitleme Apple'ın iCloud altyapısını kullanır; ayrı bir sunucu yoktur.
 Gerçek cihazda çalıştırmak için bir kez:
 
-1. Xcode → Traveller hedefi → *Signing & Capabilities* → kendi geliştirici ekibini seç.
-2. *iCloud* yeteneğinde **CloudKit** işaretli olmalı; konteyner `iCloud.app.traveller.ios`
+1. Xcode → Stubly hedefi → *Signing & Capabilities* → kendi geliştirici ekibini seç.
+2. *iCloud* yeteneğinde **CloudKit** işaretli olmalı; konteyner `iCloud.com.omeraydemir.stubly`
    (farklı bir kimlik kullanırsan `CloudConfig.containerIdentifier` ve `project.yml`'i güncelle).
 3. İlk çalıştırmada CloudKit geliştirme şeması kendiliğinden oluşur (`Trip` kaydı: `payload`, `name`, `updatedAt`).
    Yayından önce CloudKit Console'da şemayı **Production**'a taşı.
@@ -46,38 +61,26 @@ Profil > "Tanıtımı ve anketi yeniden göster" ile tekrar açılır.
 
 ## Canlı uçuş kartı (Live Activity)
 
-`TravellerWidgets` uzantısı (`Widgets/`) kilit ekranı ve Dynamic Island görünümünü çizer; ortak
-`FlightActivityAttributes` tipi `Shared/` klasöründedir. Uzantının paket kimliği `app.traveller.ios.widgets`;
-imzalarken uygulamayla aynı ekibi seç. Kart push'suz, uygulama içinden ve arka plan yenilemesiyle güncellenir.
+`StublyWidgets` uzantısı (`Widgets/`) kilit ekranı ve Dynamic Island görünümünü çizer; ortak
+`FlightActivityAttributes` tipi `Shared/` klasöründedir. Uzantının paket kimliği `com.omeraydemir.stubly.widgets`;
+imzalarken uygulamayla aynı ekibi seç. Kart push'suz, planlanmış saatlerle uygulama içinden güncellenir; güncel kapı ve rötar için havayolunun uygulaması kullanılır.
 
 Aynı uzantıda ana ekran widget'ı (`TripCountdownWidget`) da var. Uygulama özeti App Group klasörüne
-(`group.app.traveller.ios`) yazar, widget oradan okur; iki hedefte de *App Groups* yeteneği açık olmalı.
-
-## Uçuş durumu (rötar, kapı)
-
-[AeroDataBox](https://rapidapi.com/aedbx-aedbx/api/aerodatabox) üzerinden alınır. RapidAPI'den bir anahtar al ve
-`ios/Config/Secrets.xcconfig` dosyasına yaz (git'e girmez):
-
-```
-FLIGHT_STATUS_API_KEY = anahtarın
-```
-
-Anahtar yoksa servis kapalıdır, uygulama elle girilen kapı/saatle çalışır. Arka plan yenilemesi
-`app.traveller.ios.flightstatus` görevidir (`BGTaskSchedulerPermittedIdentifiers`).
+(`group.com.omeraydemir.stubly`) yazar, widget oradan okur; iki hedefte de *App Groups* yeteneği açık olmalı.
 
 ## Bağlantılar
 
-`traveller://trip/<seyahat-id>?section=money` biçimindeki adres ilgili seyahatin sekmesini açar
+`stubly://trip/<seyahat-id>?section=money` biçimindeki adres ilgili seyahatin sekmesini açar
 (`plan`, `money`, `packing`, `visa`, `crew`). Bildirimler aynı bilgiyi `userInfo` içinde taşır.
 
-`Support/Info.plist` ve `Support/Traveller.entitlements` `xcodegen generate` ile üretilir.
+`Support/Info.plist` ve `Support/Stubly.entitlements` `xcodegen generate` ile üretilir.
 
 ## Yapı
 
 ```
 ios/
 ├── project.yml                 XcodeGen proje tanımı
-├── Packages/TravellerKit       Saf Swift domain katmanı (UI yok, testli)
+├── Packages/StublyKit       Saf Swift domain katmanı (UI yok, testli)
 │   ├── Models                  Trip, Member, Stop, Expense, PackingItem…
 │   ├── Settlement              Masraf bölme + borç sadeleştirme
 │   ├── Budget                  Kategori bütçesi ve harcama temposu
@@ -85,7 +88,7 @@ ios/
 │   ├── Packing                 Kural tabanlı valiz önerileri (priz tipi vb.)
 │   ├── Geo                     Mesafe, yürüme süresi, rota sıralama
 │   └── MoneyParser, TurkishGrammar, Countdown
-└── Traveller                   Uygulama
+└── Stubly                   Uygulama
     ├── DesignSystem            Kartpostal token'ları ve bileşenleri
     ├── Store                   TripStore (cihazda JSON)
     └── Features                Trips, TripDetail, Plan, Money, Packing, Visa, Crew
@@ -93,17 +96,17 @@ ios/
 
 ## Diller
 
-Kaynak dil Türkçe, ikinci dil İngilizce. Arayüz metinleri `Traveller/Resources/Localizable.xcstrings` ve
+Kaynak dil Türkçe, ikinci dil İngilizce. Arayüz metinleri `Stubly/Resources/Localizable.xcstrings` ve
 `Widgets/Localizable.xcstrings` String Catalog'larında. Yeni metin eklerken SwiftUI'da doğrudan `Text("…")`
 kullan; `String` dönen yerlerde `String(localized: "…")` yaz. Çeviriyi Xcode'da catalog üzerinden ya da
 `xcodebuild -exportLocalizations` / `-importLocalizations` ile ekle.
 
-TravellerKit'in ürettiği metinler (vize notları, valiz ve gidiş öncesi önerileri, bildirim metinleri) henüz yalnızca Türkçe.
+StublyKit'in ürettiği metinler (vize notları, valiz ve gidiş öncesi önerileri, bildirim metinleri) henüz yalnızca Türkçe.
 
 ## Test
 
 ```bash
-swift test --package-path ios/Packages/TravellerKit
+swift test --package-path ios/Packages/StublyKit
 ```
 
 CI (`.github/workflows/ios.yml`) her PR'da paket testlerini çalıştırır ve uygulamayı simülatör için derler.
